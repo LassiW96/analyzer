@@ -1,0 +1,27 @@
+<map id="THaG0Helicity::ReadDatabase" name="THaG0Helicity::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,224,157"/>
+<area shape="rect" id="Node000002" href="$classTHaHelicityDet.html#a560e1ec62c7b811faa2c072bc86c49c9" title=" " alt="" coords="272,5,505,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,130,192,90,271,48,316,32,317,37,273,52,194,94,135,134"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="965,78,1119,118"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,129,272,121,453,104,594,94,736,90,917,91,952,92,952,97,917,97,736,95,594,99,453,109,272,126,200,135"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="558,197,711,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,155,206,174,273,191,343,202,415,209,545,214,544,220,415,214,343,207,271,197,205,180,147,160"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="558,119,711,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="224,141,544,138,544,143,224,146"/>
+<area shape="rect" id="Node000009" href="$classTHaG0HelicityReader.html#a42e842600fdc36b4d94647277fe4face" title=" " alt="" coords="307,258,470,298"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="135,155,195,194,273,237,308,251,306,256,271,242,193,199,133,160"/>
+<area shape="rect" id="Node000011" href="$classTHaHelicityDet.html#a4ee114f4114d5f3d8bb098c15070be00" title=" " alt="" coords="277,157,501,183"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="224,152,263,156,263,161,224,157"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="764,170,917,210"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="712,156,752,165,750,171,711,161"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="764,106,917,146"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="712,132,750,129,751,134,712,137"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="965,170,1119,210"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="918,187,952,187,952,193,918,193"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="917,113,952,108,952,113,918,118"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="469,255,544,236,545,242,470,261"/>
+<area shape="rect" id="Node000010" href="$classTHaG0HelicityReader_1_1ROCinfo.html#acf1e8830c3f3ab1a33f0800e4aa13059" title=" " alt="" coords="553,261,716,301"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="470,276,540,277,540,282,470,282"/>
+<area shape="poly" id="edge13_Node000011_Node000004" title=" " alt="" coords="457,180,545,197,544,202,456,185"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="490,155,544,148,545,153,491,160"/>
+</map>

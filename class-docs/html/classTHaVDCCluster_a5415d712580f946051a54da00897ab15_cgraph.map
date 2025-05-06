@@ -1,0 +1,10 @@
+<map id="THaVDCCluster::Print" name="THaVDCCluster::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,165,81"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#af77fc73dcdd8569f404e7b8fc5fd55d3" title=" " alt="" coords="213,5,455,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,53,257,31,258,36,149,58"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="503,31,683,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="165,62,489,46,489,51,166,67"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="257,106,411,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,79,244,103,243,108,141,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,27,489,31,489,36,454,32"/>
+</map>

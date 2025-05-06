@@ -1,0 +1,9 @@
+<map id="THaVDCPointPair::CalcError" name="THaVDCPointPair::CalcError">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,31,657,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPointPair.html#af73626f6ab302e37f1b5d8801ec676bf" title=" " alt="" coords="216,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,34,409,31,410,25,444,29"/>
+<area shape="rect" id="Node000003" href="$classTHaVDC.html#a39663499434ed7c869edc3a672971b91" title=" " alt="" coords="219,55,406,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,57,406,61,406,56,443,52"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,55,168,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,70,168,70,168,65,206,65"/>
+</map>

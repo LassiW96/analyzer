@@ -1,0 +1,11 @@
+<map id="THaPhotoReaction::SetBeam" name="THaPhotoReaction::SetBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,215,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="288,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,42,274,34,275,39,212,47"/>
+<area shape="rect" id="Node000004" href="$classTHaPhysicsModule.html#a88ac3e1fa4e0fcb5d6d41417b6f85028" title=" " alt="" coords="263,69,467,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,67,249,72,248,77,211,73"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="515,13,698,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,23,501,23,501,28,442,28"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="515,77,699,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,87,501,87,501,92,467,92"/>
+</map>

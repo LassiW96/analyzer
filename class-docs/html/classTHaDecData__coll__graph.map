@@ -1,0 +1,11 @@
+<map id="THaDecData" name="THaDecData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,1939,175,2084"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1DecData.html" title=" " alt="" coords="32,1525,175,1891"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,1904,106,1938,101,1938,101,1904"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html" title=" " alt="" coords="23,1112,184,1477"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1492,106,1525,101,1525,101,1492"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+</map>

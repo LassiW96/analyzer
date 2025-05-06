@@ -1,0 +1,9 @@
+<map id="HallA::FadcScintillator::LoadData" name="HallA::FadcScintillator::LoadData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,169,63"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#aabc7006188b480f83cc08e9961e3dd94" title=" " alt="" coords="231,5,438,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,32,217,27,218,33,170,38"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FADCData.html#a4ecd9d6d335f9da0de94347e35107079" title=" " alt="" coords="217,55,452,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,49,204,52,203,57,169,54"/>
+<area shape="rect" id="Node000004" href="$namespaceHallA.html#a943bee16f06e50c5e5249def7fcd89c9" title=" " alt="" coords="500,55,659,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="452,65,486,65,486,70,452,70"/>
+</map>

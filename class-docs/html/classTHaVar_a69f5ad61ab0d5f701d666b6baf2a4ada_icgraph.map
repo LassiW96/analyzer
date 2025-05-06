@@ -1,0 +1,14 @@
+<map id="THaVar::Index" name="THaVar::Index">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1023,31,1136,56"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="1116,21,1106,13,1079,9,1057,11,1046,16,1044,22,1050,29,1046,32,1038,22,1042,12,1056,6,1079,4,1108,8,1119,17"/>
+<area shape="rect" id="Node000002" href="$classTHaFormula.html#af6d7724315ec8149ea0aad81d5be56d9" title=" " alt="" coords="773,23,975,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1009,46,975,46,975,41,1009,41"/>
+<area shape="rect" id="Node000003" href="$classTHaFormula.html#aefbeae7e5758515d93e87b83fd24fef7" title=" " alt="" coords="524,23,725,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,46,726,46,726,41,759,41"/>
+<area shape="rect" id="Node000004" href="$classTHaVform.html#a5f9de056155893b5d755cef4a86b5613" title=" " alt="" coords="235,5,476,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,35,476,32,476,27,510,30"/>
+<area shape="rect" id="Node000005" href="$classTHaFormula.html#a1b1483d59ee5133db9e3e6654d1ac3f0" title=" " alt="" coords="249,55,461,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="510,56,462,61,461,55,510,51"/>
+<area shape="rect" id="Node000006" href="$classTHaCut.html#af7ffdb0012813a20b9f98611750142c7" title=" " alt="" coords="5,55,187,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="236,70,187,70,187,65,236,65"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="THaTrackingDetector::AddTrack" name="THaTrackingDetector::AddTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,164,67"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html#aef428d8f2eb222d16755e9718ab68e39" title=" " alt="" coords="212,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,35,200,30,201,35,165,40"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#a435e9e045d656a9879cc298dfe800f61" title=" " alt="" coords="214,55,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,54,201,59,200,64,164,60"/>
+</map>

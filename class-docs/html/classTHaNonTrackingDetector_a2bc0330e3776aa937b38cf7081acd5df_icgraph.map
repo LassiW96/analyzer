@@ -1,0 +1,19 @@
+<map id="THaNonTrackingDetector::CalcTrackProj" name="THaNonTrackingDetector::CalcTrackProj">
+<area shape="rect" id="Node000001" title=" " alt="" coords="553,122,737,162"/>
+<area shape="rect" id="Node000002" href="$classTHaCherenkov.html#a5c00a2babedc4e482473158cfed3fb26" title=" " alt="" coords="285,5,504,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="610,115,562,78,504,44,472,33,474,28,506,40,565,74,614,111"/>
+<area shape="rect" id="Node000003" href="$classTHaScintillator.html#ae4108d0d659132dbfa3699f94c3e81fd" title=" " alt="" coords="284,55,505,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="580,120,505,94,460,83,462,78,506,89,582,114"/>
+<area shape="rect" id="Node000004" href="$classTHaShower.html#ad4a6c44a6f9ae6378601561e8c1cb75e" title=" " alt="" coords="295,104,494,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="539,134,494,129,494,124,540,129"/>
+<area shape="rect" id="Node000006" href="$classTHaCherenkov.html#a72440f5c97d157cdf764c2cb40ce7675" title=" " alt="" coords="294,153,495,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="540,155,496,159,495,154,540,149"/>
+<area shape="rect" id="Node000007" href="$classTHaScintillator.html#a48b332a8725d76beb2644c45b1b05f29" title=" " alt="" coords="293,203,496,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="578,169,506,193,457,205,455,200,505,187,577,164"/>
+<area shape="rect" id="Node000008" href="$classTHaShower.html#a829b88ff806b10e291c234a4cf499d1b" title=" " alt="" coords="304,252,485,277"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="612,173,564,209,506,242,470,254,468,249,504,237,561,204,609,169"/>
+<area shape="rect" id="Node000005" href="$classTHaTotalShower.html#ab29b86af64bf4481009ac6f7f4e029df" title=" " alt="" coords="5,104,236,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="281,119,236,119,236,114,281,114"/>
+<area shape="rect" id="Node000009" href="$classTHaTotalShower.html#a4ba7ffcdc1605d1be4c42874f54ab3d7" title=" " alt="" coords="15,252,227,277"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="290,267,227,267,227,262,290,262"/>
+</map>

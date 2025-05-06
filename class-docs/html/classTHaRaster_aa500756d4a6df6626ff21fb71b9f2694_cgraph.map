@@ -1,0 +1,16 @@
+<map id="THaRaster::DefineVariables" name="THaRaster::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,205,80"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="253,47,407,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,65,239,65,239,70,206,70"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="455,5,657,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,48,483,31,484,36,408,53"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="464,55,648,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="407,65,450,65,450,70,407,70"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="705,80,899,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="408,83,455,90,577,97,692,96,692,101,577,102,454,95,407,88"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="707,19,897,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="658,21,694,23,694,28,657,26"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="947,56,1073,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="874,41,934,52,933,58,873,47"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="898,79,933,75,933,80,899,84"/>
+</map>

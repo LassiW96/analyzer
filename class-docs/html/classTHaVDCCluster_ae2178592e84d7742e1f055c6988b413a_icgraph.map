@@ -1,0 +1,7 @@
+<map id="THaVDCCluster::GetPivotWireNum" name="THaVDCCluster::GetPivotWireNum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="243,31,489,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ab6c4cd91e18bef8ab056d34324333693" title=" " alt="" coords="5,5,195,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,33,195,30,195,24,229,28"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPointPair.html#a23995d315aee146ed7b9a802e5351325" title=" " alt="" coords="15,55,185,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,58,186,62,185,57,229,53"/>
+</map>

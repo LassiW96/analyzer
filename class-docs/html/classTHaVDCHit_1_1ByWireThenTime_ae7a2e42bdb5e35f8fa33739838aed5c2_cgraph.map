@@ -1,0 +1,9 @@
+<map id="THaVDCHit::ByWireThenTime::operator()" name="THaVDCHit::ByWireThenTime::operator()">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,220,63"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCHit.html#a69332e32773988caa47abe5b81be2ed4" title=" " alt="" coords="282,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,30,268,25,268,30,220,35"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCHit.html#aa172f2efdeba41b819faf3fb21de1294" title=" " alt="" coords="268,55,455,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,51,254,54,254,60,220,56"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCWire.html#a6eae4936d66382f86f9e4f01aa32155b" title=" " alt="" coords="503,55,671,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,65,489,65,489,70,455,70"/>
+</map>

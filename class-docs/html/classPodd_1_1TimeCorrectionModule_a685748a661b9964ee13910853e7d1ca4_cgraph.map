@@ -1,0 +1,7 @@
+<map id="Podd::TimeCorrectionModule::Clear" name="Podd::TimeCorrectionModule::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,216,45"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1InterStageModule.html#a27f0b5f5f8d8d2c89a4b884c7771beb6" title=" " alt="" coords="264,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,23,250,23,250,28,216,28"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="489,5,643,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,23,476,23,476,28,442,28"/>
+</map>

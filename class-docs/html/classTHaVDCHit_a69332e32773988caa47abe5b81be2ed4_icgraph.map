@@ -1,0 +1,15 @@
+<map id="THaVDCHit::GetTime" name="THaVDCHit::GetTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1020,63,1179,88"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPlane.html#a9185f901071dc84df14d27f51c3eb07d" title=" " alt="" coords="765,5,965,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1034,62,971,46,919,33,921,28,973,41,1036,57"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCHit_1_1ByWireThenTime.html#ae7a2e42bdb5e35f8fa33739838aed5c2" title=" " alt="" coords="757,55,972,95"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1006,78,972,78,972,73,1006,73"/>
+<area shape="rect" id="Node000007" href="$classTimeCut.html#aaed713ead9bc806894de97dcdc144e59" title=" " alt="" coords="789,120,940,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1036,94,973,110,921,123,919,117,971,105,1034,89"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCChamber.html#af739576878ef751050475e7fd79e12b7" title=" " alt="" coords="487,5,709,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="751,21,709,21,709,15,751,15"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCChamber.html#a7152794cc60c7b97c801361530272cc1" title=" " alt="" coords="216,5,439,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,21,439,21,439,15,473,15"/>
+<area shape="rect" id="Node000005" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,21,168,21,168,15,202,15"/>
+</map>

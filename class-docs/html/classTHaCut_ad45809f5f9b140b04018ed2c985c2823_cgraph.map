@@ -1,0 +1,11 @@
+<map id="THaCut::EvalElement" name="THaCut::EvalElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,165,56"/>
+<area shape="rect" id="Node000002" href="$classTHaFormula.html#a93e32fddcadb344d01322626bb0adf79" title=" " alt="" coords="213,23,405,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,41,199,41,199,46,166,46"/>
+<area shape="rect" id="Node000003" href="$classTHaFormula.html#a85f8a978a355b7b5e536222e3fec151b" title=" " alt="" coords="453,31,648,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,41,440,41,440,46,405,46"/>
+<area shape="rect" id="Node000004" href="$classTHaFormula.html#a377185d6480e607a48b8ef956ea9bec7" title=" " alt="" coords="696,5,860,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="648,30,682,26,683,31,649,35"/>
+<area shape="rect" id="Node000005" href="$THaFormula_8cxx.html#a458f17efaef1fae4bcda97c588d97e0c" title=" " alt="" coords="711,55,845,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="649,51,697,56,697,61,648,56"/>
+</map>

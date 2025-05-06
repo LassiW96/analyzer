@@ -1,0 +1,17 @@
+<map id="THaRunBase::GetParameters" name="THaRunBase::GetParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="517,80,728,105"/>
+<area shape="rect" id="Node000002" href="$classTHaBeam.html#a058c2ac35ee45b2bc715ff5d0d245122" title=" " alt="" coords="319,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="572,78,469,45,428,33,429,28,470,39,573,73"/>
+<area shape="rect" id="Node000003" href="$classTHaPrimaryKine.html#ad462acead2fe174e2a4b6c131cc109e4" title=" " alt="" coords="283,55,469,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="503,83,469,80,470,74,504,78"/>
+<area shape="rect" id="Node000004" href="$classTHaSAProtonEP.html#a2d06fd72e989323acad0ae8ac14ead31" title=" " alt="" coords="285,104,467,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="504,107,468,110,467,105,503,102"/>
+<area shape="rect" id="Node000005" href="$classTHaBeam.html#af1b9aa28ee1f5f903df31ce363ea9b21" title=" " alt="" coords="305,153,447,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="570,112,470,143,425,156,424,151,469,138,568,107"/>
+<area shape="rect" id="Node000006" href="$classTHaIdealBeam.html#ada410e9ec286bdcccc9dc49b40070601" title=" " alt="" coords="47,104,193,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="296,153,186,132,187,127,297,148"/>
+<area shape="rect" id="Node000007" href="$classTHaRasteredBeam.html#ac556410cc6c6588ddd800eb6501b0768" title=" " alt="" coords="5,153,235,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="292,169,235,169,235,163,292,163"/>
+<area shape="rect" id="Node000008" href="$classTHaUnRasteredBeam.html#a364917ed89f69f3abfcc81ad9c5a29b9" title=" " alt="" coords="35,203,205,243"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="306,184,206,207,205,202,305,179"/>
+</map>

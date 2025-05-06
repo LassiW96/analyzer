@@ -1,0 +1,10 @@
+<map id="THaTrackInfo::GetP" name="THaTrackInfo::GetP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="463,56,609,81"/>
+<area shape="rect" id="Node000002" href="$classTHaTrackEloss.html#a284cff303376298f470dbcf790d4fe68" title=" " alt="" coords="228,5,415,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,55,375,33,376,28,469,50"/>
+<area shape="rect" id="Node000003" href="$classTHaTrackEloss.html#a767411c1ffc3eec5839329f8b122ce9c" title=" " alt="" coords="5,31,180,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="449,66,180,51,180,46,449,61"/>
+<area shape="rect" id="Node000004" href="$classTHaExtTarCor.html#a7f761745e69d7b159366fa49af43abaa" title=" " alt="" coords="237,107,405,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,87,376,109,375,104,467,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,33,181,36,180,31,214,27"/>
+</map>

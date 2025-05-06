@@ -1,0 +1,9 @@
+<map id="THaTriggerTime::~THaTriggerTime" name="THaTriggerTime::~THaTriggerTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,252,38"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ae80374aa0c9ae67485bd3ce4a06374ce" title=" " alt="" coords="300,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,23,286,23,286,28,252,28"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ae0fe61d359447e226d16bb027d705131" title=" " alt="" coords="501,5,680,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,23,488,23,488,28,454,28"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a8f7b01fc76433831b05ec47d4b04137c" title=" " alt="" coords="728,5,881,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="680,23,714,23,714,28,680,28"/>
+</map>

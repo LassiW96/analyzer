@@ -1,0 +1,13 @@
+<map id="Podd::DetectorData" name="Podd::DetectorData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,119,368,464"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FADCData.html" title=" " alt="" coords="5,522,175,807"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,468,166,523,161,521,190,466"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1ADCData.html" title=" " alt="" coords="199,512,368,817"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="286,478,286,512,281,512,281,478"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1PMTData.html" title=" " alt="" coords="392,512,561,817"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="377,466,400,510,395,513,372,468"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="249,5,318,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,85,286,118,281,118,281,85"/>
+<area shape="rect" id="Node000005" href="$classTHaShower_1_1ShowerADCData.html" title=" " alt="" coords="182,865,385,951"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="286,831,286,865,281,865,281,831"/>
+</map>

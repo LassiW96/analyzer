@@ -1,0 +1,10 @@
+<map id="FindRealDataVar" name="FindRealDataVar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,29,780,55"/>
+<area shape="rect" id="Node000002" href="$classTHaRTTI.html#af25eb1946151522654d63977922871ef" title=" " alt="" coords="491,29,601,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,45,602,45,602,39,636,39"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="575,19,567,11,546,8,528,10,519,15,517,20,522,28,518,31,512,21,515,11,527,5,546,3,569,6,579,15"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a3e642007c52d8712dea00087e8384f3f" title=" " alt="" coords="256,29,443,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="477,45,443,45,443,39,477,39"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#abed0d40b029540130769dd989b2a7917" title=" " alt="" coords="5,29,208,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,45,208,45,208,39,242,39"/>
+</map>

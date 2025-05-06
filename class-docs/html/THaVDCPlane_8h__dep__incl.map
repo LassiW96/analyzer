@@ -1,0 +1,19 @@
+<map id="HallA/THaVDCPlane.h" name="HallA/THaVDCPlane.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,5,629,31"/>
+<area shape="rect" id="Node000002" href="$THaVDCChamber_8cxx.html" title=" " alt="" coords="5,152,205,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,38,141,154,140,149,499,32"/>
+<area shape="rect" id="Node000003" href="$THaVDCChamber_8h.html" title=" " alt="" coords="390,79,575,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="530,43,495,80,491,77,526,39"/>
+<area shape="rect" id="Node000005" href="$THaVDCPlane_8cxx.html" title=" " alt="" coords="817,152,996,177"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="567,39,599,72,640,102,675,115,725,128,836,149,835,155,724,133,673,120,637,106,595,76,563,43"/>
+<area shape="rect" id="Node000008" href="$THaVDCCluster_8cxx.html" title=" " alt="" coords="651,79,837,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="593,33,713,76,711,81,591,38"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="409,109,167,155,166,149,408,104"/>
+<area shape="rect" id="Node000004" href="$THaVDC_8cxx.html" title=" " alt="" coords="229,152,371,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,111,331,154,329,149,440,106"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="565,104,839,149,838,155,564,109"/>
+<area shape="rect" id="Node000006" href="$THaVDCPoint_8cxx.html" title=" " alt="" coords="395,152,570,177"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="485,118,485,152,480,152,480,118"/>
+<area shape="rect" id="Node000007" href="$THaVDCPointPair_8cxx.html" title=" " alt="" coords="594,152,793,177"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="530,106,660,149,658,154,528,111"/>
+</map>

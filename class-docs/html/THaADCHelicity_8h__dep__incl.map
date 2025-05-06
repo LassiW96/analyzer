@@ -1,0 +1,9 @@
+<map id="HallA/THaADCHelicity.h" name="HallA/THaADCHelicity.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,5,284,31"/>
+<area shape="rect" id="Node000002" href="$THaADCHelicity_8cxx.html" title=" " alt="" coords="5,79,196,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,41,118,81,115,76,169,37"/>
+<area shape="rect" id="Node000003" href="$THaHelicity_8h.html" title=" " alt="" coords="221,79,367,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,37,280,76,277,81,222,41"/>
+<area shape="rect" id="Node000004" href="$THaHelicity_8cxx.html" title=" " alt="" coords="213,152,375,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="297,118,297,152,291,152,291,118"/>
+</map>

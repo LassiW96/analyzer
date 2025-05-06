@@ -1,0 +1,7 @@
+<map id="THaBeam::GetDirection" name="THaBeam::GetDirection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,31,425,56"/>
+<area shape="rect" id="Node000002" href="$classTHaReacPointFoil.html#a1f88fae1d3029040d98bf7d681f27695" title=" " alt="" coords="6,5,201,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,35,201,31,201,26,236,30"/>
+<area shape="rect" id="Node000003" href="$classTHaReactionPoint.html#aa4be07d6f0cd3a9a394d560a7677098e" title=" " alt="" coords="5,55,201,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,56,202,60,201,55,235,51"/>
+</map>

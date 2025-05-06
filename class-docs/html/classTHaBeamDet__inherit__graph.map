@@ -1,0 +1,19 @@
+<map id="THaBeamDet" name="THaBeamDet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,2039,227,2204"/>
+<area shape="rect" id="Node000006" href="$classTHaBPM.html" title=" " alt="" coords="5,2262,147,2787"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,2218,133,2262,127,2261,137,2217"/>
+<area shape="rect" id="Node000008" href="$classTHaRaster.html" title=" " alt="" coords="171,2252,312,2797"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="181,2217,188,2251,183,2253,176,2218"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html" title=" " alt="" coords="93,1805,225,1991"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,2004,161,2038,156,2038,156,2004"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html" title=" " alt="" coords="77,1112,241,1757"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,1771,161,1805,156,1805,156,1771"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="61,119,257,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,1078,161,1112,156,1112,156,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="124,5,193,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="161,85,161,119,156,119,156,85"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcBPM.html" title=" " alt="" coords="19,2845,133,2951"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="79,2801,79,2845,73,2845,73,2801"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcRaster.html" title=" " alt="" coords="177,2855,305,2941"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="244,2811,244,2855,239,2855,239,2811"/>
+</map>

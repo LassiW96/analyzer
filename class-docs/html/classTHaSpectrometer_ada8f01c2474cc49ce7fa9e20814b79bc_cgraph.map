@@ -1,0 +1,15 @@
+<map id="THaSpectrometer::THaSpectrometer" name="THaSpectrometer::THaSpectrometer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,264,113"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#aacfb001d62950f80509faa7767209494" title=" " alt="" coords="335,63,513,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,87,320,82,321,87,264,92"/>
+<area shape="rect" id="Node000007" href="$classTHaTrackInfo.html#a7df111dd02e9ba26b3f2ca7f80067d17" title=" " alt="" coords="312,112,536,137"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="264,109,298,112,298,117,264,114"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html#a397432290945ac0c4ea2912213a70ef6" title=" " alt="" coords="617,5,773,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,60,621,31,622,36,486,65"/>
+<area shape="rect" id="Node000004" href="$classTHaTrackingModule.html#a3ad3d2d97748acafd2ffc0bc88628950" title=" " alt="" coords="616,55,775,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="514,73,602,73,602,78,514,78"/>
+<area shape="rect" id="Node000006" href="$classTHaVertexModule.html#a4d70c23a35a8595c16e83b533b7c0a45" title=" " alt="" coords="584,120,807,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="486,85,622,114,621,120,484,91"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackInfo.html#ad9f0ef653723e8ce2cbb68689f4f6e03" title=" " alt="" coords="855,63,1004,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="775,73,841,73,841,78,775,78"/>
+</map>

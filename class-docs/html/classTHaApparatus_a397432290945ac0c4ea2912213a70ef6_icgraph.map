@@ -1,0 +1,15 @@
+<map id="THaApparatus::Clear" name="THaApparatus::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="553,104,709,129"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1DecData.html#ab933a8e5afd6487cd7d0be7a04d276a3" title=" " alt="" coords="329,55,489,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="560,104,466,83,467,77,561,98"/>
+<area shape="rect" id="Node000005" href="$classTHaSpectrometer.html#aacfb001d62950f80509faa7767209494" title=" " alt="" coords="319,104,498,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="540,119,498,119,498,114,540,114"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1DecData.html#a9dd6d9bb60f460385b457529a34de04c" title=" " alt="" coords="312,153,505,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="561,135,467,156,466,151,560,130"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1DecData.html#a75452a2550cd6c801b73d6d426c30733" title=" " alt="" coords="47,5,222,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,55,206,33,207,28,324,50"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1DecData.html#a5943a5d359c8253fa15a98d913c8e0bb" title=" " alt="" coords="53,55,216,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="315,70,216,70,216,65,315,65"/>
+<area shape="rect" id="Node000006" href="$classTHaSpectrometer.html#ada8f01c2474cc49ce7fa9e20814b79bc" title=" " alt="" coords="5,104,264,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="306,119,264,119,264,114,306,114"/>
+</map>

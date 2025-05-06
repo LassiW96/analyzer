@@ -1,0 +1,13 @@
+<map id="THaDetMap::MultiHitIterator::operator++" name="THaDetMap::MultiHitIterator::operator++">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,212,95"/>
+<area shape="rect" id="Node000002" href="$THaDetMap_8cxx.html#aee1ae88792087c4acf4c6de78ee4f56d" title=" " alt="" coords="493,5,587,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,53,260,41,376,27,479,19,479,24,377,32,260,46,196,58"/>
+<area shape="rect" id="Node000003" href="$THaDetMap_8cxx.html#a0d9bf07f2be16a1c6542983419850c32" title=" " alt="" coords="498,120,582,145"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,93,260,105,380,119,485,127,484,132,380,124,260,110,195,98"/>
+<area shape="rect" id="Node000004" href="$classTHaDetMap_1_1Iterator.html#accaba4659393dca6c0a97a3877c7bab3" title=" " alt="" coords="260,55,415,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,73,247,73,247,78,212,78"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="408,53,480,32,482,37,409,58"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="409,93,485,115,484,120,408,98"/>
+<area shape="rect" id="Node000005" href="$classTHaDetMap_1_1Iterator.html#a0079e49daa7b2313434120fd3aa2bb6f" title=" " alt="" coords="463,55,617,95"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="415,73,448,73,448,78,415,78"/>
+</map>

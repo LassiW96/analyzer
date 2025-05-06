@@ -1,0 +1,18 @@
+<map id="THaAnalysisObject::MakePrefix" name="THaAnalysisObject::MakePrefix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="463,134,616,174"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="578,122,564,115,539,113,518,115,504,119,500,125,502,133,497,134,494,124,501,115,516,109,539,107,566,110,580,117"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ace906139903620924e0d49ff8ce64209" title=" " alt="" coords="223,5,398,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,125,468,83,442,62,413,44,386,33,388,28,416,40,445,58,471,79,514,121"/>
+<area shape="rect" id="Node000003" href="$classTHaDetector.html#aa06355fb7f88e1179cc10a12e5be297d" title=" " alt="" coords="219,55,403,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="490,130,414,95,372,83,374,77,416,90,492,125"/>
+<area shape="rect" id="Node000004" href="$classTHaEvtTypeHandler.html#af724beb113944d62edac63cc5f4f2b95" title=" " alt="" coords="231,105,390,145"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="448,145,390,137,391,132,449,140"/>
+<area shape="rect" id="Node000005" href="$classTHaHelicityDet.html#a3b84b72967435156b38f4093ec4a104e" title=" " alt="" coords="210,169,411,195"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="449,168,412,172,411,167,448,162"/>
+<area shape="rect" id="Node000006" href="$classTHaSubDetector.html#a527c12833109234e82c37383f3e59e35" title=" " alt="" coords="207,219,415,244"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="483,182,416,209,371,221,370,216,414,203,481,177"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#ae4635a8a509bd6ea15d6eee5a5982f9d" title=" " alt="" coords="234,269,387,309"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="510,186,467,223,416,258,386,271,384,266,413,253,464,219,507,182"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#a1103c70e5d54417e5bb387318fe24767" title=" " alt="" coords="5,269,159,309"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="220,291,159,291,159,286,220,286"/>
+</map>

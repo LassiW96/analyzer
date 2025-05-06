@@ -1,0 +1,23 @@
+<map id="THaShower::CoarseProcess" name="THaShower::CoarseProcess">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,204,216"/>
+<area shape="rect" id="Node000002" href="$classTHaNonTrackingDetector.html#a2bc0330e3776aa937b38cf7081acd5df" title=" " alt="" coords="252,154,436,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,189,238,184,239,190,205,194"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1ADCData.html#a0e622adad965904d7075e348a65f6bb9" title=" " alt="" coords="254,219,434,244"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="205,212,241,217,240,222,204,218"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometerDetector.html#a424251440d61ec6ad53770da0225f3c7" title=" " alt="" coords="507,97,699,137"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,151,499,137,500,142,436,157"/>
+<area shape="rect" id="Node000009" href="$classTHaDetectorBase.html#a3593596b6a2c920fb1b9aa1969a00e75" title=" " alt="" coords="484,161,723,187"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="436,171,470,171,470,177,436,177"/>
+<area shape="rect" id="Node000010" href="$classTHaTrackProj.html#a6c5b0226f2e817c45ca5216bf2f60bfe" title=" " alt="" coords="526,211,681,236"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="437,189,523,205,522,211,436,194"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#a5ab8eb36bb2030f3c6fdf5cd49a88fe9" title=" " alt="" coords="789,5,923,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,94,703,67,770,40,791,32,793,37,772,44,705,72,646,99"/>
+<area shape="rect" id="Node000005" href="$classTHaTrack.html#a7f85be1628803a942be2f9b2554f4073" title=" " alt="" coords="781,55,931,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="699,95,776,80,777,85,700,101"/>
+<area shape="rect" id="Node000006" href="$classTHaTrack.html#a4841d93c62e9dd4c25c1c657489db53f" title=" " alt="" coords="795,104,917,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="700,114,781,114,781,119,700,119"/>
+<area shape="rect" id="Node000007" href="$classTHaTrack.html#a975088db6e0199dc0043114cc01349a9" title=" " alt="" coords="795,153,917,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="700,133,782,149,781,154,699,138"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#a7ccdab3d203c3be8c7e7a050cc72711c" title=" " alt="" coords="771,203,941,243"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="697,134,724,146,739,157,749,168,758,178,772,189,783,195,780,200,769,194,755,182,745,171,736,161,721,151,695,139"/>
+</map>

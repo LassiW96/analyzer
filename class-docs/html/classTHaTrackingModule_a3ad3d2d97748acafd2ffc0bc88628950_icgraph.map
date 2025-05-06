@@ -1,0 +1,15 @@
+<map id="THaTrackingModule::TrkIfoClear" name="THaTrackingModule::TrkIfoClear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="539,47,697,87"/>
+<area shape="rect" id="Node000002" href="$classTHaExtTarCor.html#a8ad7e986db99cecaa9b09dcd8a6bc862" title=" " alt="" coords="325,5,477,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,49,457,33,458,28,525,44"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#aacfb001d62950f80509faa7767209494" title=" " alt="" coords="312,55,491,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="525,70,491,70,491,65,525,65"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackEloss.html#a9607ff81b019745e2dbf0e856f45321c" title=" " alt="" coords="322,104,481,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="525,91,458,107,457,101,524,86"/>
+<area shape="rect" id="Node000003" href="$classTHaExtTarCor.html#a48c62067e0f991d02fe86b211edebdeb" title=" " alt="" coords="31,5,238,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,21,238,21,238,15,311,15"/>
+<area shape="rect" id="Node000005" href="$classTHaSpectrometer.html#ada8f01c2474cc49ce7fa9e20814b79bc" title=" " alt="" coords="5,55,264,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,70,264,70,264,65,298,65"/>
+<area shape="rect" id="Node000007" href="$classTHaTrackEloss.html#a9e79d5a13ea5f40e987e3856a890763e" title=" " alt="" coords="25,104,244,129"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="308,119,244,119,244,114,308,114"/>
+</map>

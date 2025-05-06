@@ -1,0 +1,9 @@
+<map id="HallA::FADCData::StoreHit" name="HallA::FADCData::StoreHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,77,408,102"/>
+<area shape="rect" id="Node000002" href="$classHallA_1_1FadcCherenkov.html#aad34f6af13232cf107e57076f4cec31e" title=" " alt="" coords="6,5,169,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,75,158,48,159,43,255,70"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="5,69,169,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,92,170,92,170,87,204,87"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcShower.html#a3c14f8582a97c45104a4b61e026d949b" title=" " alt="" coords="12,133,163,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,108,159,136,158,131,253,103"/>
+</map>

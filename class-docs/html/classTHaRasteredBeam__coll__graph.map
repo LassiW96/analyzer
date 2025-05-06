@@ -1,0 +1,20 @@
+<map id="THaRasteredBeam" name="THaRasteredBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2091,167,2176"/>
+<area shape="rect" id="Node000002" href="$classTHaBeam.html" title=" " alt="" coords="180,1683,341,1908"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,1921,110,2092,105,2089,194,1919"/>
+<area shape="rect" id="Node000007" href="$classTHaBeamInfo.html" title=" " alt="" coords="191,1971,330,2296"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="263,1908,263,1954,258,1954,258,1908"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html" title=" " alt="" coords="88,1185,249,1550"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,1563,239,1682,234,1683,208,1564"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="71,120,267,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,1079,171,1185,166,1185,166,1079"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="134,5,203,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="171,85,171,120,166,120,166,85"/>
+<area shape="rect" id="Node000006" href="$classTHaBeamModule.html" title=" " alt="" coords="233,2359,395,2504"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="344,2345,346,2334,362,2232,366,2152,359,2072,339,1971,319,1909,324,1907,345,1970,365,2071,372,2152,367,2233,351,2335,349,2346"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="268,2296,275,2334,278,2343,272,2344,270,2335,263,2297"/>
+<area shape="rect" id="Node000008" href="$classTHaRunParameters.html" title=" " alt="" coords="273,1115,437,1620"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="302,1621,292,1667,286,1666,297,1620"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="323,560,387,625"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="358,639,358,1115,353,1115,353,639"/>
+</map>

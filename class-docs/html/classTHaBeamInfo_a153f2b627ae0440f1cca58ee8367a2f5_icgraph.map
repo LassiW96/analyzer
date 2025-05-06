@@ -1,0 +1,7 @@
+<map id="THaBeamInfo::SetBeam" name="THaBeamInfo::SetBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,31,391,56"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamEloss.html#a93e3c7d3d0b091e6cb9c066fc83199cb" title=" " alt="" coords="10,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,34,159,29,160,24,198,29"/>
+<area shape="rect" id="Node000003" href="$classTHaBeam.html#aa4c8f403becdd3b1f17eb4a10d65e416" title=" " alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,57,164,61,164,56,198,52"/>
+</map>

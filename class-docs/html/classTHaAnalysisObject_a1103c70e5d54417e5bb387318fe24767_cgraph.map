@@ -1,0 +1,10 @@
+<map id="THaAnalysisObject::SetNameTitle" name="THaAnalysisObject::SetNameTitle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,159,79"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ae4635a8a509bd6ea15d6eee5a5982f9d" title=" " alt="" coords="207,39,360,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,57,193,57,193,62,159,62"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="408,5,592,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,42,419,31,420,36,361,47"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a6f9d76276afc78f70e734f80cf577e14" title=" " alt="" coords="423,79,577,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,71,411,80,410,85,360,76"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="459,80,457,70,464,60,478,55,500,53,525,56,539,63,537,68,524,61,500,58,479,60,467,65,462,71,465,78"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="THaVform::IsFormula" name="THaVform::IsFormula">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1041,81,1201,107"/>
+<area shape="rect" id="Node000002" href="$classTHaVform.html#af325bf47d26709ef64189cd695fc0d87" title=" " alt="" coords="624,56,741,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1051,81,993,73,858,67,742,68,742,63,858,61,994,67,1052,76"/>
+<area shape="rect" id="Node000008" href="$classTHaVform.html#a268914aa7c82e4e2d293e53f9abdf96e" title=" " alt="" coords="809,81,993,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1027,97,993,97,993,91,1027,91"/>
+<area shape="rect" id="Node000009" href="$classTHaVform.html#a3bb81c6804816523d7a38aedfd533530" title=" " alt="" coords="821,131,981,156"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1051,112,959,133,958,128,1050,107"/>
+<area shape="rect" id="Node000003" href="$classTHaVhist.html#a00854177014f712a4c4ce802539a28a8" title=" " alt="" coords="419,31,556,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="610,62,556,55,557,50,611,57"/>
+<area shape="rect" id="Node000007" href="$classTHaVhist.html#a32858ceed9d92bb03f7763055672a3d1" title=" " alt="" coords="432,80,543,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="610,80,543,89,543,83,610,75"/>
+<area shape="rect" id="Node000004" href="$classTHaVhist.html#af1d246e97e9a71b9f6fe2aaee415801b" title=" " alt="" coords="192,5,371,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,36,370,32,371,26,405,31"/>
+<area shape="rect" id="Node000006" href="$classTHaVhist.html#a357db03edb99b8a3e7ddaf42685615e4" title=" " alt="" coords="222,55,341,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="405,56,342,63,341,58,404,50"/>
+<area shape="rect" id="Node000005" href="$classTHaVhist.html#a6606c7404c283bd0be3de8598bef3ad9" title=" " alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,21,144,21,144,15,178,15"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="795,84,741,78,742,73,796,79"/>
+<area shape="rect" id="Node000010" href="$classTHaVform.html#ae882c88e19a8868e959aadf29f7a982b" title=" " alt="" coords="604,131,761,156"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="807,146,761,146,761,141,807,141"/>
+</map>

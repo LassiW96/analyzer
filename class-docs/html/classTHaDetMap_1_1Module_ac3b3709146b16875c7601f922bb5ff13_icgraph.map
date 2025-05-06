@@ -1,0 +1,17 @@
+<map id="THaDetMap::Module::IsTDC" name="THaDetMap::Module::IsTDC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,97,649,137"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap.html#a8d6ce83d8a5946a105c2993db1fcb19e" title=" " alt="" coords="255,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,91,484,66,438,44,400,33,402,28,440,40,486,62,528,87"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#abf2cee160c1d9c9f6ef1f40111a66ef4" title=" " alt="" coords="255,55,401,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,100,390,83,391,77,473,95"/>
+<area shape="rect" id="Node000004" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="219,104,437,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,119,437,119,437,114,473,114"/>
+<area shape="rect" id="Node000006" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,153,439,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="473,139,391,156,390,151,472,134"/>
+<area shape="rect" id="Node000008" href="$classTHaDetMap_1_1Iterator_1_1HitInfo__t.html#a7c64e2517795e387a0ac23902cae0426" title=" " alt="" coords="235,203,421,243"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="527,147,485,171,440,194,408,206,406,201,438,189,483,166,524,142"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,89,169,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,115,169,114,169,109,205,110"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,153,169,193"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,172,170,173,170,168,203,167"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structPodd_1_1ADCCalib__t.html" title=" " alt="" coords="5,5,140,31"/>
+<area shape="rect" id="Node000001" href="$structPodd_1_1PMTCalib__t.html" title=" " alt="" coords="188,31,323,56"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="154,27,188,31,187,37,153,32"/>
+<area shape="rect" id="Node000002" href="$structPodd_1_1TDCCalib__t.html" title=" " alt="" coords="5,55,140,80"/>
+<area shape="poly" id="edge5_Node000002_Node000001" title=" " alt="" coords="153,54,187,50,188,55,154,59"/>
+</map>

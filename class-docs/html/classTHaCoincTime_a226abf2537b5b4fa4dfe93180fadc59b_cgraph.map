@@ -1,0 +1,17 @@
+<map id="THaCoincTime::ReadDatabase" name="THaCoincTime::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,225,88"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="273,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,60,295,31,296,36,172,65"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="289,55,442,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,73,275,73,275,78,226,78"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="289,119,442,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="167,86,276,114,274,119,165,91"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="505,87,659,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,125,491,118,492,123,443,131"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="505,151,659,191"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="443,148,492,155,491,161,442,153"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="707,87,860,127"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="659,105,693,105,693,110,659,110"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="707,151,860,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="659,169,693,169,693,174,659,174"/>
+</map>

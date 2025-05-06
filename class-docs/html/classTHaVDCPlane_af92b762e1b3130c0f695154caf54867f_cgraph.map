@@ -1,0 +1,9 @@
+<map id="THaVDCPlane::ReadGeometry" name="THaVDCPlane::ReadGeometry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,224,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="305,5,458,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,42,290,34,291,39,221,47"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#aeb2940852c772131393ed3e8a564aaea" title=" " alt="" coords="272,69,491,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,67,259,72,258,77,220,73"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="539,77,723,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,87,525,87,525,92,491,92"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="THaSecondaryKine::SetMX" name="THaSecondaryKine::SetMX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,200,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="273,5,427,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,42,259,34,260,40,201,47"/>
+<area shape="rect" id="Node000004" href="$classTHaPhysicsModule.html#a88ac3e1fa4e0fcb5d6d41417b6f85028" title=" " alt="" coords="248,69,452,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,67,235,72,234,77,200,73"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="501,13,683,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,23,487,23,487,28,427,28"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="500,77,684,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,87,486,87,486,92,452,92"/>
+</map>

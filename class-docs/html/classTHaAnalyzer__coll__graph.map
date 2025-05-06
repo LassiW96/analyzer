@@ -1,0 +1,27 @@
+<map id="THaAnalyzer" name="THaAnalyzer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,3173,393,3959"/>
+<area shape="poly" id="edge14_Node000001_Node000001" title=" " alt="" coords="395,3490,405,3501,413,3517,419,3566,416,3603,406,3629,401,3627,411,3602,414,3566,408,3519,400,3504,391,3493"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,1789,69,1854"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="35,1868,19,2064,13,2206,10,2369,13,2545,25,2730,48,2915,64,3006,84,3095,111,3183,145,3269,184,3351,223,3424,218,3426,179,3353,140,3271,106,3185,79,3097,59,3007,43,2916,20,2730,8,2546,5,2369,7,2206,14,2064,30,1868"/>
+<area shape="rect" id="Node000009" href="$classTHaEvent.html" title=" " alt="" coords="94,2511,207,2716"/>
+<area shape="poly" id="edge10_Node000009_Node000002" title=" " alt="" coords="46,1867,139,2510,133,2511,41,1868"/>
+<area shape="rect" id="Node000003" href="$classTHaOutput.html" title=" " alt="" coords="232,2131,381,3096"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,3096,309,3157,304,3157,304,3096"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="277,1789,328,1854"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="305,1854,307,2107,307,2114,301,2114,301,2107,300,1854"/>
+<area shape="rect" id="Node000005" href="$classTHaEvtTypeHandler.html" title=" " alt="" coords="399,1619,577,2024"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="402,2007,388,2049,370,2115,365,2114,383,2047,397,2005"/>
+<area shape="rect" id="Node000008" href="$classTHaEpicsEvtHandler.html" title=" " alt="" coords="405,2471,587,2756"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="493,2038,497,2470,492,2470,488,2038"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html" title=" " alt="" coords="390,120,586,1065"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="491,1079,491,1618,485,1618,485,1079"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="521,5,591,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="553,85,549,120,543,120,548,84"/>
+<area shape="rect" id="Node000011" href="$classTHaRunBase.html" title=" " alt="" coords="557,1089,691,1595"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="585,82,600,119,627,245,646,374,658,504,665,633,667,759,665,878,654,1089,648,1089,660,878,662,759,660,634,653,505,641,375,622,246,595,121,580,84"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="470,2757,391,3157,385,3156,465,2756"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="164,2716,187,2916,221,3149,223,3157,217,3157,216,3150,182,2917,158,2716"/>
+<area shape="rect" id="Node000010" href="$classTHaEventHeader.html" title=" " alt="" coords="93,1639,253,2004"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="171,2004,157,2494,151,2494,165,2004"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="664,1595,680,1737,694,1903,703,2086,706,2282,699,2486,681,2693,649,2898,627,2999,601,3097,564,3196,514,3291,459,3377,405,3452,401,3449,455,3374,510,3288,559,3194,596,3095,622,2997,644,2897,676,2692,694,2485,701,2282,698,2086,689,1903,675,1738,659,1595"/>
+</map>

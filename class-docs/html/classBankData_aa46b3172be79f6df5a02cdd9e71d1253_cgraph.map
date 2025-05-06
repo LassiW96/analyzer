@@ -1,0 +1,12 @@
+<map id="BankData::DefineVariables" name="BankData::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,201,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVarList.html#a9f0540ed5326e5bc750e4dc630450a9d" title=" " alt="" coords="249,5,392,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,29,235,25,235,31,202,35"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="440,56,633,81"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="202,46,427,60,426,65,202,52"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="442,7,631,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,16,428,16,428,21,392,21"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="681,32,808,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,28,668,33,667,38,631,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="633,55,667,51,668,56,634,60"/>
+</map>

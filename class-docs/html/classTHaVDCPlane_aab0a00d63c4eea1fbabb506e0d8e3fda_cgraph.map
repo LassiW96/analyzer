@@ -1,0 +1,40 @@
+<map id="THaVDCPlane::Decode" name="THaVDCPlane::Decode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,170,175,195"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#a37bfdc7e47c4de7c4560ce206a9f7a0f" title=" " alt="" coords="241,5,447,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,168,149,117,184,87,221,62,250,48,252,53,224,66,187,92,153,121,104,172"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPlane.html#af6f3b9cc4b1d8be218ab19023715cabb" title=" " alt="" coords="543,87,722,113"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="106,168,156,135,188,118,222,105,301,90,383,83,460,82,530,86,529,91,460,87,383,88,302,95,223,111,190,123,158,139,109,172"/>
+<area shape="rect" id="Node000006" href="$classTHaDetectorBase.html#aabc7006188b480f83cc08e9961e3dd94" title=" " alt="" coords="241,121,447,146"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,167,264,146,265,151,157,173"/>
+<area shape="rect" id="Node000007" href="$classTHaDetMap.html#ac13a45cbd06e9fda1ad58b764e528123" title=" " alt="" coords="223,170,465,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="175,180,209,180,209,185,175,185"/>
+<area shape="rect" id="Node000008" href="$classTHaVDCPlane.html#af4c60d14edc39dd7db4673bdd241dd66" title=" " alt="" coords="225,219,463,245"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="157,193,265,214,264,219,156,198"/>
+<area shape="rect" id="Node000013" href="$classTHaVDCPlane.html#abeeeefffe8fbc226c94be3fd42d92314" title=" " alt="" coords="257,269,431,294"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="111,193,161,224,224,254,253,263,251,268,222,258,158,228,109,198"/>
+<area shape="rect" id="Node000017" href="$classstd_1_1experimental_1_1optional.html#a0e74793257ebfb49aafb223c8c6e3634" title=" " alt="" coords="271,368,417,408"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="106,194,156,243,224,303,301,358,298,362,221,307,153,247,102,197"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html#a9024a100e5d0d83d2a9100dd5efa1507" title=" " alt="" coords="513,13,752,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,23,500,23,500,28,447,28"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="803,13,987,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="752,23,789,23,789,28,752,28"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="438,217,464,204,479,190,487,174,496,157,512,141,536,126,562,115,564,120,538,131,515,145,500,160,492,177,484,193,467,209,440,222"/>
+<area shape="rect" id="Node000009" href="$classTHaAnalysisObject.html#a706215a1db06de762bb97fb9f2986a27" title=" " alt="" coords="556,155,709,195"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="408,217,542,190,543,195,409,222"/>
+<area shape="rect" id="Node000011" href="$classTHaVDCHit.html#aa172f2efdeba41b819faf3fb21de1294" title=" " alt="" coords="539,219,726,245"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="464,229,525,229,525,235,464,235"/>
+<area shape="rect" id="Node000010" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="819,155,972,195"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="710,172,805,172,805,177,710,177"/>
+<area shape="rect" id="Node000012" href="$classTHaVDCWire.html#a6eae4936d66382f86f9e4f01aa32155b" title=" " alt="" coords="811,219,979,245"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="726,229,798,229,798,235,726,235"/>
+<area shape="rect" id="Node000014" href="$classTHaVDCWire.html#aeebac69df3623e3fa433bb6e6497510c" title=" " alt="" coords="541,269,725,294"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="431,279,527,279,527,284,431,284"/>
+<area shape="rect" id="Node000015" href="$classTHaVDCPlane.html#a3359f49ea513255896dd11eb8c6a29ac" title=" " alt="" coords="546,318,719,343"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="419,291,545,313,544,318,419,297"/>
+<area shape="rect" id="Node000016" href="$classTHaVDCPlane.html#a3f5651f178b4656fc5fe8d704a247bf1" title=" " alt="" coords="800,318,991,343"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="719,328,786,328,786,333,719,333"/>
+<area shape="rect" id="Node000018" href="$classstd_1_1experimental_1_1optional.html#a0ae5252bfc135e0613d8cd4530ffafed" title=" " alt="" coords="545,368,720,408"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="417,385,531,385,531,391,417,391"/>
+<area shape="rect" id="Node000019" href="$classstd_1_1experimental_1_1optional.html#ac36aefeb327e3cc2f7f06e6c3babccb8" title=" " alt="" coords="559,432,706,472"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="417,401,547,430,546,436,416,407"/>
+</map>

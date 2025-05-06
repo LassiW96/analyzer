@@ -1,0 +1,7 @@
+<map id="THaHRS::FindVertices" name="THaHRS::FindVertices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,168,56"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#a388b3384c87da299edae9030a1fd4df8" title=" " alt="" coords="216,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,32,202,28,203,34,169,37"/>
+<area shape="rect" id="Node000003" href="$classTHaHRS.html#a5225dfc9058807ce28d8665ee60c766b" title=" " alt="" coords="244,55,407,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,49,231,55,230,60,168,54"/>
+</map>

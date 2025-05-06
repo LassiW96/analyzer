@@ -1,0 +1,17 @@
+<map id="THaRun::Print" name="THaRun::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,116,105"/>
+<area shape="rect" id="Node000002" href="$classTHaPrintOption.html#a9006e3873ab90fe1141bd377b16fa1f9" title=" " alt="" coords="381,5,567,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,78,118,57,163,39,215,28,267,20,367,14,367,19,268,26,216,33,165,45,120,62,83,82"/>
+<area shape="rect" id="Node000003" href="$classTHaRun.html#a86ce687fadfce4d56dc8e13f418705e3" title=" " alt="" coords="164,55,328,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,82,150,78,151,83,117,88"/>
+<area shape="rect" id="Node000004" href="$classTHaRunBase.html#a713fcb2123445ae76c5ba80ea19358a9" title=" " alt="" coords="175,104,317,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,97,162,103,161,108,116,102"/>
+<area shape="rect" id="Node000007" href="$classTHaPrintOption.html#a82f6bd4d4479d8186fd55a1bae52a9e5" title=" " alt="" coords="383,155,565,180"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="84,103,121,123,165,139,216,151,269,159,369,166,369,171,268,164,215,156,163,145,119,127,81,108"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="299,102,327,89,341,78,350,65,359,53,375,41,391,33,394,38,377,46,363,57,354,69,345,81,329,94,302,106"/>
+<area shape="rect" id="Node000005" href="$classTHaRunBase.html#af1342e93adbc7699cb94de7a373fc9ce" title=" " alt="" coords="393,56,555,81"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="307,101,399,82,400,87,308,107"/>
+<area shape="rect" id="Node000006" href="$classTHaRunBase.html#a1d706021d2d72fa970ffa14efd26349b" title=" " alt="" coords="376,105,572,131"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="317,114,362,115,362,120,317,120"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="305,127,404,149,402,154,304,132"/>
+</map>

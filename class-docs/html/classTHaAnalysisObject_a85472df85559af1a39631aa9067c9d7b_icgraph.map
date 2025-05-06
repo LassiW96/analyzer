@@ -1,0 +1,25 @@
+<map id="THaAnalysisObject::OpenRunDBFile" name="THaAnalysisObject::OpenRunDBFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,164,664,204"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a0ba1d2be60ebad33e92c4ce45c44587e" title=" " alt="" coords="309,164,463,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,187,463,187,463,181,497,181"/>
+<area shape="rect" id="Node000004" href="$classTHaElossCorrection.html#a746033a0cf2f3f2d8915417688986733" title=" " alt="" coords="58,5,209,45"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="553,157,511,124,462,96,397,72,330,54,209,34,210,29,331,49,399,67,464,91,514,120,556,153"/>
+<area shape="rect" id="Node000005" href="$classTHaExtTarCor.html#ab2721fe13fc1aca3db621d640215a894" title=" " alt="" coords="14,70,253,95"/>
+<area shape="poly" id="edge10_Node000001_Node000005" title=" " alt="" coords="537,160,501,143,462,129,356,106,253,93,253,87,356,100,463,124,503,138,540,155"/>
+<area shape="rect" id="Node000006" href="$classTHaIdealBeam.html#a15e734d8cdb23cbb1246f56b8fd71dfd" title=" " alt="" coords="10,119,257,145"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="504,163,462,155,357,142,257,137,257,131,358,137,463,149,505,158"/>
+<area shape="rect" id="Node000007" href="$classTHaPrimaryKine.html#a76cd6353938c02866b7c8e41315f9745" title=" " alt="" coords="5,218,261,243"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="507,210,463,219,360,229,262,234,261,228,360,224,462,213,506,205"/>
+<area shape="rect" id="Node000008" href="$classTHaSecondaryKine.html#adf711a2836d3f67fc30fe90cb38f612d" title=" " alt="" coords="28,268,239,308"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="533,212,463,239,348,265,239,281,238,275,347,259,462,233,532,207"/>
+<area shape="rect" id="Node000009" href="$classTHaSpectrometer.html#a91475b5c65ac0cd9d397f0988a706e51" title=" " alt="" coords="32,332,235,372"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="555,215,513,247,464,276,407,298,347,317,235,341,234,336,346,311,405,293,462,271,510,243,552,211"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ace906139903620924e0d49ff8ce64209" title=" " alt="" coords="46,169,221,194"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,186,221,185,221,180,296,180"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="361,155,318,105,290,81,260,60,235,48,208,39,210,34,237,43,263,55,293,76,321,102,365,151"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="346,158,306,132,260,109,224,98,225,93,262,104,309,127,349,154"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="295,166,261,159,204,147,205,142,262,153,297,161"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="296,203,203,221,202,215,295,198"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="345,214,306,236,262,257,224,271,222,265,260,252,303,232,342,209"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="367,217,323,271,295,299,263,322,236,335,234,330,260,318,291,295,319,268,363,213"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="THaFormula::DefinedGlobalVariable" name="THaFormula::DefinedGlobalVariable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,222,207,262"/>
+<area shape="rect" id="Node000002" href="$classTHaFormula.html#af6d7724315ec8149ea0aad81d5be56d9" title=" " alt="" coords="255,222,456,262"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,239,241,239,241,245,207,245"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="536,5,663,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,221,383,182,414,133,454,82,502,40,522,30,524,34,506,44,457,86,418,136,388,185,368,223"/>
+<area shape="rect" id="Node000004" href="$classTHaArrayString.html#ad30027566d9995e65fb94cca8cb50b56" title=" " alt="" coords="504,55,695,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,220,422,155,460,119,503,89,516,83,518,87,505,94,463,124,426,159,373,224"/>
+<area shape="rect" id="Node000005" href="$classTHaArrayString.html#aaa02831b73ea34166663135cb806ed26" title=" " alt="" coords="506,104,693,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="383,219,437,183,503,146,540,131,542,136,505,151,440,188,386,224"/>
+<area shape="rect" id="Node000006" href="$classTHaVar.html#aab0d18b5436aae3c1318919c07a9d61d" title=" " alt="" coords="771,187,905,212"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="403,219,451,203,504,190,570,183,637,181,757,187,757,192,637,186,570,188,504,195,453,208,405,224"/>
+<area shape="rect" id="Node000008" href="$classTHaVar.html#a69f5ad61ab0d5f701d666b6baf2a4ada" title=" " alt="" coords="543,229,656,255"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="456,239,529,239,529,245,456,245"/>
+<area shape="rect" id="Node000009" href="$classTHaArrayString.html#a2cbbedd2325a6442fe20fb7593e84db8" title=" " alt="" coords="512,279,687,304"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="455,259,523,273,522,279,454,265"/>
+<area shape="rect" id="Node000010" href="$classTHaVar.html#a22f56b84b2680ce5b265d5bb8decb8dd" title=" " alt="" coords="538,328,661,353"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="393,260,445,287,505,313,531,322,529,327,503,318,443,292,391,265"/>
+<area shape="rect" id="Node000012" href="$classTHaArrayString.html#a9460a3a3529b5459ce2729cf61c35622" title=" " alt="" coords="514,377,685,403"/>
+<area shape="poly" id="edge13_Node000002_Node000012" title=" " alt="" coords="377,260,432,311,467,339,505,362,523,370,521,375,503,367,464,343,428,315,373,264"/>
+<area shape="rect" id="Node000013" href="$classTHaVar.html#a913b9fdf934b8d4529027be65a6f6696" title=" " alt="" coords="527,427,671,452"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="370,261,392,294,422,336,461,378,505,413,516,419,514,424,503,418,457,382,418,339,387,297,366,264"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1Variable.html#a59353e49e9acafce4222abf4cba6be88" title=" " alt="" coords="981,243,1163,268"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="892,209,1005,237,1004,242,891,215"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="561,231,552,221,557,211,573,205,599,203,633,207,645,216,642,220,631,211,599,208,574,210,560,215,558,220,565,227"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1Variable.html#a92c40245a5562376c9be0530e82f751c" title=" " alt="" coords="753,297,923,323"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="660,330,739,320,740,325,661,335"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="892,295,1003,269,1004,274,894,300"/>
+<area shape="rect" id="Node000014" href="$classPodd_1_1Variable.html#aeefba76a01ba6b32f8cf7a2800eb443c" title=" " alt="" coords="743,427,933,452"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="671,437,729,437,729,442,671,442"/>
+</map>

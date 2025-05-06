@@ -1,0 +1,15 @@
+<map id="THaG0Helicity" name="THaG0Helicity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,2552,271,3277"/>
+<area shape="rect" id="Node000002" href="$classTHaHelicityDet.html" title=" " alt="" coords="29,2139,178,2404"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,2417,148,2551,143,2552,122,2418"/>
+<area shape="rect" id="Node000003" href="$classTHaDetector.html" title=" " alt="" coords="37,1805,169,1991"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,2005,106,2139,101,2139,101,2005"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html" title=" " alt="" coords="21,1112,185,1757"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,1771,106,1805,101,1805,101,1771"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+<area shape="rect" id="Node000007" href="$classTHaG0HelicityReader.html" title=" " alt="" coords="202,2039,391,2504"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="262,2518,257,2552,252,2552,257,2517"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="HallA/THaVDCPoint.h" name="HallA/THaVDCPoint.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="391,5,551,31"/>
+<area shape="rect" id="Node000002" href="$THaVDC_8cxx.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,38,109,154,107,149,427,33"/>
+<area shape="rect" id="Node000003" href="$THaVDCChamber_8cxx.html" title=" " alt="" coords="173,152,373,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,39,369,81,322,119,286,153,282,150,318,115,366,76,435,35"/>
+<area shape="rect" id="Node000004" href="$THaVDCChamber_8h.html" title=" " alt="" coords="379,79,564,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="474,44,474,79,469,79,469,44"/>
+<area shape="rect" id="Node000006" href="$THaVDCPoint_8cxx.html" title=" " alt="" coords="823,152,997,177"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="505,35,630,102,730,131,826,149,825,155,729,136,628,106,503,40"/>
+<area shape="rect" id="Node000008" href="$THaVDCTrackID_8cxx.html" title=" " alt="" coords="640,79,831,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="528,32,693,76,692,81,526,37"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="395,109,141,155,140,149,394,104"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="427,111,306,154,304,149,426,106"/>
+<area shape="rect" id="Node000005" href="$THaVDCPlane_8cxx.html" title=" " alt="" coords="619,152,798,177"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="523,105,671,149,669,154,522,110"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="556,104,840,149,839,155,555,109"/>
+<area shape="rect" id="Node000007" href="$THaVDCPointPair_8cxx.html" title=" " alt="" coords="396,152,595,177"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="482,116,494,151,489,153,477,118"/>
+</map>

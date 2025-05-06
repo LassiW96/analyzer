@@ -1,0 +1,15 @@
+<map id="THaAnalysisObject::Print" name="THaAnalysisObject::Print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,97,605,137"/>
+<area shape="rect" id="Node000002" href="$classTHaVDC.html#acd280610d4236cb3fff8ab28c70b8906" title=" " alt="" coords="259,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,91,447,67,403,44,371,33,373,28,405,40,449,62,489,86"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1DecData.html#a6159b3f464d3241cb56cf4fffb501ef8" title=" " alt="" coords="238,55,394,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,98,371,83,372,77,439,93"/>
+<area shape="rect" id="Node000005" href="$classTHaApparatus.html#a074afa5271b3061426340e64d3873c17" title=" " alt="" coords="240,104,392,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="438,119,392,119,392,114,438,114"/>
+<area shape="rect" id="Node000006" href="$classTHaDebugModule.html#adfc78d26770dc58ae1f40aca83ea733d" title=" " alt="" coords="228,153,404,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="439,140,372,156,371,151,438,135"/>
+<area shape="rect" id="Node000007" href="$classVDCeff.html#a8b2eccc61e82c26777d7d2b34a272ee1" title=" " alt="" coords="253,203,379,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="488,147,449,171,405,192,370,205,368,200,403,188,446,166,485,142"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1DecData.html#a75452a2550cd6c801b73d6d426c30733" title=" " alt="" coords="5,55,180,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,70,180,70,180,65,224,65"/>
+</map>

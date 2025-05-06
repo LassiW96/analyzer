@@ -1,0 +1,18 @@
+<map id="THaCut::Eval" name="THaCut::Eval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,112,121"/>
+<area shape="rect" id="Node000002" href="$classTHaCut.html#ad45809f5f9b140b04018ed2c985c2823" title=" " alt="" coords="201,17,361,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,93,159,61,216,43,218,48,161,67,87,98"/>
+<area shape="rect" id="Node000005" href="$classTHaFormula.html#a377185d6480e607a48b8ef956ea9bec7" title=" " alt="" coords="933,66,1097,91"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="112,104,919,79,919,84,112,109"/>
+<area shape="rect" id="Node000007" href="$classTHaFormula.html#a1757930ce180b5a0d3b9ce2522d58341" title=" " alt="" coords="160,121,403,146"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="112,111,156,116,156,122,112,117"/>
+<area shape="rect" id="Node000008" href="$classTHaFormula.html#a78c79d69ad8120e96ddd389d688c4451" title=" " alt="" coords="206,170,357,195"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="82,118,118,138,161,156,193,165,191,171,159,161,116,143,80,123"/>
+<area shape="rect" id="Node000003" href="$classTHaFormula.html#a93e32fddcadb344d01322626bb0adf79" title=" " alt="" coords="451,5,643,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,25,437,24,437,30,362,31"/>
+<area shape="rect" id="Node000004" href="$classTHaFormula.html#a85f8a978a355b7b5e536222e3fec151b" title=" " alt="" coords="691,17,885,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="643,24,677,25,677,30,643,30"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="848,39,943,60,942,66,847,45"/>
+<area shape="rect" id="Node000006" href="$THaFormula_8cxx.html#a458f17efaef1fae4bcda97c588d97e0c" title=" " alt="" coords="948,17,1083,42"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="886,27,934,27,934,32,886,32"/>
+</map>

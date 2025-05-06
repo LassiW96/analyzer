@@ -1,0 +1,15 @@
+<map id="THaRaster" name="THaRaster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,2252,174,2797"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcRaster.html" title=" " alt="" coords="39,2845,167,2931"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="106,2811,106,2845,101,2845,101,2811"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamDet.html" title=" " alt="" coords="35,2039,172,2204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,2218,106,2252,101,2252,101,2218"/>
+<area shape="rect" id="Node000003" href="$classTHaDetector.html" title=" " alt="" coords="37,1805,169,1991"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,2004,106,2038,101,2038,101,2004"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html" title=" " alt="" coords="21,1112,185,1757"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,1771,106,1805,101,1805,101,1771"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+</map>

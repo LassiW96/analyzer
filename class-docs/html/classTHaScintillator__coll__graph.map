@@ -1,0 +1,24 @@
+<map id="THaScintillator" name="THaScintillator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="350,2667,521,3152"/>
+<area shape="rect" id="Node000002" href="$classTHaNonTrackingDetector.html" title=" " alt="" coords="255,2332,467,2617"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,2630,396,2666,391,2667,385,2631"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometerDetector.html" title=" " alt="" coords="237,2037,457,2283"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,2296,357,2332,352,2332,350,2297"/>
+<area shape="rect" id="Node000004" href="$classTHaDetector.html" title=" " alt="" coords="275,1803,407,1988"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="346,2002,347,2037,342,2037,341,2002"/>
+<area shape="rect" id="Node000005" href="$classTHaDetectorBase.html" title=" " alt="" coords="231,1128,395,1753"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="335,1767,338,1802,332,1803,330,1767"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="207,1027,217,1065,233,1130,228,1131,211,1066,202,1028"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="270,5,339,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="261,73,237,95,216,121,204,143,199,141,212,119,233,91,257,69"/>
+<area shape="rect" id="Node000010" href="$classPodd_1_1DetectorData.html" title=" " alt="" coords="424,420,593,765"/>
+<area shape="poly" id="edge10_Node000010_Node000007" title=" " alt="" coords="353,62,386,87,414,119,450,190,477,267,494,345,505,419,500,420,489,346,472,269,445,192,409,121,382,90,350,66"/>
+<area shape="rect" id="Node000008" href="$classTHaDetMap.html" title=" " alt="" coords="226,400,399,785"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="315,786,315,1111,310,1111,310,786"/>
+<area shape="rect" id="Node000009" href="$classPodd_1_1PMTData.html" title=" " alt="" coords="424,1298,593,1583"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="511,1583,510,1894,510,2476,506,2563,495,2651,490,2650,501,2563,505,2476,505,1894,505,1583"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="511,779,511,1298,506,1298,506,779"/>
+<area shape="rect" id="Node000011" href="$structPodd_1_1HitCount__t.html" title=" " alt="" coords="618,540,741,645"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="676,646,650,832,609,1066,556,1282,551,1281,603,1065,645,831,670,645"/>
+</map>

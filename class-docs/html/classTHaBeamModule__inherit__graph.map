@@ -1,0 +1,19 @@
+<map id="THaBeamModule" name="THaBeamModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="367,5,528,151"/>
+<area shape="rect" id="Node000002" href="$classTHaBeam.html" title=" " alt="" coords="188,289,349,534"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,164,364,200,320,290,315,287,360,197,383,161"/>
+<area shape="rect" id="Node000008" href="$classTHaBeamEloss.html" title=" " alt="" coords="373,319,521,504"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="450,164,450,319,445,319,445,164"/>
+<area shape="rect" id="Node000009" href="$classTHaEpicsEbeam.html" title=" " alt="" coords="545,199,725,624"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="513,161,536,197,547,217,543,219,532,200,508,164"/>
+<area shape="rect" id="Node000003" href="$classTHaIdealBeam.html" title=" " alt="" coords="5,722,164,867"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,547,122,723,117,721,202,545"/>
+<area shape="rect" id="Node000004" href="$classTHaRasteredBeam.html" title=" " alt="" coords="188,752,349,837"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,548,271,752,266,752,266,548"/>
+<area shape="rect" id="Node000006" href="$classTHaUnRasteredBeam.html" title=" " alt="" coords="382,672,571,917"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="326,545,364,623,393,671,388,673,360,625,321,548"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcRasteredBeam.html" title=" " alt="" coords="173,965,356,1031"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="270,851,268,965,263,965,265,851"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcUnRasteredBeam.html" title=" " alt="" coords="381,965,581,1031"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="482,931,483,965,477,965,477,931"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="THaAnalyzer::GetCount" name="THaAnalyzer::GetCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="736,25,911,50"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalyzer.html#a3b0fc2d4bd4fc7850cc3973bcf92afe5" title=" " alt="" coords="219,25,419,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,24,688,15,579,8,471,15,382,27,381,22,470,9,579,3,688,9,754,19"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalyzer.html#a284d732e48250ce377112ede1b0ec092" title=" " alt="" coords="471,25,688,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="722,40,688,40,688,35,722,35"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalyzer.html#a26bdea0449767ef5f6f2b1ff7f324d7f" title=" " alt="" coords="479,74,680,99"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="747,55,644,76,642,71,746,50"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalyzer.html#a3fa33731442d7b4f0877380e5702ac31" title=" " alt="" coords="5,50,168,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,52,168,56,168,51,206,47"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="457,40,420,40,420,35,457,35"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalyzer.html#a9755a78946e1dc3e29e389bfb29a51e0" title=" " alt="" coords="216,74,423,99"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="465,89,423,89,423,84,465,84"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="202,77,168,74,168,68,203,72"/>
+</map>

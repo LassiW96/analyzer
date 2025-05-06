@@ -1,0 +1,13 @@
+<map id="THaEvtTypeHandler" name="THaEvtTypeHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="209,1112,386,1517"/>
+<area shape="rect" id="Node000004" href="$classTHaEpicsEvtHandler.html" title=" " alt="" coords="5,1645,187,1931"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,1531,159,1646,154,1644,203,1529"/>
+<area shape="rect" id="Node000005" href="$classTHaEvt125Handler.html" title=" " alt="" coords="211,1665,383,1911"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="300,1531,300,1665,295,1665,295,1531"/>
+<area shape="rect" id="Node000006" href="$classTHaScalerEvtHandler.html" title=" " alt="" coords="407,1565,595,2011"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="393,1529,410,1569,405,1571,388,1531"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html" title=" " alt="" coords="199,119,395,1064"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,1078,300,1112,295,1112,295,1078"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="263,5,332,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,85,300,119,295,119,295,85"/>
+</map>

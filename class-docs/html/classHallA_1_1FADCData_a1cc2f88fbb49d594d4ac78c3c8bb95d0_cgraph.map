@@ -1,0 +1,18 @@
+<map id="HallA::FADCData::StoreHit" name="HallA::FADCData::StoreHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,196,117"/>
+<area shape="rect" id="Node000002" href="$namespaceHallA.html#a943bee16f06e50c5e5249def7fcd89c9" title=" " alt="" coords="244,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,89,243,41,266,33,268,38,245,46,130,94"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1DetectorData.html#a5f64134887996ef68b052bb7e12e8298" title=" " alt="" coords="247,55,399,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,89,233,84,234,90,197,95"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1DetectorData.html#a7df741acf2f51ed575fb9e0a0688b22f" title=" " alt="" coords="451,120,636,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="197,108,437,123,437,129,196,113"/>
+<area shape="rect" id="Node000006" href="$classstd_1_1experimental_1_1optional.html#a0e74793257ebfb49aafb223c8c6e3634" title=" " alt="" coords="251,170,396,210"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="136,115,259,163,257,168,134,120"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1DetectorData.html#acc8619d366c610a9d1dd9f0df0b05f21" title=" " alt="" coords="469,55,618,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,73,455,73,455,78,399,78"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="400,92,481,114,480,119,399,98"/>
+<area shape="rect" id="Node000007" href="$classstd_1_1experimental_1_1optional.html#a0ae5252bfc135e0613d8cd4530ffafed" title=" " alt="" coords="456,170,631,210"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="396,187,442,187,442,193,396,193"/>
+<area shape="rect" id="Node000008" href="$classstd_1_1experimental_1_1optional.html#ac36aefeb327e3cc2f7f06e6c3babccb8" title=" " alt="" coords="470,234,617,274"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="394,208,462,228,460,233,392,213"/>
+</map>

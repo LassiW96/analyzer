@@ -1,0 +1,9 @@
+<map id="THaVDCPlane::StoreHit" name="THaVDCPlane::StoreHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,179,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCWire.html#aeebac69df3623e3fa433bb6e6497510c" title=" " alt="" coords="227,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,31,212,27,213,32,180,36"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#a3359f49ea513255896dd11eb8c6a29ac" title=" " alt="" coords="232,55,405,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,50,219,54,218,59,179,55"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPlane.html#a3f5651f178b4656fc5fe8d704a247bf1" title=" " alt="" coords="459,55,649,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,65,445,65,445,70,406,70"/>
+</map>

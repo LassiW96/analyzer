@@ -1,0 +1,11 @@
+<map id="THaVertexModule::GetRVarDef" name="THaVertexModule::GetRVarDef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,95,527,120"/>
+<area shape="rect" id="Node000002" href="$classTHaAvgVertex.html#a12069614c4b89167fc314aacb7649dc0" title=" " alt="" coords="19,5,243,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,91,318,68,255,46,205,33,207,28,257,41,320,63,375,86"/>
+<area shape="rect" id="Node000003" href="$classTHaReacPointFoil.html#a5968b2e06668bbcb502a6bf6d8c83cef" title=" " alt="" coords="37,55,224,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,96,224,88,225,83,290,91"/>
+<area shape="rect" id="Node000004" href="$classTHaReactionPoint.html#aec9b22ae420dcc0e566b477438977363" title=" " alt="" coords="37,119,225,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="290,124,225,131,225,126,290,119"/>
+<area shape="rect" id="Node000005" href="$classTHaTwoarmVertex.html#aa6131e5d0cbd1d9a505b1e67da6ae285" title=" " alt="" coords="5,184,256,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="375,128,320,152,257,174,207,186,205,181,255,169,318,147,373,123"/>
+</map>

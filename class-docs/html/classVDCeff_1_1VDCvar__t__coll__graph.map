@@ -1,0 +1,10 @@
+<map id="VDCeff::VDCvar_t" name="VDCeff::VDCvar_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,538,133,763"/>
+<area shape="rect" id="Node000002" href="$classTHaVar.html" title=" " alt="" coords="104,120,235,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,406,116,430,94,523,89,522,111,429,117,405"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1Variable.html" title=" " alt="" coords="157,468,333,833"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="163,405,168,444,170,452,164,453,163,444,158,406"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,204,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,84,172,120,167,120,167,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,468,213,430,212,422,217,421,219,429,226,467"/>
+</map>

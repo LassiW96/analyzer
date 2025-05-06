@@ -1,0 +1,19 @@
+<map id="THaTrackInfo::Clear" name="THaTrackInfo::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="757,35,907,60"/>
+<area shape="rect" id="Node000002" href="$classTHaGoldenTrack.html#a9fbf95d7c4bde8279194dd7877170002" title=" " alt="" coords="539,5,709,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="744,38,709,33,710,27,744,32"/>
+<area shape="rect" id="Node000003" href="$classTHaTrackingModule.html#a3ad3d2d97748acafd2ffc0bc88628950" title=" " alt="" coords="545,55,703,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="744,62,704,67,703,62,744,57"/>
+<area shape="rect" id="Node000004" href="$classTHaExtTarCor.html#a8ad7e986db99cecaa9b09dcd8a6bc862" title=" " alt="" coords="325,13,477,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="531,57,459,41,460,36,532,52"/>
+<area shape="rect" id="Node000006" href="$classTHaSpectrometer.html#aacfb001d62950f80509faa7767209494" title=" " alt="" coords="312,63,491,88"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="531,78,491,78,491,73,531,73"/>
+<area shape="rect" id="Node000008" href="$classTHaTrackEloss.html#a9607ff81b019745e2dbf0e856f45321c" title=" " alt="" coords="322,112,481,137"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="532,98,460,115,459,109,531,93"/>
+<area shape="rect" id="Node000005" href="$classTHaExtTarCor.html#a48c62067e0f991d02fe86b211edebdeb" title=" " alt="" coords="31,13,238,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="311,29,238,29,238,23,311,23"/>
+<area shape="rect" id="Node000007" href="$classTHaSpectrometer.html#ada8f01c2474cc49ce7fa9e20814b79bc" title=" " alt="" coords="5,63,264,88"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="298,78,264,78,264,73,298,73"/>
+<area shape="rect" id="Node000009" href="$classTHaTrackEloss.html#a9e79d5a13ea5f40e987e3856a890763e" title=" " alt="" coords="25,112,244,137"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="308,127,244,127,244,122,308,122"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="THaVDCCluster::CalcDist" name="THaVDCCluster::CalcDist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,228,189,253"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPlane.html#af58ad3098eefd286c0744bce1b3a64d4" title=" " alt="" coords="237,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,227,118,190,146,139,186,85,209,61,236,40,246,34,248,39,239,44,213,65,190,88,151,141,123,192,106,229"/>
+<area shape="rect" id="Node000003" href="$classTHaTrack.html#a1a7f88027d9a69b64f4941d8860e1913" title=" " alt="" coords="274,55,417,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,226,154,160,192,121,236,89,259,78,262,83,239,94,195,126,158,164,109,229"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#a374f6112b1da33ae0e38a610b206c732" title=" " alt="" coords="265,104,425,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,226,163,183,198,159,236,138,256,131,257,136,238,143,201,163,166,187,114,230"/>
+<area shape="rect" id="Node000005" href="$classTHaTrack.html#a33075c3a3ddbed315cb724a8c3ed6a1c" title=" " alt="" coords="279,153,411,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="129,225,237,187,267,179,269,184,238,193,131,230"/>
+<area shape="rect" id="Node000006" href="$classTHaTrack.html#ab3587a5bdcf738cfff5af235a2f1cc4b" title=" " alt="" coords="280,203,411,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,229,266,221,267,226,190,234"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCPlane.html#a3fbe5e5da165a1f74a2cdf9fb33a90dd" title=" " alt="" coords="239,252,451,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="190,247,226,250,225,256,189,252"/>
+<area shape="rect" id="Node000008" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="255,301,435,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,251,238,286,273,295,272,301,237,291,132,256"/>
+<area shape="rect" id="Node000009" href="$classTHaVDCCluster.html#a8c7b4b926370422f8c6d73276f461b46" title=" " alt="" coords="244,351,447,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="115,251,167,293,202,316,238,336,261,344,259,349,236,340,199,321,164,297,111,256"/>
+<area shape="rect" id="Node000010" href="$classTHaTrack.html#a57421fd45a663d15b246ae317ff8bfa3" title=" " alt="" coords="264,400,427,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="109,252,159,316,196,354,239,385,255,393,252,398,236,390,192,358,155,320,105,255"/>
+<area shape="rect" id="Node000011" href="$classTHaVDCPlane.html#ad345e71e1f184e0601d0c2c2da22002f" title=" " alt="" coords="269,449,421,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="106,253,123,289,152,339,190,391,213,414,239,434,257,444,255,449,236,439,210,418,186,394,147,342,119,292,101,255"/>
+</map>

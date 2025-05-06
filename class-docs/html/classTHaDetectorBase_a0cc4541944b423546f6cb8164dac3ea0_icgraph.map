@@ -1,0 +1,9 @@
+<map id="THaDetectorBase::Clear" name="THaDetectorBase::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,13,895,38"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#acf176b8249159c4d6c715e5507a8347c" title=" " alt="" coords="487,13,668,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,28,668,28,668,23,702,23"/>
+<area shape="rect" id="Node000003" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,13,439,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,28,439,28,439,23,473,23"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,5,169,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,28,170,28,170,23,204,23"/>
+</map>

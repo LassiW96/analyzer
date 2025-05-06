@@ -1,0 +1,11 @@
+<map id="THaVDCPointPair::Analyze" name="THaVDCPointPair::Analyze">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,199,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPointPair.html#a6e1b5eb7004cb1570772a818587db92c" title=" " alt="" coords="247,31,447,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,41,233,41,233,46,199,46"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPointPair.html#a8a4e4d1a904ffcb7070490825962355d" title=" " alt="" coords="495,23,720,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,41,481,41,481,46,447,46"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPoint.html#ad336fb595ac0f17d3fb51b026fb9bbdf" title=" " alt="" coords="768,5,917,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="720,29,754,25,755,30,721,34"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPoint.html#a7d0dc3df519d2e2f2fdba3e6d7c27806" title=" " alt="" coords="769,55,917,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="721,52,755,56,755,61,720,57"/>
+</map>

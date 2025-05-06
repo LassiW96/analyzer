@@ -1,0 +1,23 @@
+<map id="HallA::GetFADCValue" name="HallA::GetFADCValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="529,287,688,312"/>
+<area shape="rect" id="Node000002" href="$classHallA_1_1FADCData.html#a4ecd9d6d335f9da0de94347e35107079" title=" " alt="" coords="247,159,481,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,283,388,186,391,182,573,278"/>
+<area shape="rect" id="Node000008" href="$classHallA_1_1FADCData.html#a1cc2f88fbb49d594d4ac78c3c8bb95d0" title=" " alt="" coords="269,351,459,376"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="546,318,414,353,413,348,545,313"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FadcBPM.html#a80fb5d5fdd8335f349eb53eaa9645bc8" title=" " alt="" coords="5,5,199,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,151,278,98,239,70,198,46,165,33,167,28,200,41,242,65,281,94,342,147"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcCherenkov.html#a38b8302fb4c25bbabff2070a2484b5e3" title=" " alt="" coords="21,55,183,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="318,156,198,110,164,98,165,93,200,105,320,151"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcRaster.html#a47947b4c10f80da821fa29bec60be53c" title=" " alt="" coords="30,119,174,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,160,174,151,174,145,247,154"/>
+<area shape="rect" id="Node000006" href="$classHallA_1_1FadcScintillator.html#a05361733c3e48a5f036b1edbcc298b25" title=" " alt="" coords="20,183,184,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="246,188,184,196,184,191,246,183"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcShower.html#a38e219204e80e7f46310a85bc497cff1" title=" " alt="" coords="27,247,177,287"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="320,192,200,238,165,250,164,245,198,233,318,187"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcCherenkov.html#aad34f6af13232cf107e57076f4cec31e" title=" " alt="" coords="21,311,183,351"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="254,353,183,344,184,339,255,347"/>
+<area shape="rect" id="Node000010" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="20,375,184,415"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="255,379,185,388,184,383,254,374"/>
+<area shape="rect" id="Node000011" href="$classHallA_1_1FadcShower.html#a3c14f8582a97c45104a4b61e026d949b" title=" " alt="" coords="27,439,177,479"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="320,384,200,430,165,442,164,437,198,425,318,379"/>
+</map>

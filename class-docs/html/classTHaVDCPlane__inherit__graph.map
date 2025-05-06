@@ -1,0 +1,11 @@
+<map id="THaVDCPlane" name="THaVDCPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7,2119,200,2764"/>
+<area shape="rect" id="Node000002" href="$classTHaSubDetector.html" title=" " alt="" coords="25,1805,181,2071"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,2084,106,2118,101,2118,101,2084"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html" title=" " alt="" coords="21,1112,185,1757"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1771,106,1805,101,1805,101,1771"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+</map>

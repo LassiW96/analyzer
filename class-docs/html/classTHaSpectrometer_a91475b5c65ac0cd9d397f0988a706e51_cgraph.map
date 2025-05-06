@@ -1,0 +1,18 @@
+<map id="THaSpectrometer::ReadRunDatabase" name="THaSpectrometer::ReadRunDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,208,132"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="285,5,439,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,89,288,47,290,52,167,94"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a85472df85559af1a39631aa9067c9d7b" title=" " alt="" coords="516,92,669,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,106,256,105,468,105,502,106,502,111,468,111,256,111,208,112"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a0ba1d2be60ebad33e92c4ce45c44587e" title=" " alt="" coords="285,120,439,160"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,120,272,128,272,133,208,126"/>
+<area shape="rect" id="Node000007" href="$classTHaSpectrometer.html#a4a28e8b177006afbfa2a5d9f0d1db711" title=" " alt="" coords="256,184,468,224"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="156,130,257,169,280,177,278,182,255,175,154,135"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="717,92,871,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="670,109,704,109,704,115,670,115"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="919,92,1072,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="871,109,905,109,905,115,871,115"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="439,128,502,120,503,126,440,133"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#a03dc94028ee4e51be397ce0613b5995a" title=" " alt="" coords="516,184,669,224"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="469,201,502,201,502,207,469,207"/>
+</map>

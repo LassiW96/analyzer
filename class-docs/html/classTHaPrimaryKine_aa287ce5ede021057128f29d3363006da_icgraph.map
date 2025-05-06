@@ -1,0 +1,7 @@
+<map id="THaPrimaryKine::SetMass" name="THaPrimaryKine::SetMass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="300,31,491,56"/>
+<area shape="rect" id="Node000002" href="$classTHaElectronKine.html#a169ecec94393bb79f45737a9b736bcae" title=" " alt="" coords="5,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,36,252,32,253,27,287,30"/>
+<area shape="rect" id="Node000003" href="$classTHaSAProtonEP.html#afea1397a755c147ff321d5769c704d0b" title=" " alt="" coords="11,55,246,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,56,247,59,246,54,286,50"/>
+</map>

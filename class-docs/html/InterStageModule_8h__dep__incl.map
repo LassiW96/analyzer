@@ -1,0 +1,29 @@
+<map id="Podd/InterStageModule.h" name="Podd/InterStageModule.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="219,5,405,31"/>
+<area shape="rect" id="Node000002" href="$InterStageModule_8cxx.html" title=" " alt="" coords="5,79,205,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,38,140,81,138,76,265,33"/>
+<area shape="rect" id="Node000003" href="$THaAnalyzer_8cxx.html" title=" " alt="" coords="229,79,395,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="315,44,315,79,309,79,309,44"/>
+<area shape="rect" id="Node000004" href="$TimeCorrectionModule_8h.html" title=" " alt="" coords="420,79,639,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="361,32,495,76,493,81,359,37"/>
+<area shape="rect" id="Node000005" href="$THaVDC_8cxx.html" title=" " alt="" coords="89,225,231,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,109,351,127,274,154,244,171,216,191,174,227,170,223,213,187,242,167,272,150,349,122,426,104"/>
+<area shape="rect" id="Node000006" href="$THaVDC_8h.html" title=" " alt="" coords="286,152,413,177"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="489,111,380,154,378,149,487,106"/>
+<area shape="rect" id="Node000009" href="$TwoarmVDCTimeCorrection_8h.html" title=" " alt="" coords="641,152,893,177"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="581,105,729,149,727,154,580,110"/>
+<area shape="rect" id="Node000011" href="$THaTriggerTime_8h.html" title=" " alt="" coords="443,152,616,177"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="532,118,532,152,527,152,527,118"/>
+<area shape="rect" id="Node000013" href="$TimeCorrectionModule_8cxx.html" title=" " alt="" coords="917,152,1150,177"/>
+<area shape="poly" id="edge14_Node000004_Node000013" title=" " alt="" coords="624,103,953,149,952,155,624,109"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="307,185,192,228,190,223,305,180"/>
+<area shape="rect" id="Node000007" href="$THaHRS_8cxx.html" title=" " alt="" coords="459,225,600,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="392,180,501,223,499,228,390,185"/>
+<area shape="rect" id="Node000008" href="$THaVDCPlane_8cxx.html" title=" " alt="" coords="256,225,435,251"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="351,191,349,225,343,225,345,191"/>
+<area shape="rect" id="Node000010" href="$TwoarmVDCTimeCorrection_8cxx.html" title=" " alt="" coords="837,225,1104,251"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="813,179,939,223,937,228,811,184"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="532,191,532,225,527,225,527,191"/>
+<area shape="rect" id="Node000012" href="$THaTriggerTime_8cxx.html" title=" " alt="" coords="625,225,813,251"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="573,180,689,223,687,228,572,185"/>
+</map>

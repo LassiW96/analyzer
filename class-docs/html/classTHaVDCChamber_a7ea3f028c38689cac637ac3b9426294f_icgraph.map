@@ -1,0 +1,9 @@
+<map id="THaVDCChamber::GetPoint" name="THaVDCChamber::GetPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="468,42,667,67"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCChamber.html#a962373e76d603168a3feb274cb08c97c" title=" " alt="" coords="216,5,420,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,44,420,40,420,35,455,39"/>
+<area shape="rect" id="Node000003" href="$classTHaVDC.html#a39663499434ed7c869edc3a672971b91" title=" " alt="" coords="225,70,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="455,70,412,75,411,70,454,65"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,70,168,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,85,168,85,168,80,211,80"/>
+</map>

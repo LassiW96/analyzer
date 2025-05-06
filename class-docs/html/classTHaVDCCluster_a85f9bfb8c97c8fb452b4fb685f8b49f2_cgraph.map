@@ -1,0 +1,9 @@
+<map id="THaVDCCluster::SetTrack" name="THaVDCCluster::SetTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,191,80"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="250,5,430,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,52,263,31,264,36,162,57"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#a8c7b4b926370422f8c6d73276f461b46" title=" " alt="" coords="239,55,441,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,65,225,65,225,70,191,70"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#a57421fd45a663d15b246ae317ff8bfa3" title=" " alt="" coords="259,104,421,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,77,264,99,263,104,160,83"/>
+</map>

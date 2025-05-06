@@ -1,0 +1,9 @@
+<map id="THaDetMap::Module::IsADC" name="THaDetMap::Module::IsADC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,47,401,87"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap.html#a05c48ad1c792b3ac39f7822852a59066" title=" " alt="" coords="25,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,49,155,33,156,28,225,44"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#afc98317a88b8b9b8ec91cca45af58fb6" title=" " alt="" coords="25,55,171,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,70,171,70,171,65,225,65"/>
+<area shape="rect" id="Node000004" href="$classTHaDetMap_1_1Iterator_1_1HitInfo__t.html#a7c64e2517795e387a0ac23902cae0426" title=" " alt="" coords="5,105,191,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,93,177,107,175,102,228,88"/>
+</map>

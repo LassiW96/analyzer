@@ -1,0 +1,22 @@
+<map id="THaRun::PrescanFile" name="THaRun::PrescanFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,160,129"/>
+<area shape="rect" id="Node000002" href="$classTHaCodaRun.html#a1c8257d6b2772e339751dd721f014c85" title=" " alt="" coords="208,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,102,147,71,207,40,230,32,231,37,209,44,149,75,103,106"/>
+<area shape="rect" id="Node000004" href="$classTHaCodaRun.html#a05580a2f655d8cbcd7b39fa917018ecd" title=" " alt="" coords="221,55,413,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="143,101,242,80,243,86,144,107"/>
+<area shape="rect" id="Node000005" href="$classTHaRunBase.html#af1342e93adbc7699cb94de7a373fc9ce" title=" " alt="" coords="236,104,399,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="161,114,223,114,223,119,161,119"/>
+<area shape="rect" id="Node000006" href="$classTHaCodaRun.html#a9b1ad70410ffef1f4b21e822608e3e4c" title=" " alt="" coords="225,153,409,179"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="144,127,243,148,242,153,143,132"/>
+<area shape="rect" id="Node000008" href="$classTHaRunBase.html#a0082623bbe374ab2ca4d68a1bfd0c42b" title=" " alt="" coords="237,203,397,228"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="103,127,150,157,209,188,235,196,234,202,207,192,147,162,100,132"/>
+<area shape="rect" id="Node000003" href="$classTHaCodaRun.html#a8a7cb0ad371e0a4ccfe76bad9d8c97fb" title=" " alt="" coords="475,5,691,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,24,461,24,461,30,427,30"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="474,12,441,12,441,6,475,6"/>
+<area shape="rect" id="Node000007" href="$classTHaCodaRun.html#a18844107aeb90b70be73f61be994c5f3" title=" " alt="" coords="487,153,678,179"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="409,163,473,163,473,169,409,169"/>
+<area shape="rect" id="Node000009" href="$classTHaRunBase.html#a8111c4d9682d9ff8b2cfbe218c476166" title=" " alt="" coords="489,203,676,228"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="397,213,476,213,476,218,397,218"/>
+<area shape="rect" id="Node000010" href="$classTHaRunBase.html#a346d2a2ec74091294324f7088590a1ec" title=" " alt="" coords="501,252,665,277"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="387,225,501,247,500,252,386,231"/>
+</map>

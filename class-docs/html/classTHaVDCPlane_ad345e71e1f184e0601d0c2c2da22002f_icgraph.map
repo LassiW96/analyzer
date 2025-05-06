@@ -1,0 +1,21 @@
+<map id="THaVDCPlane::GetZ" name="THaVDCPlane::GetZ">
+<area shape="rect" id="Node000001" title=" " alt="" coords="659,80,811,105"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ac1e7c65e74a55946ceec1c094d46fec5" title=" " alt="" coords="427,5,611,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,77,610,45,572,33,574,28,612,39,694,72"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCChamber.html#aeb86d3c3b4fc40e79d95c4a7d1ac3268" title=" " alt="" coords="431,55,606,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="644,85,606,80,607,75,645,79"/>
+<area shape="rect" id="Node000008" href="$classTHaVDC.html#a4dd9f0dc1e15c41493390ff817f96123" title=" " alt="" coords="247,131,352,156"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="645,106,353,140,352,135,644,100"/>
+<area shape="rect" id="Node000009" href="$classTHaVDCChamber.html#affce5e36dbfb957e4e3d296c1ef39050" title=" " alt="" coords="437,156,601,181"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="686,113,612,139,557,158,555,153,610,134,684,107"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPoint.html#aa4a337b2138635ce18a50420c9e59ffd" title=" " alt="" coords="220,31,379,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="417,59,379,55,379,49,418,54"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCPoint.html#a00f510fa07f0cf0c4067fdbeb486138d" title=" " alt="" coords="220,80,379,105"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="418,82,379,86,379,81,417,76"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPoint.html#ae7078e90f48a37ca0698d7e1dd8fa298" title=" " alt="" coords="14,31,163,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,46,164,46,164,41,206,41"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCPointPair.html#a1ac8c30b9fcddb996f4d87c7fefc0363" title=" " alt="" coords="5,80,172,105"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="232,62,144,83,143,77,231,57"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="206,95,172,95,172,90,206,90"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="423,160,352,152,353,147,424,155"/>
+</map>

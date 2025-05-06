@@ -1,0 +1,16 @@
+<map id="THaOutput::ProcEpics" name="THaOutput::ProcEpics">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,168,153"/>
+<area shape="rect" id="Node000002" href="$classTHaEpicsEvtHandler.html#a0e1bcbc8eb95ee0e68bafa6c3fe07071" title=" " alt="" coords="218,5,373,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,125,215,62,238,49,241,54,217,66,110,129"/>
+<area shape="rect" id="Node000003" href="$classTHaEpicsEvtHandler.html#aed568e719864518d7931621a94e3a1ed" title=" " alt="" coords="423,92,577,132"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="128,125,170,114,216,105,315,99,409,102,409,107,316,105,216,111,171,119,129,130"/>
+<area shape="rect" id="Node000004" href="$classTHaEpicsEvtHandler.html#a489baea991b02c68258d7d13ff0386e6" title=" " alt="" coords="218,120,373,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,137,204,137,204,143,168,143"/>
+<area shape="rect" id="Node000005" href="$classTHaEpicsEvtHandler.html#aafd9eb7caad0bc8dd622f2970cf5f3a7" title=" " alt="" coords="218,184,373,224"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="130,150,217,177,216,182,128,155"/>
+<area shape="rect" id="Node000006" href="$classTHaEvtTypeHandler.html#a56d8a3738a847dde88cf26c8eda4aa5a" title=" " alt="" coords="216,248,375,288"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="104,151,153,190,217,234,229,240,226,245,215,238,150,195,101,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,43,440,84,438,89,342,48"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="373,127,409,122,409,127,373,132"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="346,182,374,170,445,136,447,141,376,174,348,186"/>
+</map>

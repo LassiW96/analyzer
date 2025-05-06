@@ -1,0 +1,15 @@
+<map id="THaHelicityDet::ReadDatabase" name="THaHelicityDet::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,229,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="277,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,42,263,35,264,40,212,47"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="277,69,431,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,67,264,75,263,80,211,73"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="479,37,632,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,75,465,69,466,74,431,80"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="479,101,632,141"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="431,99,466,104,465,110,431,104"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="680,37,833,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="632,55,666,55,666,60,632,60"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="680,101,833,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="632,119,666,119,666,124,632,124"/>
+</map>

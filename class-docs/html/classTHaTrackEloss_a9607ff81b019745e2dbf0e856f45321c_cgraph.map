@@ -1,0 +1,13 @@
+<map id="THaTrackEloss::Clear" name="THaTrackEloss::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,164,70"/>
+<area shape="rect" id="Node000002" href="$classTHaElossCorrection.html#a4052b9db56a32ca78873bcced5e24adc" title=" " alt="" coords="217,5,366,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,42,203,36,203,42,165,48"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackingModule.html#a3ad3d2d97748acafd2ffc0bc88628950" title=" " alt="" coords="212,69,371,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,67,199,72,198,78,164,72"/>
+<area shape="rect" id="Node000003" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="419,13,605,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,23,405,23,405,28,366,28"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="653,5,807,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="606,23,640,23,640,28,606,28"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackInfo.html#ad9f0ef653723e8ce2cbb68689f4f6e03" title=" " alt="" coords="437,77,587,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="371,87,423,87,423,92,371,92"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Podd::DetectorData::GetLogicalChannel" name="Podd::DetectorData::GetLogicalChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="684,171,836,211"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1ADCData.html#abf37d47fd7c83dd371b45daa9e2723b3" title=" " alt="" coords="450,5,630,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,161,696,101,667,70,635,44,612,33,614,28,637,40,671,66,700,97,743,158"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1ADCData.html#aa830efadde6fa7e0428852e81ade993d" title=" " alt="" coords="447,55,633,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="728,163,686,127,635,94,606,83,608,78,637,89,689,122,731,159"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1PMTData.html#a2bbefbc46647c2c83ce1e795a5a7b455" title=" " alt="" coords="447,104,633,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="701,168,635,143,597,132,598,127,637,138,703,163"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FADCData.html#a239c5bce8acef7db3d796ed71b3cdcff" title=" " alt="" coords="444,153,636,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="670,184,636,180,637,174,671,178"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1PMTData.html#af37ed6a081c940bdd043388fdb883d6a" title=" " alt="" coords="450,203,630,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="671,204,630,208,630,203,670,198"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FADCData.html#a1cc2f88fbb49d594d4ac78c3c8bb95d0" title=" " alt="" coords="445,252,635,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="699,219,637,242,594,254,592,249,635,237,697,214"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1ADCData.html#a60c8118038bbfb2f3826a47d99bf90f9" title=" " alt="" coords="449,301,631,327"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="731,223,688,258,637,291,605,304,603,299,635,286,685,254,727,219"/>
+<area shape="rect" id="Node000012" href="$classPodd_1_1PMTData.html#a8706b12c6ffd8d26b5eb527c0c21f18e" title=" " alt="" coords="449,355,631,380"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="742,225,699,284,670,315,637,342,605,357,603,352,635,337,667,311,695,281,738,222"/>
+<area shape="rect" id="Node000008" href="$classHallA_1_1FadcCherenkov.html#aad34f6af13232cf107e57076f4cec31e" title=" " alt="" coords="225,183,388,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="477,251,383,226,384,221,478,246"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="5,298,169,338"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="431,270,327,276,218,289,160,301,159,295,217,283,327,271,431,264"/>
+<area shape="rect" id="Node000010" href="$classHallA_1_1FadcShower.html#a3c14f8582a97c45104a4b61e026d949b" title=" " alt="" coords="231,298,382,338"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="471,283,383,303,382,298,470,278"/>
+<area shape="rect" id="Node000013" href="$classTHaScintillator.html#a3cd0317f3f0e9c0851c2ad78762d61a8" title=" " alt="" coords="217,363,396,388"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="435,374,396,375,396,370,434,368"/>
+<area shape="poly" id="edge13_Node000013_Node000009" title=" " alt="" coords="244,362,164,341,165,335,245,357"/>
+</map>

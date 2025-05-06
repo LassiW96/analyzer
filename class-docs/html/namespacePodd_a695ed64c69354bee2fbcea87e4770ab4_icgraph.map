@@ -1,0 +1,9 @@
+<map id="Podd::StoreTDC" name="Podd::StoreTDC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="675,13,797,38"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1PMTData.html#a8706b12c6ffd8d26b5eb527c0c21f18e" title=" " alt="" coords="444,13,627,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="660,28,627,28,627,23,660,23"/>
+<area shape="rect" id="Node000003" href="$classTHaScintillator.html#a3cd0317f3f0e9c0851c2ad78762d61a8" title=" " alt="" coords="217,13,396,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,28,396,28,396,23,430,23"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="5,5,169,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,28,169,28,169,23,204,23"/>
+</map>

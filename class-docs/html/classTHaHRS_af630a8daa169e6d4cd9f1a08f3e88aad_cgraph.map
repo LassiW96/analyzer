@@ -1,0 +1,13 @@
+<map id="THaHRS::TrackCalc" name="THaHRS::TrackCalc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,151,105"/>
+<area shape="rect" id="Node000002" href="$classTHaHRS.html#afba552843a4ee1df3eb28a9b68cfdd58" title=" " alt="" coords="199,80,356,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,90,185,90,185,95,151,95"/>
+<area shape="rect" id="Node000003" href="$classTHaTrackProj.html#aff9808811b8f1159b320c213e2f1e220" title=" " alt="" coords="418,5,609,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,77,403,39,433,31,434,36,405,45,308,82"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#a388b3384c87da299edae9030a1fd4df8" title=" " alt="" coords="404,55,623,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,82,390,78,391,83,357,87"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackProj.html#a162a46354407a9ead44667ac57ffec8d" title=" " alt="" coords="419,104,608,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="357,98,405,103,405,108,356,103"/>
+<area shape="rect" id="Node000006" href="$classTHaNonTrackingDetector.html#a1262fb373be800d649e5490819b29d0e" title=" " alt="" coords="421,154,605,194"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="311,103,405,138,432,147,430,152,403,143,309,108"/>
+</map>

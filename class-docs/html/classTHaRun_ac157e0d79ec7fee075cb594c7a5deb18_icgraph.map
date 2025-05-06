@@ -1,0 +1,20 @@
+<map id="THaRun::StdFindSegmentNumber" name="THaRun::StdFindSegmentNumber">
+<area shape="rect" id="Node000001" title=" " alt="" coords="888,86,1127,111"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1MultiFileRun.html#abcd50202ce53fe176aa7312f5748471e" title=" " alt="" coords="659,49,802,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="874,87,802,79,802,74,875,82"/>
+<area shape="rect" id="Node000007" href="$classTHaRun.html#a2eec04dcfc9cd63d626df575d941b659" title=" " alt="" coords="621,114,840,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="875,115,841,118,840,113,874,109"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1MultiFileRun.html#a7016479915feefe64801e0668ede6411" title="Number of events read." alt="" coords="421,49,563,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="646,72,564,72,564,67,646,67"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1MultiFileRun.html#aedf4eb2bd5adfd7742881b4181ae2e24" title=" " alt="" coords="196,49,363,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,72,363,72,363,67,407,67"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1MultiFileRun.html#a796aa6cdbccd7b9c66d7840daddcbb6a" title=" " alt="" coords="5,5,148,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="182,51,148,43,149,38,183,46"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1MultiFileRun.html#a719b9858caac050fe42623ae118fdce5" title=" " alt="" coords="5,93,148,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="183,93,149,100,148,95,182,88"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="111,82,99,75,77,72,57,74,46,79,41,85,44,92,38,94,36,84,42,75,56,69,77,67,100,70,113,77"/>
+<area shape="rect" id="Node000008" href="$classTHaRun.html#accf491fef23dcba87ac3b117ba01e62e" title=" " alt="" coords="435,114,549,139"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="608,129,550,129,550,124,608,124"/>
+<area shape="rect" id="Node000009" href="$classTHaRun.html#a3c8385497483980a9dd5c5ee55102f47" title=" " alt="" coords="411,163,573,189"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="656,145,555,166,554,161,655,140"/>
+</map>

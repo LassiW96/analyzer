@@ -1,0 +1,9 @@
+<map id="THaVhist::CheckCut" name="THaVhist::CheckCut">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,156,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVform.html#ac5e0f9f9ebb005c4e7f0226b68851100" title=" " alt="" coords="204,31,355,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,41,190,41,190,46,156,46"/>
+<area shape="rect" id="Node000003" href="$classTHaOdata.html#a8e82568b4e4068f8a903cc6891049185" title=" " alt="" coords="409,5,527,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,31,395,25,395,30,355,36"/>
+<area shape="rect" id="Node000004" href="$classTHaVform.html#ae0dcfc8338f5aa4e36d15197c57f74f6" title=" " alt="" coords="403,55,533,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,50,390,55,389,60,354,56"/>
+</map>

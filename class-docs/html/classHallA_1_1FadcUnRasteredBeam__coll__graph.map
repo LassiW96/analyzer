@@ -1,0 +1,22 @@
+<map id="HallA::FadcUnRasteredBeam" name="HallA::FadcUnRasteredBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2399,205,2464"/>
+<area shape="rect" id="Node000002" href="$classTHaUnRasteredBeam.html" title=" " alt="" coords="11,2011,200,2256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,2270,108,2398,103,2398,103,2270"/>
+<area shape="rect" id="Node000003" href="$classTHaBeam.html" title=" " alt="" coords="213,1683,374,1908"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,1921,176,2012,171,2009,222,1919"/>
+<area shape="rect" id="Node000008" href="$classTHaBeamInfo.html" title=" " alt="" coords="224,1971,363,2296"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="296,1908,296,1954,291,1954,291,1908"/>
+<area shape="rect" id="Node000004" href="$classTHaApparatus.html" title=" " alt="" coords="121,1185,282,1550"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,1563,272,1682,267,1683,241,1564"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html" title=" " alt="" coords="103,120,299,1065"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,1079,204,1185,199,1185,199,1079"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="167,5,236,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,85,204,120,199,120,199,85"/>
+<area shape="rect" id="Node000007" href="$classTHaBeamModule.html" title=" " alt="" coords="274,2359,435,2504"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="377,2345,379,2334,379,2320,382,2221,388,2144,387,2068,372,1971,352,1909,357,1907,377,1970,392,2067,393,2144,387,2221,384,2320,384,2335,382,2346"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="300,2296,308,2334,310,2342,305,2344,303,2335,295,2297"/>
+<area shape="rect" id="Node000009" href="$classTHaRunParameters.html" title=" " alt="" coords="306,1115,470,1620"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="335,1621,324,1667,319,1666,329,1620"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="356,560,420,625"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="391,639,391,1115,385,1115,385,639"/>
+</map>

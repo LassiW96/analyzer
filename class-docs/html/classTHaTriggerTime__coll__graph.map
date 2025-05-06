@@ -1,0 +1,13 @@
+<map id="THaTriggerTime" name="THaTriggerTime">
+<area shape="rect" id="Node000001" title=" " alt="" coords="189,1837,342,2123"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1TimeCorrectionModule.html" title=" " alt="" coords="5,1479,208,1685"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,1697,211,1836,206,1838,150,1699"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1InterStageModule.html" title=" " alt="" coords="22,1115,191,1340"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,1354,109,1479,104,1479,104,1354"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="9,120,205,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,1079,109,1115,104,1115,104,1079"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="72,5,141,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="109,85,109,120,104,120,104,85"/>
+<area shape="rect" id="Node000006" href="$classTHaDetMap.html" title=" " alt="" coords="232,1389,405,1775"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="295,1776,289,1821,284,1821,290,1775"/>
+</map>

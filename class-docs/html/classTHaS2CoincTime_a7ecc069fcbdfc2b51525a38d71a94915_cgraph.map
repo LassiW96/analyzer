@@ -1,0 +1,10 @@
+<map id="THaS2CoincTime::Init" name="THaS2CoincTime::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,168,80"/>
+<area shape="rect" id="Node000002" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="245,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,52,236,31,237,36,145,57"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="216,55,400,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,65,202,65,202,70,168,70"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="221,128,395,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,78,257,121,255,126,125,83"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="272,130,264,120,268,110,283,104,308,101,339,105,351,114,348,118,337,110,308,107,284,109,272,114,269,119,276,126"/>
+</map>

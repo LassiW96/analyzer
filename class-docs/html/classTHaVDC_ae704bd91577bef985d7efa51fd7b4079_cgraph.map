@@ -1,0 +1,17 @@
+<map id="THaVDC::CalcFocalPlaneCoords" name="THaVDC::CalcFocalPlaneCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,232,179"/>
+<area shape="rect" id="Node000002" href="$classTHaVDC.html#a9946770baf0424eacfc618b5a5ed23c6" title=" " alt="" coords="283,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,151,192,98,234,67,279,40,294,33,296,38,281,44,237,71,195,102,135,155"/>
+<area shape="rect" id="Node000003" href="$classTHaTrack.html#a1a7f88027d9a69b64f4941d8860e1913" title=" " alt="" coords="289,55,431,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,151,204,121,279,89,299,82,301,87,281,94,207,126,146,156"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#a374f6112b1da33ae0e38a610b206c732" title=" " alt="" coords="280,104,440,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,151,283,130,284,135,182,156"/>
+<area shape="rect" id="Node000005" href="$classTHaTrack.html#a33075c3a3ddbed315cb724a8c3ed6a1c" title=" " alt="" coords="294,153,426,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="232,163,280,163,280,169,232,169"/>
+<area shape="rect" id="Node000006" href="$classTHaTrack.html#ab3587a5bdcf738cfff5af235a2f1cc4b" title=" " alt="" coords="295,203,425,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,176,284,197,283,202,181,181"/>
+<area shape="rect" id="Node000007" href="$classTHaTrack.html#a29070d821e54bcd369e14ee56986b85d" title=" " alt="" coords="305,252,415,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="147,176,207,205,281,237,304,245,302,250,279,242,205,210,144,181"/>
+<area shape="rect" id="Node000008" href="$classTHaTrack.html#a822cdcb2b64d73cb31f09451bdf24f46" title=" " alt="" coords="300,301,420,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="135,177,196,229,237,260,281,286,299,294,297,299,279,291,234,264,192,233,132,181"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="THaSpectrometer::Init" name="THaSpectrometer::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,171,129"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="225,29,400,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,101,218,63,243,56,245,61,220,69,120,106"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#affc99092940531435554a004377fa2ed" title=" " alt="" coords="224,79,401,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="170,105,210,100,211,105,171,110"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#ac54e3ccacc3a15f6b1b604b2b3d1b58d" title=" " alt="" coords="219,128,407,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="171,123,205,127,205,132,170,128"/>
+<area shape="rect" id="Node000005" href="$classTHaSpectrometer.html#acb37267e9aa4e840fd938d5c60bf428c" title=" " alt="" coords="220,177,405,203"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="122,127,220,162,249,171,248,176,218,167,121,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="276,31,268,21,272,11,288,5,313,3,344,7,356,16,353,20,342,11,313,8,289,10,276,15,273,20,280,27"/>
+<area shape="rect" id="Node000006" href="$classTHaSpectrometer.html#a3a0286275e3a92af0f0e4ada10a9fd75" title=" " alt="" coords="455,106,661,146"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="362,175,466,147,468,152,363,180"/>
+<area shape="rect" id="Node000008" href="$classTHaSpectrometer.html#a435e9e045d656a9879cc298dfe800f61" title=" " alt="" coords="459,170,657,210"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="405,187,446,187,446,193,405,193"/>
+<area shape="rect" id="Node000009" href="$classTHaSpectrometer.html#a4da1eb238b22e53d26a1514ebc833ccd" title=" " alt="" coords="459,234,657,274"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="363,200,468,228,466,233,362,205"/>
+<area shape="rect" id="Node000007" href="$classTHaSpectrometer.html#a8cd8d0bbf367ff28dca3b5d9db285d34" title=" " alt="" coords="709,113,947,139"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="662,123,696,123,696,129,662,129"/>
+</map>

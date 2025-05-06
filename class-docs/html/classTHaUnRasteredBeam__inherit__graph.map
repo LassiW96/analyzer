@@ -1,0 +1,15 @@
+<map id="THaUnRasteredBeam" name="THaUnRasteredBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,1819,290,2064"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcUnRasteredBeam.html" title=" " alt="" coords="95,2112,295,2177"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,2077,198,2112,193,2112,193,2077"/>
+<area shape="rect" id="Node000002" href="$classTHaBeam.html" title=" " alt="" coords="115,1525,276,1771"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,1785,198,1818,193,1818,193,1785"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html" title=" " alt="" coords="23,1112,184,1477"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="157,1490,166,1524,161,1526,152,1491"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+<area shape="rect" id="Node000006" href="$classTHaBeamModule.html" title=" " alt="" coords="208,1222,369,1367"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="269,1381,230,1526,225,1525,264,1380"/>
+</map>

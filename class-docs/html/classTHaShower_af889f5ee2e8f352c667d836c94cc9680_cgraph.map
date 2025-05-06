@@ -1,0 +1,53 @@
+<map id="THaShower::ReadDatabase" name="THaShower::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,331,204,356"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#a0575d2d7b416328a7b175aab8da25313" title=" " alt="" coords="266,103,481,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,329,128,293,158,243,200,190,224,166,251,145,280,130,282,135,253,150,227,170,204,194,163,246,133,295,114,332"/>
+<area shape="rect" id="Node000011" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="559,153,743,179"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="111,329,131,299,163,259,203,220,251,189,287,175,325,164,402,151,478,147,546,150,546,155,478,153,403,156,326,169,289,180,253,194,206,224,167,263,136,302,116,332"/>
+<area shape="rect" id="Node000012" href="$classPodd_1_1ADCData.html#ab36c2291f59353828b7c71caafd46ce9" title=" " alt="" coords="281,305,466,331"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="204,331,267,325,267,331,205,337"/>
+<area shape="rect" id="Node000013" href="$classTHaAnalysisObject.html#a706215a1db06de762bb97fb9f2986a27" title=" " alt="" coords="575,342,728,382"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="205,344,561,356,561,362,204,349"/>
+<area shape="rect" id="Node000015" href="$classPodd_1_1ADCData.html#a169c0bf6ea5cb1e10a6d8b2720427aaf" title=" " alt="" coords="284,471,463,496"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="120,354,175,404,212,432,253,456,275,464,273,469,251,460,209,437,171,408,116,358"/>
+<area shape="rect" id="Node000016" href="$classTHaDetMap.html#add7d6fbb987d0e32475a29e9e87f8efd" title=" " alt="" coords="267,520,480,545"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="116,355,135,386,166,428,206,471,253,506,266,513,264,517,251,511,203,475,162,431,131,389,111,358"/>
+<area shape="rect" id="Node000017" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="575,253,728,293"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="134,328,188,308,251,290,333,278,415,271,561,267,561,273,415,276,333,283,253,295,189,313,136,333"/>
+<area shape="rect" id="Node000018" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="297,406,450,446"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="148,354,295,399,293,404,146,359"/>
+<area shape="rect" id="Node000022" href="$classTHaAnalysisObject.html#a61d7c658e07c17a9b349b9ba58eb1772" title=" " alt="" coords="297,570,450,610"/>
+<area shape="poly" id="edge23_Node000001_Node000022" title=" " alt="" coords="113,355,131,395,160,449,202,507,226,533,253,556,285,572,283,577,251,560,223,537,197,510,156,452,126,397,109,357"/>
+<area shape="rect" id="Node000023" href="$classTHaDetectorBase.html#a35c752e18167b821ab6dd0a0fed4b2a5" title=" " alt="" coords="252,204,495,229"/>
+<area shape="poly" id="edge24_Node000001_Node000023" title=" " alt="" coords="121,328,176,288,251,246,295,231,297,236,253,251,179,293,124,333"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#ac9bafffd1b7113da925de4487e4e7983" title=" " alt="" coords="588,103,715,128"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,113,574,113,574,118,481,118"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="444,125,568,148,567,153,443,131"/>
+<area shape="rect" id="Node000004" href="$classTHaDetMap.html#a46f2cb4e1d43078effd8dbdf9f480073" title=" " alt="" coords="808,53,988,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="714,100,820,79,821,84,715,105"/>
+<area shape="rect" id="Node000007" href="$classTHaDetMap.html#a5dc85de9e4da25b4ba81bd352314397b" title=" " alt="" coords="827,103,969,128"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="715,113,814,113,814,118,715,118"/>
+<area shape="rect" id="Node000008" href="$classTHaDetMap.html#a929682a9ed3e70c815ccd30608fe378f" title=" " alt="" coords="813,152,983,177"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="715,125,821,147,820,152,714,131"/>
+<area shape="rect" id="Node000005" href="$classTHaDetMap.html#a4d7059a2ad58635b29ca0118e65e1792" title=" " alt="" coords="1051,5,1208,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="959,51,1054,31,1055,36,961,56"/>
+<area shape="rect" id="Node000006" href="$classTHaDetMap_1_1Module.html#a67707ee10571c514f9b0da970418ff2b" title=" " alt="" coords="1048,55,1211,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="989,67,1034,69,1034,74,988,72"/>
+<area shape="rect" id="Node000009" href="$classTHaDetMap_1_1Module.html#ae2cae7829492620a72bc6177de577613" title=" " alt="" coords="1048,137,1211,177"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="984,159,1034,157,1034,163,984,164"/>
+<area shape="rect" id="Node000010" href="$classTHaDetMap.html#a4d1bacba727e777b643af49c73e9a8d8" title=" " alt="" coords="1036,201,1223,227"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="959,175,1056,196,1055,201,958,180"/>
+<area shape="rect" id="Node000014" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="821,374,975,414"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="729,369,808,380,808,385,728,375"/>
+<area shape="rect" id="Node000019" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="575,470,728,510"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="451,441,562,467,561,472,450,446"/>
+<area shape="rect" id="Node000021" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="575,406,728,446"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="450,423,561,423,561,429,450,429"/>
+<area shape="rect" id="Node000020" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="821,470,975,510"/>
+<area shape="poly" id="edge20_Node000019_Node000020" title=" " alt="" coords="729,487,808,487,808,493,729,493"/>
+<area shape="poly" id="edge22_Node000021_Node000014" title=" " alt="" coords="728,413,808,403,808,408,729,419"/>
+<area shape="poly" id="edge26_Node000023_Node000011" title=" " alt="" coords="443,201,567,179,568,184,444,207"/>
+<area shape="poly" id="edge27_Node000023_Node000017" title=" " alt="" coords="438,227,562,252,561,257,437,232"/>
+<area shape="rect" id="Node000024" href="$classTHaDetectorBase.html#a6b2f2fe9dad4b0005afa736d5356a8e3" title=" " alt="" coords="543,203,760,228"/>
+<area shape="poly" id="edge25_Node000023_Node000024" title=" " alt="" coords="495,213,529,213,529,219,495,219"/>
+</map>

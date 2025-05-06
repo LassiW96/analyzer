@@ -1,0 +1,18 @@
+<map id="THaAnalyzer::SlowControlAnalysis" name="THaAnalyzer::SlowControlAnalysis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,196,160"/>
+<area shape="rect" id="Node000002" href="$classTHaOutput.html#a98d06aa7a1ea1c6e0d17d05384e10471" title=" " alt="" coords="244,127,407,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,137,230,137,230,143,196,143"/>
+<area shape="rect" id="Node000003" href="$classTHaEpicsEvtHandler.html#a0e1bcbc8eb95ee0e68bafa6c3fe07071" title=" " alt="" coords="457,5,611,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,125,453,62,477,49,480,54,456,66,349,129"/>
+<area shape="rect" id="Node000004" href="$classTHaEpicsEvtHandler.html#aed568e719864518d7931621a94e3a1ed" title=" " alt="" coords="661,92,816,132"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="366,125,409,114,454,105,554,99,647,102,647,107,554,105,455,111,410,119,368,130"/>
+<area shape="rect" id="Node000005" href="$classTHaEpicsEvtHandler.html#a489baea991b02c68258d7d13ff0386e6" title=" " alt="" coords="457,120,611,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="407,137,443,137,443,143,407,143"/>
+<area shape="rect" id="Node000006" href="$classTHaEpicsEvtHandler.html#aafd9eb7caad0bc8dd622f2970cf5f3a7" title=" " alt="" coords="457,184,611,224"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="369,150,456,177,454,182,367,155"/>
+<area shape="rect" id="Node000007" href="$classTHaEvtTypeHandler.html#a56d8a3738a847dde88cf26c8eda4aa5a" title=" " alt="" coords="455,248,613,288"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="343,151,392,190,456,234,468,240,465,245,453,238,388,195,339,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="583,43,679,84,677,89,581,48"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="611,127,647,122,648,127,612,132"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="584,182,612,170,684,136,686,141,614,174,587,186"/>
+</map>

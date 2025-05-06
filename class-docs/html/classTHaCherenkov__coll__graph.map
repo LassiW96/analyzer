@@ -1,0 +1,26 @@
+<map id="THaCherenkov" name="THaCherenkov">
+<area shape="rect" id="Node000001" title=" " alt="" coords="370,2855,527,3140"/>
+<area shape="rect" id="Node000002" href="$classTHaPidDetector.html" title=" " alt="" coords="310,2680,462,2805"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,2818,416,2854,411,2855,402,2819"/>
+<area shape="rect" id="Node000003" href="$classTHaNonTrackingDetector.html" title=" " alt="" coords="256,2345,468,2631"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,2644,383,2679,377,2680,374,2645"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometerDetector.html" title=" " alt="" coords="247,2037,467,2283"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="362,2296,362,2345,357,2345,356,2296"/>
+<area shape="rect" id="Node000005" href="$classTHaDetector.html" title=" " alt="" coords="283,1803,415,1988"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="355,2002,356,2037,350,2037,349,2002"/>
+<area shape="rect" id="Node000006" href="$classTHaDetectorBase.html" title=" " alt="" coords="231,1128,395,1753"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="341,1767,344,1802,339,1803,336,1767"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="207,1027,217,1065,233,1130,228,1131,211,1066,202,1028"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="270,5,339,71"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="261,73,237,95,216,121,204,143,199,141,212,119,233,91,257,69"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1DetectorData.html" title=" " alt="" coords="424,420,593,765"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="353,62,386,87,414,119,450,190,477,267,494,345,505,419,500,420,489,346,472,269,445,192,409,121,382,90,350,66"/>
+<area shape="rect" id="Node000009" href="$classTHaDetMap.html" title=" " alt="" coords="226,400,399,785"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="315,786,315,1111,310,1111,310,786"/>
+<area shape="rect" id="Node000010" href="$classPodd_1_1PMTData.html" title=" " alt="" coords="424,1298,593,1583"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="510,1584,509,1894,509,2744,506,2791,499,2838,493,2838,501,2791,503,2744,503,1894,505,1583"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="511,779,511,1298,506,1298,506,779"/>
+<area shape="rect" id="Node000012" href="$structPodd_1_1HitCount__t.html" title=" " alt="" coords="618,540,741,645"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="676,646,650,832,609,1066,556,1282,551,1281,603,1065,645,831,670,645"/>
+</map>

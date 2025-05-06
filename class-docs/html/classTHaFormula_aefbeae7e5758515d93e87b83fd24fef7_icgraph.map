@@ -1,0 +1,9 @@
+<map id="THaFormula::DefinedGlobalVariable" name="THaFormula::DefinedGlobalVariable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="524,23,725,63"/>
+<area shape="rect" id="Node000002" href="$classTHaVform.html#a5f9de056155893b5d755cef4a86b5613" title=" " alt="" coords="235,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,35,476,32,476,27,510,30"/>
+<area shape="rect" id="Node000003" href="$classTHaFormula.html#a1b1483d59ee5133db9e3e6654d1ac3f0" title=" " alt="" coords="249,55,461,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="510,56,462,61,461,55,510,51"/>
+<area shape="rect" id="Node000004" href="$classTHaCut.html#af7ffdb0012813a20b9f98611750142c7" title=" " alt="" coords="5,55,187,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,70,187,70,187,65,236,65"/>
+</map>

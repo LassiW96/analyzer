@@ -1,0 +1,27 @@
+<map id="THaDetMap::Module::GetNchan" name="THaDetMap::Module::GetNchan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1143,122,1305,162"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap.html#a929682a9ed3e70c815ccd30608fe378f" title=" " alt="" coords="924,129,1095,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1129,145,1095,145,1095,139,1129,139"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#ac9bafffd1b7113da925de4487e4e7983" title=" " alt="" coords="749,129,876,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="910,145,876,145,876,139,910,139"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html#a0575d2d7b416328a7b175aab8da25313" title=" " alt="" coords="487,129,701,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="735,145,702,145,702,139,735,139"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPlane.html#a715c8bc88f3ced753052f05dd2a448a0" title=" " alt="" coords="221,5,435,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="565,123,508,83,438,44,404,33,405,28,440,40,511,78,568,119"/>
+<area shape="rect" id="Node000006" href="$classTHaBPM.html#a98243ceb4b69582533effcd57e3d37d8" title=" " alt="" coords="238,55,418,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="544,127,438,94,392,83,393,77,439,89,546,122"/>
+<area shape="rect" id="Node000007" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="219,104,437,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="473,133,437,130,438,124,473,128"/>
+<area shape="rect" id="Node000009" href="$classTHaRaster.html#ac4fa9988efafdf9dcf982d7cea2871bc" title=" " alt="" coords="231,153,425,179"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="473,156,425,160,425,155,473,150"/>
+<area shape="rect" id="Node000010" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,203,439,228"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="542,162,439,193,389,205,387,200,438,187,540,157"/>
+<area shape="rect" id="Node000012" href="$classTHaShower.html#af889f5ee2e8f352c667d836c94cc9680" title=" " alt="" coords="229,256,427,281"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="567,165,510,204,440,242,391,258,389,253,438,237,507,199,564,161"/>
+<area shape="rect" id="Node000008" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,97,169,137"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="205,119,169,119,169,114,205,114"/>
+<area shape="rect" id="Node000011" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,191,169,231"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="204,216,170,215,170,210,204,211"/>
+<area shape="rect" id="Node000013" href="$classHallA_1_1FadcShower.html#aa8e92d49d73526063169a09bd530f802" title=" " alt="" coords="12,255,163,295"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="215,274,163,276,163,271,215,269"/>
+</map>

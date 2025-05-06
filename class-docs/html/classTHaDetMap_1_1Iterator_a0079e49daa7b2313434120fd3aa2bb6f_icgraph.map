@@ -1,0 +1,9 @@
+<map id="THaDetMap::Iterator::reset" name="THaDetMap::Iterator::reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="515,37,669,77"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap_1_1Iterator.html#accaba4659393dca6c0a97a3877c7bab3" title=" " alt="" coords="286,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,47,440,39,441,33,501,42"/>
+<area shape="rect" id="Node000004" href="$classTHaDetMap_1_1MultiHitIterator.html#af691fa42962aac567032654e734a3917" title=" " alt="" coords="260,69,467,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="501,73,467,78,466,72,500,67"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap_1_1MultiHitIterator.html#a7609957762215c54efb9125cb458295c" title=" " alt="" coords="5,5,212,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,28,212,28,212,23,272,23"/>
+</map>

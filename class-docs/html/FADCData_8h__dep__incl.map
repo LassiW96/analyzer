@@ -1,0 +1,18 @@
+<map id="HallA/FADCData.h" name="HallA/FADCData.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="574,5,713,31"/>
+<area shape="rect" id="Node000002" href="$FADCData_8cxx.html" title=" " alt="" coords="5,79,159,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,32,172,81,159,83,159,78,171,76,560,27"/>
+<area shape="rect" id="Node000003" href="$FadcBPM_8cxx.html" title=" " alt="" coords="183,79,330,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="568,36,320,81,319,76,567,31"/>
+<area shape="rect" id="Node000004" href="$FadcCherenkov_8cxx.html" title=" " alt="" coords="355,79,540,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="600,38,480,81,478,76,598,33"/>
+<area shape="rect" id="Node000005" href="$FadcRaster_8cxx.html" title=" " alt="" coords="564,79,723,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="646,44,646,79,641,79,641,44"/>
+<area shape="rect" id="Node000006" href="$FadcScintillator_8cxx.html" title=" " alt="" coords="729,152,915,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="677,36,737,77,780,116,813,150,810,153,777,120,734,81,674,40"/>
+<area shape="rect" id="Node000007" href="$FadcScintillator_8h.html" title=" " alt="" coords="798,79,969,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="696,32,845,76,844,81,694,37"/>
+<area shape="rect" id="Node000008" href="$FadcShower_8cxx.html" title=" " alt="" coords="993,79,1157,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="727,30,1006,76,1005,81,726,36"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="866,116,834,154,830,150,862,113"/>
+</map>

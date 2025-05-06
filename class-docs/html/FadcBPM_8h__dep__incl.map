@@ -1,0 +1,9 @@
+<map id="HallA/FadcBPM.h" name="HallA/FadcBPM.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,348,31"/>
+<area shape="rect" id="Node000002" href="$FadcBPM_8cxx.html" title=" " alt="" coords="5,79,152,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,38,113,81,111,76,236,33"/>
+<area shape="rect" id="Node000003" href="$FadcRasteredBeam_8cxx.html" title=" " alt="" coords="176,79,389,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,44,285,79,280,79,280,44"/>
+<area shape="rect" id="Node000004" href="$FadcUnRasteredBeam_8cxx.html" title=" " alt="" coords="414,79,645,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,32,490,76,489,81,335,37"/>
+</map>

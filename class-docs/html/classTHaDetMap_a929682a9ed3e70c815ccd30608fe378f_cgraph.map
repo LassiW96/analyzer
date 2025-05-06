@@ -1,0 +1,7 @@
+<map id="THaDetMap::GetNchan" name="THaDetMap::GetNchan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,176,67"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap_1_1Module.html#ae2cae7829492620a72bc6177de577613" title=" " alt="" coords="236,5,399,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,41,222,35,223,40,176,46"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#a4d1bacba727e777b643af49c73e9a8d8" title=" " alt="" coords="224,70,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,63,211,67,210,72,176,68"/>
+</map>

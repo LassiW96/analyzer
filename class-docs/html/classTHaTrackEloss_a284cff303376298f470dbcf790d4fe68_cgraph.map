@@ -1,0 +1,14 @@
+<map id="THaTrackEloss::CalcEloss" name="THaTrackEloss::CalcEloss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,192,102"/>
+<area shape="rect" id="Node000002" href="$classTHaElossCorrection.html#a8c1a41d09b81aa1179e777008e5f376e" title=" " alt="" coords="240,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,74,233,47,234,52,143,79"/>
+<area shape="rect" id="Node000004" href="$classTHaElossCorrection.html#a77ba2685a9926a7d140125aff461d3fa" title=" " alt="" coords="240,69,389,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,87,226,87,226,92,192,92"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackInfo.html#a9c6056a38a3f7b4d6f852c70c9210093" title=" " alt="" coords="241,134,388,159"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="148,99,254,128,253,133,147,105"/>
+<area shape="rect" id="Node000003" href="$classTHaElossCorrection.html#a927a7e1d3761dabaaf2ae4e6917e2367" title=" " alt="" coords="437,5,587,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,23,423,23,423,28,390,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="376,67,436,47,438,52,378,72"/>
+<area shape="rect" id="Node000005" href="$classTHaElossCorrection.html#a25e80e0110b9c1c81a75875118a023b9" title=" " alt="" coords="437,69,587,109"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="390,87,423,87,423,92,390,92"/>
+</map>

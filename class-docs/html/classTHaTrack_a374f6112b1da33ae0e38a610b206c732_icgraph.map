@@ -1,0 +1,11 @@
+<map id="THaTrack::GetDTheta" name="THaTrack::GetDTheta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="725,31,885,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ac1e7c65e74a55946ceec1c094d46fec5" title=" " alt="" coords="472,5,656,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="711,36,656,30,656,25,712,31"/>
+<area shape="rect" id="Node000003" href="$classTHaVDC.html#ae704bd91577bef985d7efa51fd7b4079" title=" " alt="" coords="451,55,677,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="712,55,678,59,677,53,712,50"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#a39663499434ed7c869edc3a672971b91" title=" " alt="" coords="216,55,403,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="437,70,403,70,403,65,437,65"/>
+<area shape="rect" id="Node000005" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,55,168,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,70,168,70,168,65,202,65"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="THaNonTrackingDetector::DefineVariables" name="THaNonTrackingDetector::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,189,77"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a8f7b01fc76433831b05ec47d4b04137c" title=" " alt="" coords="237,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,41,224,36,224,41,190,46"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="237,69,391,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,68,224,73,224,79,189,74"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="439,27,641,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,70,467,53,468,58,392,75"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="448,77,632,102"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="391,87,434,87,434,92,391,92"/>
+<area shape="rect" id="Node000008" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="689,102,883,127"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="392,105,439,112,561,119,676,118,676,123,561,124,438,117,391,110"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="691,41,881,66"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="642,43,678,45,678,50,641,48"/>
+<area shape="rect" id="Node000006" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="931,78,1057,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="858,63,918,74,917,80,857,69"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="882,101,917,97,917,102,883,106"/>
+</map>

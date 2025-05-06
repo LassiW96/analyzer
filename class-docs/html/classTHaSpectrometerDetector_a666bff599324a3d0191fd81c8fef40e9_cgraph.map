@@ -1,0 +1,15 @@
+<map id="THaSpectrometerDetector::CheckIntercept" name="THaSpectrometerDetector::CheckIntercept">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,197,137"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometerDetector.html#a424251440d61ec6ad53770da0225f3c7" title=" " alt="" coords="245,97,437,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,114,232,114,232,119,197,119"/>
+<area shape="rect" id="Node000003" href="$classTHaTrack.html#a5ab8eb36bb2030f3c6fdf5cd49a88fe9" title=" " alt="" coords="504,5,637,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,94,426,67,484,40,505,32,506,37,486,44,428,71,378,99"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#a7f85be1628803a942be2f9b2554f4073" title=" " alt="" coords="495,55,646,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="434,94,497,80,498,86,435,99"/>
+<area shape="rect" id="Node000005" href="$classTHaTrack.html#a4841d93c62e9dd4c25c1c657489db53f" title=" " alt="" coords="509,104,632,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="437,114,495,114,495,119,437,119"/>
+<area shape="rect" id="Node000006" href="$classTHaTrack.html#a975088db6e0199dc0043114cc01349a9" title=" " alt="" coords="510,153,631,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="435,134,498,148,497,153,434,139"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a7ccdab3d203c3be8c7e7a050cc72711c" title=" " alt="" coords="485,203,656,243"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="381,135,486,188,505,196,503,200,484,192,379,139"/>
+</map>

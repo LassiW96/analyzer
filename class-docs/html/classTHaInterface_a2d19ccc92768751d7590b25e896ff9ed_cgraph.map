@@ -1,0 +1,9 @@
+<map id="THaInterface::PrintLogo" name="THaInterface::PrintLogo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,38,180,63"/>
+<area shape="rect" id="Node000002" href="$classTHaInterface.html#ae14b5db74ec29785e556b555ca351b26" title=" " alt="" coords="228,13,415,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,38,214,35,215,40,180,44"/>
+<area shape="rect" id="Node000004" href="$classTHaInterface.html#a20be1046e9330b0b977726a795caa00d" title=" " alt="" coords="229,62,414,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,57,215,61,215,66,180,62"/>
+<area shape="rect" id="Node000003" href="$classTHaInterface.html#a81e7994194d7cc277f4cbd25c0d16876" title=" " alt="" coords="463,5,623,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,23,449,23,449,28,415,28"/>
+</map>

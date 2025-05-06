@@ -1,0 +1,16 @@
+<map id="THaBPM::DefineVariables" name="THaBPM::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,192,80"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="240,47,393,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,65,226,65,226,70,193,70"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="441,5,644,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,48,470,31,471,36,394,53"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="451,55,635,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="394,65,437,65,437,70,394,70"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="692,80,885,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="394,83,442,90,564,97,679,96,679,101,564,102,441,95,394,88"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="694,19,883,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,21,681,23,680,28,644,26"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="933,56,1060,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="861,41,920,52,919,58,860,47"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="885,79,919,75,920,80,886,84"/>
+</map>

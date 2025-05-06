@@ -1,0 +1,12 @@
+<map id="THaVDCPlane::FitTracks" name="THaVDCPlane::FitTracks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,94,183,119"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#a95bc9890f023f3f16fb6438861c70759" title=" " alt="" coords="231,29,445,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,91,239,70,240,75,150,97"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPlane.html#aa1630e914f8d82d1deafde2157b6abf8" title=" " alt="" coords="235,94,441,119"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="183,104,221,104,221,109,183,109"/>
+<area shape="rect" id="Node000005" href="$classTHaSubDetector.html#a1108b6ddb165d5b30b574cc0dc7f2ca1" title=" " alt="" coords="238,143,438,169"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="158,117,261,138,260,143,157,122"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="293,30,290,20,297,10,313,5,338,3,366,6,382,13,379,18,365,11,338,8,315,10,300,15,295,21,298,28"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="493,37,673,62"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="445,47,480,47,480,52,445,52"/>
+</map>

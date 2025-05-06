@@ -1,0 +1,12 @@
+<map id="THaAvgVertex" name="THaAvgVertex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,1417,330,1683"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html" title=" " alt="" coords="17,1115,190,1340"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,1351,194,1416,189,1418,159,1354"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1079,106,1115,101,1115,101,1079"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,85,106,120,101,120,101,85"/>
+<area shape="rect" id="Node000005" href="$classTHaVertexModule.html" title=" " alt="" coords="214,1115,379,1340"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="276,1354,274,1364,267,1417,262,1417,269,1364,270,1353"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="284,1341,276,1401,270,1401,279,1340"/>
+</map>

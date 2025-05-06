@@ -1,0 +1,21 @@
+<map id="THaVDCPoint::CalcDetCoords" name="THaVDCPoint::CalcDetCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,191,219,216"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCChamber.html#af8a1d515febc0aff7f5efbaa027630cb" title=" " alt="" coords="267,104,505,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,188,197,164,266,139,302,130,303,135,267,145,199,169,142,193"/>
+<area shape="rect" id="Node000008" href="$classTHaDetectorBase.html#a932a7de502386b6cc5622e49e6173ed1" title=" " alt="" coords="279,154,493,194"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="219,189,265,184,265,190,219,195"/>
+<area shape="rect" id="Node000009" href="$classTHaVDCPoint.html#affec4f2022f078ceea5dfaaaad207789" title=" " alt="" coords="317,219,455,244"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="219,212,303,220,303,226,219,217"/>
+<area shape="rect" id="Node000010" href="$classTHaCluster.html#a6c635912c6d5f073ea6802d2d60d6a23" title=" " alt="" coords="303,268,469,293"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="147,214,267,254,302,263,301,268,266,259,145,219"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#a39bab5c08fe57a5231983aaa06d2cdde" title=" " alt="" coords="557,5,767,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,102,474,71,552,39,580,32,581,37,554,45,476,76,413,106"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCCluster.html#a8c5e3c4c94f572a47e54736dd596cfdf" title=" " alt="" coords="567,55,757,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="457,101,576,80,577,85,458,107"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCChamber.html#ac967e1db47e8751c5bf356f11d49b1fb" title=" " alt="" coords="553,104,771,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="506,114,539,114,539,119,506,119"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCChamber.html#a63c2b72a9e872f9241227b179154a073" title=" " alt="" coords="570,153,754,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="458,127,577,148,576,153,457,132"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCChamber.html#afac8770de21249f1ab17c266b564c24c" title=" " alt="" coords="571,203,753,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="476,127,507,140,522,152,532,165,540,178,555,189,568,195,566,200,552,194,536,181,527,168,518,156,504,144,474,132"/>
+</map>

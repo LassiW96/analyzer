@@ -1,0 +1,15 @@
+<map id="std::experimental::optional::operator=" name="std::experimental::optional::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,155,105"/>
+<area shape="rect" id="Node000002" href="$classstd_1_1experimental_1_1optional.html#a730cff63ad838b0616aaae1d50210c94" title=" " alt="" coords="217,33,363,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,71,203,64,204,69,155,77"/>
+<area shape="rect" id="Node000004" href="$classstd_1_1experimental_1_1optional.html#ac36aefeb327e3cc2f7f06e6c3babccb8" title=" " alt="" coords="425,5,572,45"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="108,63,151,38,202,19,256,9,311,6,412,10,412,16,311,11,256,15,203,24,153,43,111,68"/>
+<area shape="rect" id="Node000005" href="$classstd_1_1experimental_1_1optional.html#a0ae5252bfc135e0613d8cd4530ffafed" title=" " alt="" coords="203,97,377,137"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="155,94,189,99,189,105,155,99"/>
+<area shape="rect" id="Node000006" href="$classstd_1_1experimental_1_1optional.html#abdd378c503878171605a1b4c17938e87" title=" " alt="" coords="217,161,363,201"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="118,103,204,147,220,154,218,159,202,152,116,108"/>
+<area shape="rect" id="Node000003" href="$classstd_1_1experimental_1_1optional.html#adc48b3817f99c953b9d5982024f1303e" title=" " alt="" coords="426,129,571,169"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,71,378,83,452,120,450,125,376,88,348,76"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="362,41,411,34,412,40,363,46"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="362,168,412,160,413,165,363,173"/>
+</map>

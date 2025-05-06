@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,376,77,401"/>
+<area shape="rect" id="Node000001" href="$classPodd_1_1MCTrack.html" title=" " alt="" coords="159,5,277,31"/>
+<area shape="poly" id="edge128_Node000000_Node000001" title=" " alt="" coords="43,362,52,288,69,192,92,100,107,65,123,40,140,28,158,21,160,26,142,33,127,44,112,67,98,102,74,193,58,288,48,363"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1MCTrackPoint.html" title=" " alt="" coords="143,55,293,80"/>
+<area shape="poly" id="edge129_Node000000_Node000002" title=" " alt="" coords="39,362,41,306,52,233,63,194,78,156,98,121,124,89,141,77,144,81,127,93,102,124,83,158,68,196,58,234,47,306,45,362"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalyzer.html" title=" " alt="" coords="165,104,271,129"/>
+<area shape="poly" id="edge130_Node000000_Node000003" title=" " alt="" coords="41,362,46,314,59,254,84,192,101,164,124,139,143,126,164,118,166,124,145,131,127,143,106,167,88,195,64,255,51,315,46,362"/>
+<area shape="rect" id="Node000004" href="$classTHaCluster.html" title=" " alt="" coords="171,153,265,179"/>
+<area shape="poly" id="edge131_Node000000_Node000004" title=" " alt="" coords="43,362,51,323,66,276,90,229,105,207,124,188,146,175,170,167,171,172,148,179,127,192,109,210,94,232,71,278,57,325,49,363"/>
+<area shape="rect" id="Node000006" href="$classTHaEvent.html" title=" " alt="" coords="175,203,261,228"/>
+<area shape="poly" id="edge133_Node000000_Node000006" title=" " alt="" coords="48,361,74,299,96,266,124,237,148,224,175,216,176,222,150,229,127,241,100,269,79,301,53,363"/>
+<area shape="rect" id="Node000007" href="$classTHaOutput_1_1OutputExtras.html" title=" " alt="" coords="125,252,311,277"/>
+<area shape="poly" id="edge134_Node000000_Node000007" title=" " alt="" coords="54,363,83,323,102,303,124,286,148,275,150,280,127,291,106,307,87,327,59,366"/>
+<area shape="rect" id="Node000008" href="$classTHaPIDinfo.html" title=" " alt="" coords="171,301,265,327"/>
+<area shape="poly" id="edge135_Node000000_Node000008" title=" " alt="" coords="70,366,124,336,169,321,171,326,126,340,73,370"/>
+<area shape="rect" id="Node000009" href="$classTHaPostProcess.html" title=" " alt="" coords="155,351,281,376"/>
+<area shape="poly" id="edge136_Node000000_Node000009" title=" " alt="" coords="91,379,154,370,155,375,91,384"/>
+<area shape="rect" id="Node000011" href="$classTHaRunParameters.html" title=" " alt="" coords="145,400,291,425"/>
+<area shape="poly" id="edge138_Node000000_Node000011" title=" " alt="" coords="91,393,145,400,144,405,90,398"/>
+<area shape="rect" id="Node000012" href="$classTHaTrack.html" title=" " alt="" coords="177,449,259,475"/>
+<area shape="poly" id="edge139_Node000000_Node000012" title=" " alt="" coords="74,406,126,434,177,451,176,456,124,439,72,411"/>
+<area shape="rect" id="Node000013" href="$classTHaTrackID.html" title=" " alt="" coords="170,499,266,524"/>
+<area shape="poly" id="edge140_Node000000_Node000013" title=" " alt="" coords="60,412,88,449,106,468,127,484,148,494,171,501,169,507,146,499,124,488,103,472,84,453,55,415"/>
+<area shape="rect" id="Node000015" href="$classTHaTrackProj.html" title=" " alt="" coords="165,548,271,573"/>
+<area shape="poly" id="edge142_Node000000_Node000015" title=" " alt="" coords="53,413,79,474,100,506,127,533,145,544,165,551,164,556,143,549,124,537,96,510,75,477,48,415"/>
+<area shape="rect" id="Node000016" href="$classTHaVDCCluster.html" title=" " alt="" coords="157,597,279,623"/>
+<area shape="poly" id="edge143_Node000000_Node000016" title=" " alt="" coords="49,414,57,452,72,498,95,544,127,583,158,599,155,604,124,587,90,546,67,500,52,454,44,416"/>
+<area shape="rect" id="Node000017" href="$classTHaVDCHit.html" title=" " alt="" coords="171,647,265,672"/>
+<area shape="poly" id="edge144_Node000000_Node000017" title=" " alt="" coords="46,415,52,462,65,520,89,580,106,608,127,632,148,645,171,653,170,658,145,650,124,636,102,611,84,583,60,522,47,462,41,415"/>
+<area shape="rect" id="Node000018" href="$classTHaVDCPointPair.html" title=" " alt="" coords="151,696,285,721"/>
+<area shape="poly" id="edge145_Node000000_Node000018" title=" " alt="" coords="45,415,47,470,58,542,69,580,83,617,102,651,127,681,153,697,150,702,124,685,98,654,78,619,64,582,53,543,42,471,39,415"/>
+<area shape="rect" id="Node000019" href="$classTHaVDCWire.html" title=" " alt="" coords="165,745,271,771"/>
+<area shape="poly" id="edge146_Node000000_Node000019" title=" " alt="" coords="48,415,58,488,75,583,98,673,112,707,127,731,145,743,165,751,163,756,142,748,123,735,107,710,93,675,69,584,53,489,43,415"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPoint.html" title=" " alt="" coords="366,153,475,179"/>
+<area shape="poly" id="edge132_Node000004_Node000005" title=" " alt="" coords="279,163,366,163,366,169,279,169"/>
+<area shape="rect" id="Node000010" href="$classTHaFilter.html" title=" " alt="" coords="380,351,461,376"/>
+<area shape="poly" id="edge137_Node000009_Node000010" title=" " alt="" coords="295,361,380,361,380,366,295,366"/>
+<area shape="rect" id="Node000014" href="$classTHaVDCTrackID.html" title=" " alt="" coords="359,499,483,524"/>
+<area shape="poly" id="edge141_Node000013_Node000014" title=" " alt="" coords="280,509,358,509,358,514,280,514"/>
+</map>

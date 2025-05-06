@@ -1,0 +1,11 @@
+<map id="THaSpectrometer::IsDone" name="THaSpectrometer::IsDone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="816,56,1005,81"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#a31c719f17f5f0139c79cd93ecb20ccd4" title=" " alt="" coords="501,5,768,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="827,56,704,33,705,28,828,51"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#aee6c2dfa7978d6e8a03eb106cc745f87" title=" " alt="" coords="275,56,453,81"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="802,71,454,71,454,66,802,66"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#ac16dfbeb69557e2d56a9476758ce25a6" title=" " alt="" coords="5,81,227,107"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="802,78,453,95,227,98,227,92,453,90,802,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="553,36,433,59,432,53,552,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,82,227,85,227,80,261,77"/>
+</map>

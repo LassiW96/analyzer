@@ -1,0 +1,19 @@
+<map id="THaHelicityDet" name="THaHelicityDet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,2039,330,2304"/>
+<area shape="rect" id="Node000006" href="$classTHaADCHelicity.html" title=" " alt="" coords="5,2552,159,2877"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,2317,174,2353,143,2453,117,2552,112,2551,138,2452,169,2351,183,2316"/>
+<area shape="rect" id="Node000008" href="$classTHaG0Helicity.html" title=" " alt="" coords="183,2352,327,3077"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="258,2318,258,2352,253,2352,253,2318"/>
+<area shape="rect" id="Node000009" href="$classTHaQWEAKHelicity.html" title=" " alt="" coords="352,2402,527,3027"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="328,2316,342,2351,359,2401,354,2403,337,2353,323,2318"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html" title=" " alt="" coords="189,1805,321,1991"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,2004,258,2039,253,2039,253,2004"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html" title=" " alt="" coords="173,1112,337,1757"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,1771,258,1805,253,1805,253,1771"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="157,119,353,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,1078,258,1112,253,1112,253,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="221,5,290,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="258,85,258,119,253,119,253,85"/>
+<area shape="rect" id="Node000007" href="$classTHaHelicity.html" title=" " alt="" coords="11,3125,153,3351"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="85,2891,85,3125,79,3125,79,2891"/>
+</map>

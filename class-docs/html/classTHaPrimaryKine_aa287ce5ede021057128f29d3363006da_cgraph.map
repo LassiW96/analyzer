@@ -1,0 +1,11 @@
+<map id="THaPrimaryKine::SetMass" name="THaPrimaryKine::SetMass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,196,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="269,5,423,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,42,255,34,256,40,197,48"/>
+<area shape="rect" id="Node000004" href="$classTHaPhysicsModule.html#a88ac3e1fa4e0fcb5d6d41417b6f85028" title=" " alt="" coords="244,69,448,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,67,231,72,230,77,196,72"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="497,13,679,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,23,483,23,483,28,423,28"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="496,77,680,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="448,87,482,87,482,92,448,92"/>
+</map>

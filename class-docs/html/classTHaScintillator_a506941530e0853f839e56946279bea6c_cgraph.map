@@ -1,0 +1,9 @@
+<map id="THaScintillator::Clear" name="THaScintillator::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,165,70"/>
+<area shape="rect" id="Node000002" href="$classTHaScintillator_1_1HitData__t.html#a04a003e3e3714f39e7cc720b24f03e50" title=" " alt="" coords="217,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,43,204,37,204,43,166,48"/>
+<area shape="rect" id="Node000003" href="$classTHaNonTrackingDetector.html#a5a7fc0889ac397bed462fcd49aa177a5" title=" " alt="" coords="213,69,397,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,66,200,71,199,77,165,72"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="445,69,599,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,87,432,87,432,92,397,92"/>
+</map>

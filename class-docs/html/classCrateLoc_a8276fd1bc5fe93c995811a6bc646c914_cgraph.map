@@ -1,0 +1,12 @@
+<map id="CrateLoc::Configure" name="CrateLoc::Configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,155,70"/>
+<area shape="rect" id="Node000002" href="$classBdataLoc.html#aac6465c108f3ae1bd2a33da3d24cb218" title=" " alt="" coords="203,19,355,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,45,188,41,189,46,155,50"/>
+<area shape="rect" id="Node000005" href="$classBdataLoc.html#a491f817b320c119a68b5b7de1570bfb9" title=" " alt="" coords="423,70,574,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="155,59,410,75,409,80,155,64"/>
+<area shape="rect" id="Node000003" href="$classBdataLoc.html#a4033d3574f67ebcb2836b8cb31e357a7" title=" " alt="" coords="403,5,595,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,27,389,26,389,31,355,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="335,42,430,64,429,69,334,47"/>
+<area shape="rect" id="Node000004" href="$classBdataLoc.html#a8e9798f8fd4e5862da1996c6253a348e" title=" " alt="" coords="643,13,815,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="595,23,629,23,629,28,595,28"/>
+</map>

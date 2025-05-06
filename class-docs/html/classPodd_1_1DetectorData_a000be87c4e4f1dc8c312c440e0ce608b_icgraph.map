@@ -1,0 +1,18 @@
+<map id="Podd::DetectorData::DefineVariablesImpl" name="Podd::DetectorData::DefineVariablesImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="801,134,963,174"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1DetectorData.html#ac5c8a38121b895cad07c694df7afb0da" title=" " alt="" coords="549,77,698,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="787,136,698,116,699,111,788,131"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1ADCData.html#abc11dacb58234428933b36f205f32ed7" title=" " alt="" coords="493,141,753,167"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="788,157,754,157,754,151,788,151"/>
+<area shape="rect" id="Node000008" href="$classPodd_1_1PMTData.html#a4ad8e2deed328522769cccc41f560075" title=" " alt="" coords="493,191,753,216"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="788,174,691,193,690,188,787,169"/>
+<area shape="rect" id="Node000003" href="$classTHaScintillator.html#a3a4ef9d1f5b1d775971c24069e87f323" title=" " alt="" coords="217,5,445,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,76,379,33,380,28,536,71"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcScintillator.html#ad6e1e3483177d56abb57e7a0d96d6dd0" title=" " alt="" coords="5,23,169,63"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="534,91,169,54,170,49,535,85"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcCherenkov.html#a427dd7ef95bbc7f1264612b5741e5ff0" title=" " alt="" coords="250,106,413,146"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="535,108,413,120,413,115,535,103"/>
+<area shape="rect" id="Node000006" href="$classHallA_1_1FadcShower.html#a2d744f1e2dd382316e7dba160a191ac8" title=" " alt="" coords="256,170,407,210"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="536,117,494,131,471,145,446,160,408,174,406,169,444,156,468,141,492,126,535,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,34,170,38,169,32,203,29"/>
+</map>

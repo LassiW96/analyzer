@@ -1,0 +1,13 @@
+<map id="THaSAProtonEP::THaSAProtonEP" name="THaSAProtonEP::THaSAProtonEP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,240,70"/>
+<area shape="rect" id="Node000002" href="$classTHaPrimaryKine.html#aa287ce5ede021057128f29d3363006da" title=" " alt="" coords="288,45,479,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,55,274,55,274,60,240,60"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="552,5,705,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,42,538,34,538,40,479,48"/>
+<area shape="rect" id="Node000005" href="$classTHaPhysicsModule.html#a88ac3e1fa4e0fcb5d6d41417b6f85028" title=" " alt="" coords="527,69,731,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="479,67,513,72,513,77,478,72"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="779,13,962,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="706,23,765,23,765,28,706,28"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="779,77,963,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="731,87,765,87,765,92,731,92"/>
+</map>

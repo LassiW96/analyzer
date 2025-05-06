@@ -1,0 +1,9 @@
+<map id="THaVDCPoint::GetPhi" name="THaVDCPoint::GetPhi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="451,31,611,56"/>
+<area shape="rect" id="Node000002" href="$classTHaVDC.html#a39663499434ed7c869edc3a672971b91" title=" " alt="" coords="216,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,35,403,31,403,26,437,30"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPointPair.html#a23995d315aee146ed7b9a802e5351325" title=" " alt="" coords="224,55,395,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="437,56,395,61,395,55,436,51"/>
+<area shape="rect" id="Node000003" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,21,168,21,168,15,202,15"/>
+</map>

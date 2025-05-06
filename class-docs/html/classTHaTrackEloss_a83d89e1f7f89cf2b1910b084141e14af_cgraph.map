@@ -1,0 +1,17 @@
+<map id="THaTrackEloss::Init" name="THaTrackEloss::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,150,151,175"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a48b50bddc7fe845f360685ca9c8ce339" title=" " alt="" coords="235,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,147,135,106,197,62,226,48,228,53,200,66,139,110,94,151"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="473,42,657,67"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="101,148,145,126,198,105,265,88,333,75,459,59,460,65,334,81,266,94,199,111,147,131,103,152"/>
+<area shape="rect" id="Node000004" href="$classTHaTrackInfo.html#a3337aa838bc94df569127f4100c216a9" title=" " alt="" coords="199,121,425,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,151,197,145,197,150,152,156"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackingModule.html#ab89acc69744063cbdca8b46f10bb5be0" title=" " alt="" coords="233,171,391,211"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="152,169,219,177,218,182,151,174"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="225,259,399,285"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="105,173,200,220,269,251,267,256,198,225,103,178"/>
+<area shape="rect" id="Node000007" href="$classTHaTrackInfo.html#a7df111dd02e9ba26b3f2ca7f80067d17" title=" " alt="" coords="200,309,424,334"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="89,174,131,233,163,266,200,294,215,301,213,306,197,298,160,270,127,236,85,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,32,460,40,459,45,389,37"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="274,261,266,251,270,241,286,235,312,233,345,237,357,246,354,250,343,241,312,238,287,240,274,245,271,250,278,257"/>
+</map>

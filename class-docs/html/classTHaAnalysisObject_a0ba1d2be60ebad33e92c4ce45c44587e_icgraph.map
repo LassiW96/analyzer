@@ -1,0 +1,17 @@
+<map id="THaAnalysisObject::ReadRunDatabase" name="THaAnalysisObject::ReadRunDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="309,162,463,202"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ace906139903620924e0d49ff8ce64209" title=" " alt="" coords="46,5,221,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="363,152,320,96,292,69,260,46,220,30,222,25,263,41,295,64,324,93,368,149"/>
+<area shape="rect" id="Node000003" href="$classTHaElossCorrection.html#a746033a0cf2f3f2d8915417688986733" title=" " alt="" coords="58,55,209,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,156,304,132,260,110,208,93,210,88,262,105,307,127,347,152"/>
+<area shape="rect" id="Node000004" href="$classTHaExtTarCor.html#ab2721fe13fc1aca3db621d640215a894" title=" " alt="" coords="14,120,253,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="295,166,261,159,203,148,204,143,262,154,296,161"/>
+<area shape="rect" id="Node000005" href="$classTHaIdealBeam.html#a15e734d8cdb23cbb1246f56b8fd71dfd" title=" " alt="" coords="10,169,257,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="296,185,257,185,257,179,296,179"/>
+<area shape="rect" id="Node000006" href="$classTHaPrimaryKine.html#a76cd6353938c02866b7c8e41315f9745" title=" " alt="" coords="5,219,261,244"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="296,202,199,221,198,216,295,197"/>
+<area shape="rect" id="Node000007" href="$classTHaSecondaryKine.html#adf711a2836d3f67fc30fe90cb38f612d" title=" " alt="" coords="28,269,239,309"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="346,212,306,236,262,258,225,271,223,266,260,253,304,231,343,208"/>
+<area shape="rect" id="Node000008" href="$classTHaSpectrometer.html#a91475b5c65ac0cd9d397f0988a706e51" title=" " alt="" coords="32,333,235,373"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="367,215,324,271,295,299,263,323,236,336,234,331,260,318,291,295,320,267,363,212"/>
+</map>

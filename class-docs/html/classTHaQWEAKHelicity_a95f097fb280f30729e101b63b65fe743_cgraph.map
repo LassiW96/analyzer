@@ -1,0 +1,24 @@
+<map id="THaQWEAKHelicity::ReadDatabase" name="THaQWEAKHelicity::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,255,111"/>
+<area shape="rect" id="Node000002" href="$classTHaHelicityDet.html#a560e1ec62c7b811faa2c072bc86c49c9" title=" " alt="" coords="303,5,536,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,83,302,47,358,32,359,37,303,53,177,88"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="1027,110,1180,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,92,303,91,540,86,644,86,777,91,901,102,1013,115,1012,120,900,107,777,97,644,91,540,91,303,97,255,97"/>
+<area shape="rect" id="Node000004" href="$classTHaQWEAKHelicityReader.html#ae4f6673c2766472e7e930e3ddef48554" title=" " alt="" coords="323,106,516,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,107,309,113,309,118,255,113"/>
+<area shape="rect" id="Node000006" href="$classTHaHelicityDet.html#a4ee114f4114d5f3d8bb098c15070be00" title=" " alt="" coords="307,177,531,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,108,303,155,357,171,356,176,302,161,165,113"/>
+<area shape="rect" id="Node000005" href="$classTHaQWEAKHelicityReader.html#ad6e3b1dd7ce6dde5f116a860c9d245cb" title=" " alt="" coords="584,106,777,146"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="516,123,570,123,570,129,516,129"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="604,170,757,210"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="531,187,590,187,590,193,531,193"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="604,234,757,274"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="473,200,591,229,590,235,472,205"/>
+<area shape="rect" id="Node000009" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="825,234,979,274"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="758,251,812,251,812,257,758,257"/>
+<area shape="rect" id="Node000011" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="825,138,979,178"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="746,231,776,220,852,182,854,187,778,224,748,236"/>
+<area shape="rect" id="Node000010" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="1027,234,1180,274"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="979,251,1013,251,1013,257,979,257"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="979,145,1013,140,1014,145,979,150"/>
+</map>

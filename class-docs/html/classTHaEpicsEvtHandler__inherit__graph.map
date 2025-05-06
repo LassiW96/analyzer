@@ -1,0 +1,9 @@
+<map id="THaEpicsEvtHandler" name="THaEpicsEvtHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,1565,194,1851"/>
+<area shape="rect" id="Node000002" href="$classTHaEvtTypeHandler.html" title=" " alt="" coords="15,1112,192,1517"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,1531,106,1565,101,1565,101,1531"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,119,201,1064"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1078,106,1112,101,1112,101,1078"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,85,106,119,101,119,101,85"/>
+</map>

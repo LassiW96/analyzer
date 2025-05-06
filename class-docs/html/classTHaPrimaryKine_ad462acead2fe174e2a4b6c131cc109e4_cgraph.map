@@ -1,0 +1,19 @@
+<map id="THaPrimaryKine::Process" name="THaPrimaryKine::Process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,179,192,204"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamModule.html#a057258cc58fd34176c28845a30693f33" title=" " alt="" coords="240,5,468,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,177,156,111,194,72,239,40,252,33,254,38,241,44,198,76,160,114,110,180"/>
+<area shape="rect" id="Node000003" href="$classTHaRunParameters.html#a01d3a601ed90d2d975fffba237ba6004" title=" " alt="" coords="242,55,466,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,176,165,133,201,109,239,89,259,81,260,86,241,94,203,114,168,137,116,180"/>
+<area shape="rect" id="Node000004" href="$classTHaRunBase.html#adbbc0a6fa746d0b28069170b36b527b6" title=" " alt="" coords="249,104,459,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,176,239,138,272,130,273,135,241,143,132,181"/>
+<area shape="rect" id="Node000005" href="$classTHaBeamInfo.html#ad2d307ee366e24f1c2f4173d9f9bb64e" title=" " alt="" coords="265,153,443,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,179,251,174,251,179,193,185"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackInfo.html#ab418d0eb2c506a81c4f3ba35c21cd0de" title=" " alt="" coords="267,203,441,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,197,253,203,253,209,192,203"/>
+<area shape="rect" id="Node000007" href="$classTHaTrackingModule.html#ab89acc69744063cbdca8b46f10bb5be0" title=" " alt="" coords="275,253,433,293"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="137,202,241,237,270,246,269,251,239,242,135,207"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="263,317,445,343"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,202,166,251,202,279,241,302,262,311,260,316,239,307,199,283,162,256,110,206"/>
+<area shape="rect" id="Node000009" href="$classTHaTrackInfo.html#ae09f77ca4e3c35f6f20d6f5ac7da2b2b" title=" " alt="" coords="281,367,427,392"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="109,203,129,234,158,275,196,317,241,352,269,364,267,369,239,356,193,321,154,278,124,237,105,206"/>
+</map>

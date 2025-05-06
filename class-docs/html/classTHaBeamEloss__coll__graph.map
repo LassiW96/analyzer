@@ -1,0 +1,28 @@
+<map id="THaBeamEloss" name="THaBeamEloss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="365,3007,513,3192"/>
+<area shape="rect" id="Node000002" href="$classTHaElossCorrection.html" title=" " alt="" coords="384,1683,561,2348"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,2362,446,2983,445,3006,440,3006,441,2983,460,2362"/>
+<area shape="rect" id="Node000003" href="$classTHaPhysicsModule.html" title=" " alt="" coords="379,1255,553,1480"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,1494,472,1682,467,1683,465,1494"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="272,120,468,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,1079,455,1254,450,1255,428,1080"/>
+<area shape="rect" id="Node000010" href="$classTHaApparatus.html" title=" " alt="" coords="193,1185,355,1550"/>
+<area shape="poly" id="edge10_Node000010_Node000004" title=" " alt="" coords="312,1080,299,1185,294,1184,307,1079"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="335,5,405,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,85,373,120,367,120,367,85"/>
+<area shape="rect" id="Node000006" href="$classTHaVertexModule.html" title=" " alt="" coords="577,1255,742,1480"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="630,1481,569,1692,563,1691,624,1480"/>
+<area shape="rect" id="Node000007" href="$classTHaBeamModule.html" title=" " alt="" coords="244,2799,405,2944"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="415,2954,423,2967,436,3006,431,3007,418,2969,411,2956"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="305,2944,306,2963,311,2982,330,3012,355,3038,351,3042,326,3015,306,2984,301,2964,300,2944"/>
+<area shape="rect" id="Node000009" href="$classTHaBeam.html" title=" " alt="" coords="193,1903,355,2128"/>
+<area shape="poly" id="edge11_Node000009_Node000007" title=" " alt="" coords="321,2785,315,2596,305,2372,283,2128,289,2128,310,2372,321,2596,326,2785"/>
+<area shape="rect" id="Node000008" href="$classTHaBeamInfo.html" title=" " alt="" coords="155,2411,294,2736"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="227,2736,239,2774,244,2783,239,2786,234,2776,222,2737"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="267,2128,243,2394,238,2394,261,2128"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="277,1564,277,1903,271,1903,271,1564"/>
+<area shape="rect" id="Node000011" href="$classTHaRunParameters.html" title=" " alt="" coords="5,1115,169,1620"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="163,1619,240,1886,235,1888,157,1621"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="55,560,119,625"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="90,639,90,1115,85,1115,85,639"/>
+</map>

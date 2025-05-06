@@ -1,0 +1,11 @@
+<map id="Podd::ADCData::GetADC" name="Podd::ADCData::GetADC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,185,60"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1ADCData.html#a0e622adad965904d7075e348a65f6bb9" title=" " alt="" coords="233,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,33,220,29,220,34,186,38"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1DetectorData.html#a5f64134887996ef68b052bb7e12e8298" title=" " alt="" coords="247,55,399,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,56,234,62,233,67,185,61"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1DetectorData.html#acc8619d366c610a9d1dd9f0df0b05f21" title=" " alt="" coords="479,26,629,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,63,465,55,466,60,400,68"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1DetectorData.html#a7df741acf2f51ed575fb9e0a0688b22f" title=" " alt="" coords="461,91,647,116"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="400,82,448,88,447,93,400,87"/>
+</map>

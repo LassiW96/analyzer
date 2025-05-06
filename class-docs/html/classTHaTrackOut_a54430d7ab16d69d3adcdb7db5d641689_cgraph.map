@@ -1,0 +1,7 @@
+<map id="THaTrackOut::Clear" name="THaTrackOut::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,152,38"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="200,13,387,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,23,186,23,186,28,152,28"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="435,5,588,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,23,421,23,421,28,387,28"/>
+</map>

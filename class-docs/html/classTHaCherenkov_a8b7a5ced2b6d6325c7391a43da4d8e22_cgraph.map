@@ -1,0 +1,18 @@
+<map id="THaCherenkov::DefineVariables" name="THaCherenkov::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,232,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a8f7b01fc76433831b05ec47d4b04137c" title=" " alt="" coords="280,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,42,266,35,267,40,214,47"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="280,69,433,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,67,267,75,266,80,213,73"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="481,27,684,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="433,70,510,53,511,58,434,75"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="491,77,675,102"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="434,87,477,87,477,92,434,92"/>
+<area shape="rect" id="Node000008" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="732,102,925,127"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="434,105,482,112,604,119,719,118,719,123,604,124,481,117,434,110"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="734,41,923,66"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="684,43,721,45,720,50,684,48"/>
+<area shape="rect" id="Node000006" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="973,78,1100,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="901,63,960,74,959,80,900,69"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="925,101,959,97,960,102,926,106"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="THaVDCChamber::Clear" name="THaVDCChamber::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,183,38"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="433,5,587,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,23,420,23,420,28,183,28"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#a624a1cb3130c2dbcdf5ae466b0829604" title=" " alt="" coords="231,38,385,63"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,33,217,37,216,43,183,39"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="385,38,419,34,420,39,386,44"/>
+</map>

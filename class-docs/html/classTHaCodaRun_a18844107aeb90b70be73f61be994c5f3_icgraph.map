@@ -1,0 +1,42 @@
+<map id="THaCodaRun::ReturnCode" name="THaCodaRun::ReturnCode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="901,317,1092,342"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1MultiFileRun.html#a80a57d809e9cdceda986c7df2cca9f7e" title=" " alt="" coords="672,36,851,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="983,304,965,260,936,205,898,147,852,97,823,78,826,74,855,93,903,144,941,202,969,258,988,302"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1MultiFileRun.html#a719b9858caac050fe42623ae118fdce5" title=" " alt="" coords="5,93,148,133"/>
+<area shape="poly" id="edge18_Node000001_Node000006" title=" " alt="" coords="973,308,921,259,888,233,852,210,761,169,664,139,565,119,467,107,373,102,286,101,149,108,148,103,286,96,373,96,467,102,566,114,666,134,763,164,855,206,891,229,924,255,976,305"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1MultiFileRun.html#a132e26b32087992fa5205f1f93e7081f" title=" " alt="" coords="690,220,833,260"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="949,314,814,263,816,258,951,309"/>
+<area shape="rect" id="Node000011" href="$classTHaCodaRun.html#a6ad3252442d492f3965deeff4a728b11" title=" " alt="" coords="686,342,837,367"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="888,344,837,349,836,344,887,338"/>
+<area shape="rect" id="Node000012" href="$classTHaRun.html#accf491fef23dcba87ac3b117ba01e62e" title=" " alt="" coords="459,343,573,369"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="887,327,782,327,670,332,574,346,573,341,669,327,782,321,887,322"/>
+<area shape="rect" id="Node000014" href="$classTHaOnlRun.html#a640daf2b9bca0347551e50f46e7299be" title=" " alt="" coords="693,391,830,417"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="949,349,854,381,811,394,810,389,853,376,947,344"/>
+<area shape="rect" id="Node000015" href="$classTHaOnlRun.html#ab7e63166c5d352b33a4df42088d80e3c" title=" " alt="" coords="411,442,621,467"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="974,353,922,394,889,415,854,431,796,447,735,457,622,463,622,458,735,452,795,442,852,425,887,410,919,390,970,349"/>
+<area shape="rect" id="Node000016" href="$classTHaCodaRun.html#a9b1ad70410ffef1f4b21e822608e3e4c" title=" " alt="" coords="669,493,853,518"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="980,355,928,415,893,447,855,476,813,495,810,490,852,471,890,443,924,411,975,352"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1MultiFileRun.html#a7016479915feefe64801e0668ede6411" title="Number of events read." alt="" coords="445,36,587,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="658,59,588,59,588,53,658,53"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1MultiFileRun.html#aedf4eb2bd5adfd7742881b4181ae2e24" title=" " alt="" coords="196,36,363,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,59,363,59,363,53,431,53"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1MultiFileRun.html#a796aa6cdbccd7b9c66d7840daddcbb6a" title=" " alt="" coords="5,5,148,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="182,44,148,39,149,33,183,39"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="196,82,149,96,147,91,194,77"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="111,82,99,75,77,72,57,74,46,79,41,85,44,92,38,94,36,84,42,75,56,69,77,67,100,70,113,77"/>
+<area shape="rect" id="Node000008" href="$classPodd_1_1MultiFileRun.html#ab400aafd0c5c43de5eef26ac51341180" title=" " alt="" coords="445,151,587,191"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="676,219,587,193,588,188,677,214"/>
+<area shape="rect" id="Node000009" href="$classPodd_1_1MultiFileRun.html#ae6a74496d9842f03637062d615f8eda3" title=" " alt="" coords="445,215,587,255"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="676,241,587,239,587,234,676,235"/>
+<area shape="rect" id="Node000010" href="$classPodd_1_1MultiFileRun.html#a400ea6b65d340942fdc09b218be99d35" title=" " alt="" coords="445,279,587,319"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="677,263,588,284,587,279,676,258"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="673,358,574,358,574,353,672,352"/>
+<area shape="rect" id="Node000013" href="$classTHaRun.html#a3c8385497483980a9dd5c5ee55102f47" title=" " alt="" coords="435,393,597,418"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="686,373,579,395,578,390,685,368"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="686,422,579,445,578,439,685,417"/>
+<area shape="rect" id="Node000017" href="$classTHaRun.html#a1844beb3e62c35345ce670da9d2fa7d1" title=" " alt="" coords="439,493,593,518"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="656,508,594,508,594,503,656,503"/>
+<area shape="rect" id="Node000018" href="$classTHaRun.html#a6a62eb7a3167e7535154762bf210e172" title=" " alt="" coords="199,493,359,518"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="424,508,359,508,359,503,424,503"/>
+<area shape="poly" id="edge22_Node000018_Node000018" title=" " alt="" coords="315,483,305,475,279,471,258,473,246,478,244,484,250,491,246,494,239,484,243,474,256,468,279,466,308,470,319,479"/>
+</map>

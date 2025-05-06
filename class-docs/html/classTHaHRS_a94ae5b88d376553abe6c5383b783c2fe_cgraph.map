@@ -1,0 +1,20 @@
+<map id="THaHRS::Init" name="THaHRS::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,109,109"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#a0a14a0a266ae086e018b68a58a6cbef6" title=" " alt="" coords="157,35,383,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,81,157,69,194,60,195,66,158,74,107,87"/>
+<area shape="rect" id="Node000008" href="$classTHaApparatus.html#a0cee58abf99cb5e8ef66e7b2221fec04" title=" " alt="" coords="169,84,371,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,94,155,94,155,99,110,99"/>
+<area shape="rect" id="Node000009" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="183,157,357,183"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="96,107,220,150,218,155,94,112"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html#a12ce1d4bc0623493fd897e127d3702fb" title=" " alt="" coords="431,35,633,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,45,417,45,417,50,383,50"/>
+<area shape="rect" id="Node000004" href="$classTHaDetector.html#a880f61251c26e8b1af4f5b724f859d9d" title=" " alt="" coords="681,35,880,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="633,45,667,45,667,50,633,50"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="928,5,1112,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="880,33,914,28,915,34,881,38"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="943,55,1097,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="881,56,930,62,929,67,880,62"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="1160,63,1343,88"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1097,73,1146,73,1146,78,1097,78"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="235,159,228,149,232,139,246,133,270,131,299,134,311,143,308,148,297,139,270,136,248,138,236,143,233,148,240,156"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="THaTrackInfo::SetSpectrometer" name="THaTrackInfo::SetSpectrometer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="312,55,536,80"/>
+<area shape="rect" id="Node000002" href="$classTHaExtTarCor.html#a035c01a687f40605f65ed461b6a28043" title=" " alt="" coords="65,5,204,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,55,204,32,205,27,336,50"/>
+<area shape="rect" id="Node000003" href="$classTHaTrackEloss.html#a83d89e1f7f89cf2b1910b084141e14af" title=" " alt="" coords="62,55,207,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,70,208,70,208,65,298,65"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#ada8f01c2474cc49ce7fa9e20814b79bc" title=" " alt="" coords="5,104,264,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,85,211,107,210,101,335,80"/>
+</map>

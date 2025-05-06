@@ -1,0 +1,15 @@
+<map id="BdataLoc" name="BdataLoc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="169,119,359,584"/>
+<area shape="rect" id="Node000003" href="$classCrateLoc.html" title=" " alt="" coords="5,632,179,897"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,593,150,633,145,631,161,591"/>
+<area shape="rect" id="Node000006" href="$classRoclenLoc.html" title=" " alt="" coords="203,682,325,847"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="267,598,267,682,261,682,261,598"/>
+<area shape="rect" id="Node000007" href="$classWordLoc.html" title=" " alt="" coords="349,642,470,887"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="353,596,369,641,364,643,348,598"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="229,5,299,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,84,267,118,261,118,261,84"/>
+<area shape="rect" id="Node000004" href="$classCrateLocMulti.html" title=" " alt="" coords="21,945,163,1251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,911,95,945,89,945,89,911"/>
+<area shape="rect" id="Node000005" href="$classTrigBitLoc.html" title=" " alt="" coords="21,1299,163,1624"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="95,1264,95,1299,89,1299,89,1264"/>
+</map>

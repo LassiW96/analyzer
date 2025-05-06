@@ -1,0 +1,10 @@
+<map id="THaElossCorrection::Init" name="THaElossCorrection::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,155,87"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a48b50bddc7fe845f360685ca9c8ce339" title=" " alt="" coords="213,5,367,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,49,199,40,200,46,156,55"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="203,94,377,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,78,210,89,209,94,155,84"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="425,13,609,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,23,411,23,411,28,367,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="256,96,249,86,252,76,267,70,290,67,319,71,330,80,327,84,317,76,290,73,268,75,256,79,254,85,260,92"/>
+</map>

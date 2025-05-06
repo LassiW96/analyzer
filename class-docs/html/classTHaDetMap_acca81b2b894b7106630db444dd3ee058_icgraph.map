@@ -1,0 +1,15 @@
+<map id="THaDetMap::GetModule" name="THaDetMap::GetModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,80,665,105"/>
+<area shape="rect" id="Node000002" href="$classTHaTriggerTime.html#a0a1a38755e8a10cfd31f3c63daf03f16" title=" " alt="" coords="237,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="531,77,438,45,394,33,395,28,439,39,533,72"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#a715c8bc88f3ced753052f05dd2a448a0" title=" " alt="" coords="221,55,435,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,85,435,81,436,76,473,80"/>
+<area shape="rect" id="Node000004" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="219,104,437,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="473,105,438,109,437,103,473,100"/>
+<area shape="rect" id="Node000006" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,157,439,183"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="529,113,439,143,381,160,379,155,438,138,527,108"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,93,169,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,117,169,117,169,111,205,112"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,157,169,197"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,176,170,177,170,172,203,171"/>
+</map>

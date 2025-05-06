@@ -1,0 +1,12 @@
+<map id="THaSubDetector::MakePrefix" name="THaSubDetector::MakePrefix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,213,117"/>
+<area shape="rect" id="Node000002" href="$classTHaSubDetector.html#a1108b6ddb165d5b30b574cc0dc7f2ca1" title=" " alt="" coords="261,5,461,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,90,194,66,260,41,291,32,293,37,262,46,196,71,140,94"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="285,55,438,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,90,271,83,271,88,214,95"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="269,120,453,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,114,256,118,255,124,213,119"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a6f9d76276afc78f70e734f80cf577e14" title=" " alt="" coords="285,194,438,234"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,115,303,186,301,191,139,120"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="315,194,312,184,319,175,336,169,361,167,390,170,406,177,404,182,389,175,361,173,337,175,322,179,317,185,320,193"/>
+</map>

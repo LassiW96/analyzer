@@ -1,0 +1,7 @@
+<map id="Podd::PMTData_t::clear" name="Podd::PMTData_t::clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,179,70"/>
+<area shape="rect" id="Node000002" href="$structPodd_1_1ADCData__t.html#ab6ae7fbf26cca26554113b68bc3f33d4" title=" " alt="" coords="227,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,42,213,37,214,42,179,47"/>
+<area shape="rect" id="Node000003" href="$structPodd_1_1TDCData__t.html#a446ee32d438c138decebc9b904247544" title=" " alt="" coords="229,69,389,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,215,73,214,78,178,73"/>
+</map>

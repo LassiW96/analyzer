@@ -1,0 +1,23 @@
+<map id="THaDetectorBase::DefineAxes" name="THaDetectorBase::DefineAxes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="777,55,995,80"/>
+<area shape="rect" id="Node000002" href="$classTHaVDC.html#a6b06f1fd10f78f73bc13986ce8c50baf" title=" " alt="" coords="519,5,697,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="800,55,680,33,681,28,801,50"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#a715c8bc88f3ced753052f05dd2a448a0" title=" " alt="" coords="501,55,715,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="764,70,716,70,716,65,764,65"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html#a35c752e18167b821ab6dd0a0fed4b2a5" title=" " alt="" coords="487,104,729,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="801,85,681,107,680,101,800,80"/>
+<area shape="rect" id="Node000005" href="$classTHaBPM.html#a98243ceb4b69582533effcd57e3d37d8" title=" " alt="" coords="238,29,418,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="516,103,486,94,461,81,438,68,400,57,401,52,440,64,464,76,488,89,518,98"/>
+<area shape="rect" id="Node000006" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="219,79,437,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="473,107,438,104,438,99,473,102"/>
+<area shape="rect" id="Node000008" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,128,439,153"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="473,131,439,134,439,129,473,126"/>
+<area shape="rect" id="Node000010" href="$classTHaShower.html#af889f5ee2e8f352c667d836c94cc9680" title=" " alt="" coords="229,184,427,209"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="550,136,374,186,373,181,549,131"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,57,169,97"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="205,87,169,84,169,79,205,81"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,121,169,161"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="204,143,170,143,170,138,204,138"/>
+<area shape="rect" id="Node000011" href="$classHallA_1_1FadcShower.html#aa8e92d49d73526063169a09bd530f802" title=" " alt="" coords="12,185,163,225"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="215,203,163,205,163,200,215,198"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="THaVDCCluster::FitSimpleTrack" name="THaVDCCluster::FitSimpleTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,196,63"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ac67032698c2fd5d0407fb58024fb2817" title=" " alt="" coords="244,5,467,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,230,28,231,33,196,37"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="804,31,984,56"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="196,41,790,41,790,46,196,46"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#af77fc73dcdd8569f404e7b8fc5fd55d3" title=" " alt="" coords="515,5,756,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,15,501,15,501,21,467,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,27,790,31,790,36,756,32"/>
+</map>

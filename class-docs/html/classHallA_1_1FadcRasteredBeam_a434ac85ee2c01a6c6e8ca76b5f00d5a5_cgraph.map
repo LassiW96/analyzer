@@ -1,0 +1,13 @@
+<map id="HallA::FadcRasteredBeam::FadcRasteredBeam" name="HallA::FadcRasteredBeam::FadcRasteredBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,196,67"/>
+<area shape="rect" id="Node000002" href="$classTHaApparatus.html#a12ce1d4bc0623493fd897e127d3702fb" title=" " alt="" coords="244,35,447,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,45,230,45,230,50,196,50"/>
+<area shape="rect" id="Node000003" href="$classTHaDetector.html#a880f61251c26e8b1af4f5b724f859d9d" title=" " alt="" coords="495,35,693,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,45,481,45,481,50,447,50"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="741,5,925,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="693,33,728,28,728,34,694,38"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="757,55,910,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="694,56,743,62,743,67,693,62"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="973,63,1156,88"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="910,73,959,73,959,78,910,78"/>
+</map>

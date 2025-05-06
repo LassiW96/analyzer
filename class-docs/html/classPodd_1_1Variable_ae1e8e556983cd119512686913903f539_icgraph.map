@@ -1,0 +1,11 @@
+<map id="Podd::Variable::IsContiguous" name="Podd::Variable::IsContiguous">
+<area shape="rect" id="Node000001" title=" " alt="" coords="409,55,616,80"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1Variable.html#ade8598ac2bff8f2a33ede842b983549f" title=" " alt="" coords="184,29,361,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,58,361,54,362,49,396,52"/>
+<area shape="rect" id="Node000005" href="$classTHaVar.html#a4fcf92dadb5af697f738053a7d42c92e" title=" " alt="" coords="192,79,353,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="396,82,354,86,353,81,395,76"/>
+<area shape="rect" id="Node000003" href="$classTHaVar.html#a0f4b65f2d58ade469d94537fe939cc2f" title=" " alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="170,32,136,28,137,23,171,27"/>
+<area shape="rect" id="Node000004" href="$classTHaVar.html#ac70c473a6a98b0baf3211bec47f3534d" title=" " alt="" coords="5,55,136,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,57,137,62,136,56,170,52"/>
+</map>

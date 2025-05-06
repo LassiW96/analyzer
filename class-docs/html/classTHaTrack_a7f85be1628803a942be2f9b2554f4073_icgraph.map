@@ -1,0 +1,37 @@
+<map id="THaTrack::GetTheta" name="THaTrack::GetTheta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1039,131,1189,156"/>
+<area shape="rect" id="Node000002" href="$classTHaVDC.html#a426a1a5aad99e25fb5dda124d3f86fe8" title=" " alt="" coords="793,53,991,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1062,128,929,81,930,76,1064,123"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometerDetector.html#a424251440d61ec6ad53770da0225f3c7" title=" " alt="" coords="796,151,988,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1025,157,988,162,988,157,1025,152"/>
+<area shape="rect" id="Node000003" href="$classTHaVDC.html#af8cfd143f92fc4c36f9c93b21d935082" title=" " alt="" coords="568,5,731,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="813,53,714,33,715,28,814,48"/>
+<area shape="rect" id="Node000005" href="$classTHaSpectrometerDetector.html#a714fd8b8be54a71ca1f9f9525145df0e" title=" " alt="" coords="553,55,745,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="834,148,744,110,712,98,713,93,746,105,837,143"/>
+<area shape="rect" id="Node000006" href="$classTHaSpectrometerDetector.html#a0b8eb91f785f579c05d863f1c24e8a91" title=" " alt="" coords="553,119,745,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="782,160,745,155,746,149,783,154"/>
+<area shape="rect" id="Node000008" href="$classTHaSpectrometerDetector.html#a533227007546c02d88151edcbd97bfbb" title=" " alt="" coords="553,183,745,223"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="783,188,746,193,745,188,782,183"/>
+<area shape="rect" id="Node000009" href="$classTHaNonTrackingDetector.html#a2bc0330e3776aa937b38cf7081acd5df" title=" " alt="" coords="557,247,741,287"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="837,199,746,238,713,250,712,245,744,233,834,195"/>
+<area shape="rect" id="Node000018" href="$classTHaSpectrometerDetector.html#a666bff599324a3d0191fd81c8fef40e9" title=" " alt="" coords="553,311,745,351"/>
+<area shape="poly" id="edge17_Node000004_Node000018" title=" " alt="" coords="865,203,813,253,781,279,747,302,722,314,720,309,744,297,778,275,810,249,862,199"/>
+<area shape="rect" id="Node000007" href="$classTHaVDC.html#a859d7f0f65b21a29cba74f3f2b458219" title=" " alt="" coords="287,107,503,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="539,133,503,130,503,125,540,128"/>
+<area shape="rect" id="Node000010" href="$classTHaCherenkov.html#a5c00a2babedc4e482473158cfed3fb26" title=" " alt="" coords="285,156,504,181"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="564,244,552,238,537,226,528,215,518,205,504,195,476,184,477,179,507,190,522,201,532,212,541,223,555,233,567,239"/>
+<area shape="rect" id="Node000011" href="$classTHaScintillator.html#ae4108d0d659132dbfa3699f94c3e81fd" title=" " alt="" coords="284,205,505,231"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="543,250,460,233,461,228,544,244"/>
+<area shape="rect" id="Node000012" href="$classTHaShower.html#ad4a6c44a6f9ae6378601561e8c1cb75e" title=" " alt="" coords="295,255,494,280"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="543,270,494,270,494,265,543,265"/>
+<area shape="rect" id="Node000014" href="$classTHaCherenkov.html#a72440f5c97d157cdf764c2cb40ce7675" title=" " alt="" coords="294,304,495,329"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="544,290,461,307,460,301,543,285"/>
+<area shape="rect" id="Node000015" href="$classTHaScintillator.html#a48b332a8725d76beb2644c45b1b05f29" title=" " alt="" coords="293,353,496,379"/>
+<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="567,295,555,302,541,312,532,322,522,333,507,343,473,356,471,351,504,338,518,329,528,319,537,308,552,297,565,290"/>
+<area shape="rect" id="Node000016" href="$classTHaShower.html#a829b88ff806b10e291c234a4cf499d1b" title=" " alt="" coords="304,403,485,428"/>
+<area shape="poly" id="edge15_Node000009_Node000016" title=" " alt="" coords="561,297,555,301,539,324,533,347,526,371,507,393,487,405,484,400,504,389,521,368,527,345,534,321,551,297,558,292"/>
+<area shape="rect" id="Node000013" href="$classTHaTotalShower.html#ab29b86af64bf4481009ac6f7f4e029df" title=" " alt="" coords="5,255,236,280"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="281,270,236,270,236,265,281,265"/>
+<area shape="rect" id="Node000017" href="$classTHaTotalShower.html#a4ba7ffcdc1605d1be4c42874f54ab3d7" title=" " alt="" coords="15,403,227,428"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="290,418,227,418,227,413,290,413"/>
+</map>

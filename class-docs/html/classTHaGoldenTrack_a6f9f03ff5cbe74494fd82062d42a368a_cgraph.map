@@ -1,0 +1,16 @@
+<map id="THaGoldenTrack::DefineVariables" name="THaGoldenTrack::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,244,80"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="292,47,445,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,65,279,65,279,70,244,70"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="493,5,696,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,48,522,31,523,36,446,53"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="503,55,687,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="446,65,489,65,489,70,446,70"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="744,80,937,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="446,83,494,90,616,97,731,96,731,101,616,102,493,95,446,88"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="746,19,935,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="696,21,733,23,732,28,696,26"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="985,56,1112,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="913,41,972,52,971,58,912,47"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="937,79,971,75,972,80,938,84"/>
+</map>

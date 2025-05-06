@@ -1,0 +1,9 @@
+<map id="THaDetectorBase::ReadGeometry" name="THaDetectorBase::ReadGeometry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,248,80"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#a6b2f2fe9dad4b0005afa736d5356a8e3" title=" " alt="" coords="296,5,513,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,52,318,31,319,36,199,57"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="313,55,497,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,65,299,65,299,70,248,70"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="328,105,481,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,77,315,103,314,109,189,83"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="THaBeamInfo" name="THaBeamInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,430,215,755"/>
+<area shape="rect" id="Node000006" href="$classTHaBeamModule.html" title=" " alt="" coords="5,1308,167,1453"/>
+<area shape="poly" id="edge6_Node000006_Node000001" title=" " alt="" coords="136,756,95,1292,90,1291,131,756"/>
+<area shape="rect" id="Node000002" href="$classTHaBeam.html" title=" " alt="" coords="184,1696,345,1921"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,1696,225,1634,207,1481,200,1362,195,1243,186,1090,159,772,165,772,191,1089,201,1242,205,1362,212,1481,230,1633,241,1695"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html" title=" " alt="" coords="299,1198,460,1563"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,1578,297,1697,292,1695,324,1576"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="281,120,477,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="382,1079,382,1198,377,1198,377,1079"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="345,5,414,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="382,85,382,120,377,120,377,85"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="118,1466,155,1565,199,1671,210,1695,205,1697,194,1673,150,1567,113,1468"/>
+<area shape="rect" id="Node000007" href="$classTHaRunParameters.html" title=" " alt="" coords="484,1128,648,1633"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="486,1616,473,1635,448,1666,420,1696,360,1747,357,1743,416,1692,444,1663,469,1632,482,1613"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="534,560,598,625"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="569,640,569,1128,563,1128,563,640"/>
+</map>

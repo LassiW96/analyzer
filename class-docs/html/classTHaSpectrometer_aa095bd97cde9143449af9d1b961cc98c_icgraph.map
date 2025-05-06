@@ -1,0 +1,7 @@
+<map id="THaSpectrometer::TransportToLab" name="THaSpectrometer::TransportToLab">
+<area shape="rect" id="Node000001" title=" " alt="" coords="268,23,472,63"/>
+<area shape="rect" id="Node000002" href="$classTHaExtTarCor.html#a7f761745e69d7b159366fa49af43abaa" title=" " alt="" coords="29,5,197,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,35,197,29,197,24,255,29"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#ae36ab52080a9410686771b1431046aff" title=" " alt="" coords="5,55,220,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,57,221,60,220,55,254,51"/>
+</map>

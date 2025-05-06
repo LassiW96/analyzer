@@ -1,0 +1,15 @@
+<map id="THaG0Helicity::QuadCalib" name="THaG0Helicity::QuadCalib">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,196,81"/>
+<area shape="rect" id="Node000002" href="$classTHaG0Helicity.html#ae6cd9aaae7398e59aab956fe9f818ec2" title=" " alt="" coords="499,5,682,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,53,244,47,485,24,486,29,244,53,195,59"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="499,56,683,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,66,485,66,485,71,197,71"/>
+<area shape="rect" id="Node000004" href="$classTHaG0Helicity.html#ac6d9e03234d7c12b6aa495828a0d4af1" title=" " alt="" coords="244,107,451,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,79,272,101,271,106,163,84"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="369,104,426,73,498,41,523,32,525,37,500,46,429,78,372,109"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="409,104,515,82,516,87,410,109"/>
+<area shape="rect" id="Node000005" href="$classTHaG0Helicity.html#a58437542c08b111bc207b7d7d6981f2f" title=" " alt="" coords="501,105,680,131"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="451,116,488,116,488,121,451,121"/>
+<area shape="rect" id="Node000006" href="$classTHaG0Helicity.html#a75b321361c35380929d5fb179c03a5bb" title=" " alt="" coords="507,155,674,180"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="413,129,513,149,512,155,412,135"/>
+</map>

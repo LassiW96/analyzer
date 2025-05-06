@@ -1,0 +1,7 @@
+<map id="THaDetectorBase::IsInActiveArea" name="THaDetectorBase::IsInActiveArea">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,244,60"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#a3593596b6a2c920fb1b9aa1969a00e75" title=" " alt="" coords="292,5,531,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,32,278,29,279,34,245,38"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html#a9a470f5035d1e51d6c073fa96a49ed3b" title=" " alt="" coords="315,55,507,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,56,302,62,301,67,244,62"/>
+</map>

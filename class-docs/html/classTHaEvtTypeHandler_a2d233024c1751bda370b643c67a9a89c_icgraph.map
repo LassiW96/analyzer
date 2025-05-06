@@ -1,0 +1,15 @@
+<map id="THaEvtTypeHandler::AddEvtType" name="THaEvtTypeHandler::AddEvtType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="543,77,701,117"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalyzer.html#af4bf0043500d5a74cdb636c4d6418241" title=" " alt="" coords="272,5,495,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,73,494,45,452,33,453,28,496,39,568,68"/>
+<area shape="rect" id="Node000003" href="$classTHaEvt125Handler.html#a91d109a60c5b29d96488935d6b5a2019" title=" " alt="" coords="297,55,470,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="528,88,470,81,471,75,529,83"/>
+<area shape="rect" id="Node000004" href="$classTHaScalerEvtHandler.html#a1916f8f1c04e3ae20e1ba3fae1722e9c" title=" " alt="" coords="303,105,463,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="529,110,464,118,463,113,528,105"/>
+<area shape="rect" id="Node000005" href="$classTHaEvtTypeHandler.html#a93973ce8bfcff18614da8f2b31c4a7f5" title=" " alt="" coords="304,169,463,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="572,125,496,159,461,171,459,166,494,154,570,120"/>
+<area shape="rect" id="Node000006" href="$classTHaEpicsEvtHandler.html#af9d5d90292230b8c309a9943414623d4" title=" " alt="" coords="37,139,192,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="290,181,192,170,192,165,291,176"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalyzer.html#a33674527d092ebcc5ac5d0624c6979aa" title=" " alt="" coords="5,204,224,229"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="291,201,224,208,224,203,290,196"/>
+</map>

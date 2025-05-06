@@ -1,0 +1,23 @@
+<map id="Podd::PMTData::GetCalib" name="Podd::PMTData::GetCalib">
+<area shape="rect" id="Node000001" title=" " alt="" coords="783,133,968,159"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1PMTData.html#a2bbefbc46647c2c83ce1e795a5a7b455" title=" " alt="" coords="531,5,717,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="849,126,798,84,767,62,734,44,702,33,704,28,736,40,770,58,802,80,853,122"/>
+<area shape="rect" id="Node000003" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="515,55,733,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="832,130,734,94,690,83,692,77,735,89,833,125"/>
+<area shape="rect" id="Node000005" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="513,104,735,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="769,136,733,132,733,127,769,131"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FadcCherenkov.html#aad34f6af13232cf107e57076f4cec31e" title=" " alt="" coords="543,154,705,194"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="769,161,706,168,705,162,768,155"/>
+<area shape="rect" id="Node000008" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="542,218,706,258"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="836,167,736,208,699,220,698,215,734,204,834,162"/>
+<area shape="rect" id="Node000009" href="$classTHaScintillator.html#a479a6ee550b4d89e547acc2faffbab43" title=" " alt="" coords="529,282,719,322"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="856,171,805,222,772,249,736,272,710,284,708,279,733,268,769,245,801,218,852,167"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="265,41,428,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="501,67,428,65,428,60,501,62"/>
+<area shape="rect" id="Node000006" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="265,105,429,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="500,123,429,125,429,120,500,118"/>
+<area shape="rect" id="Node000010" href="$classTHaScintillator.html#ad68e96eecac1c68df79e671df280108e" title=" " alt="" coords="228,289,465,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="515,305,466,305,466,299,515,299"/>
+<area shape="rect" id="Node000011" href="$classTHaScintillator.html#a2f2c17f564330b7981b699b25ce465b1" title=" " alt="" coords="5,289,180,315"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="214,305,180,305,180,299,214,299"/>
+</map>

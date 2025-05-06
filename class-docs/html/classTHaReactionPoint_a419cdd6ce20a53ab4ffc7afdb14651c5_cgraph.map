@@ -1,0 +1,10 @@
+<map id="THaReactionPoint::Init" name="THaReactionPoint::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,172,79"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a48b50bddc7fe845f360685ca9c8ce339" title=" " alt="" coords="231,5,384,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,51,217,40,218,45,157,57"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="220,94,395,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,77,225,89,224,94,158,82"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="443,13,627,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,23,429,23,429,28,384,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="272,96,264,86,268,76,283,70,307,67,338,71,350,80,347,84,336,76,307,73,284,75,272,80,269,85,276,92"/>
+</map>

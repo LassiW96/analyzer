@@ -1,0 +1,7 @@
+<map id="THaDetMap::Module::GetModel" name="THaDetMap::Module::GetModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,23,387,63"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap.html#ab71204b90591d7a38881feb3928d4497" title=" " alt="" coords="5,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,35,176,31,176,25,211,30"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#a1c982f801952af4580fc7c373b4449ce" title=" " alt="" coords="5,55,176,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,57,176,60,176,55,210,51"/>
+</map>

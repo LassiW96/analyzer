@@ -1,0 +1,11 @@
+<map id="THaApparatus::AddDetector" name="THaApparatus::AddDetector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,208,60"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html#a880f61251c26e8b1af4f5b724f859d9d" title=" " alt="" coords="256,35,455,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,45,242,45,242,50,208,50"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="503,5,687,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,33,489,28,490,34,455,38"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="518,55,671,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="455,56,505,62,504,67,455,62"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="735,63,917,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="672,73,721,73,721,78,672,78"/>
+</map>

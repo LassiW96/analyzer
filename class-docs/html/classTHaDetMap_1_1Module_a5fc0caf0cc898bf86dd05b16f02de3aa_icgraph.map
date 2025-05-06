@@ -1,0 +1,13 @@
+<map id="THaDetMap::Module::MakeTDC" name="THaDetMap::Module::MakeTDC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,47,649,87"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPlane.html#a715c8bc88f3ced753052f05dd2a448a0" title=" " alt="" coords="221,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,50,390,33,391,28,473,45"/>
+<area shape="rect" id="Node000003" href="$classTHaCherenkov.html#a34de64abc3f672352fea7ac5b7dabed3" title=" " alt="" coords="219,55,437,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,70,437,70,437,65,473,65"/>
+<area shape="rect" id="Node000005" href="$classTHaScintillator.html#a987386a286eb5313fbaf98ed25366af5" title=" " alt="" coords="217,108,439,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="474,91,387,111,385,105,472,86"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,43,169,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,68,169,67,169,62,205,63"/>
+<area shape="rect" id="Node000006" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,107,169,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="204,127,170,128,170,122,203,121"/>
+</map>

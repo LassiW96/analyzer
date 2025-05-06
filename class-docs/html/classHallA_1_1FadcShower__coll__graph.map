@@ -1,0 +1,33 @@
+<map id="HallA::FadcShower" name="HallA::FadcShower">
+<area shape="rect" id="Node000001" title=" " alt="" coords="454,3603,595,3788"/>
+<area shape="rect" id="Node000002" href="$classTHaShower.html" title=" " alt="" coords="345,2988,512,3553"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,3566,506,3602,501,3603,493,3567"/>
+<area shape="rect" id="Node000003" href="$classTHaPidDetector.html" title=" " alt="" coords="149,2800,301,2925"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,2936,348,3102,343,3105,259,2939"/>
+<area shape="rect" id="Node000004" href="$classTHaNonTrackingDetector.html" title=" " alt="" coords="108,2455,320,2741"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="223,2754,225,2800,220,2800,218,2754"/>
+<area shape="rect" id="Node000005" href="$classTHaSpectrometerDetector.html" title=" " alt="" coords="104,2087,324,2333"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,2346,217,2455,211,2455,211,2346"/>
+<area shape="rect" id="Node000006" href="$classTHaDetector.html" title=" " alt="" coords="148,1803,280,1988"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,2002,217,2087,211,2087,211,2002"/>
+<area shape="rect" id="Node000007" href="$classTHaDetectorBase.html" title=" " alt="" coords="132,1128,296,1753"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="217,1767,217,1802,211,1802,211,1767"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="169,1078,176,1127,171,1128,164,1079"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="235,5,305,71"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="238,83,216,121,204,151,199,149,212,119,234,81"/>
+<area shape="rect" id="Node000013" href="$classPodd_1_1DetectorData.html" title=" " alt="" coords="352,2037,521,2383"/>
+<area shape="poly" id="edge13_Node000013_Node000009" title=" " alt="" coords="319,51,370,76,394,95,414,119,447,182,464,239,470,292,468,344,451,455,443,518,439,591,439,1897,439,2037,434,2037,434,1897,434,591,437,518,446,454,463,344,465,292,459,240,442,184,409,121,391,99,367,81,316,56"/>
+<area shape="rect" id="Node000010" href="$classTHaDetMap.html" title=" " alt="" coords="226,400,399,785"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="293,786,255,1112,250,1111,288,786"/>
+<area shape="rect" id="Node000011" href="$classTHaShower_1_1ShowerADCData.html" title=" " alt="" coords="327,2820,530,2905"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="431,2905,431,2972,426,2972,426,2905"/>
+<area shape="rect" id="Node000012" href="$classPodd_1_1ADCData.html" title=" " alt="" coords="344,2445,513,2751"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="431,2765,431,2820,426,2820,426,2765"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="435,2397,434,2445,429,2445,430,2397"/>
+<area shape="rect" id="Node000014" href="$classHallA_1_1FADCData.html" title=" " alt="" coords="537,2465,707,2731"/>
+<area shape="poly" id="edge15_Node000014_Node000013" title=" " alt="" coords="528,2394,561,2464,556,2466,523,2397"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="613,2731,537,3586,532,3586,608,2731"/>
+<area shape="rect" id="Node000015" href="$classHallA_1_1FADCConfig__t.html" title=" " alt="" coords="550,2117,694,2303"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="625,2303,625,2449,619,2449,619,2303"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="THaVDCPlane::GetCluster" name="THaVDCPlane::GetCluster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="789,5,979,31"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCChamber.html#a726aadaa85ad60fe2727abbd95676ca1" title=" " alt="" coords="487,5,741,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,21,742,21,742,15,776,15"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCChamber.html#a7152794cc60c7b97c801361530272cc1" title=" " alt="" coords="216,5,439,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,21,439,21,439,15,473,15"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,21,168,21,168,15,202,15"/>
+</map>

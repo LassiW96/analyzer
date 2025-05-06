@@ -1,0 +1,38 @@
+<map id="THaVDC" name="THaVDC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,2837,341,3543"/>
+<area shape="rect" id="Node000011" href="$classTHaVDCPlane.html" title=" " alt="" coords="435,3605,629,4251"/>
+<area shape="poly" id="edge14_Node000011_Node000001" title=" " alt="" coords="344,3509,356,3542,431,3718,426,3720,351,3544,339,3511"/>
+<area shape="rect" id="Node000002" href="$classTHaTrackingDetector.html" title=" " alt="" coords="193,2549,378,2775"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,2788,277,2837,271,2837,274,2788"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometerDetector.html" title=" " alt="" coords="186,2241,406,2487"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,2500,292,2549,287,2549,288,2500"/>
+<area shape="rect" id="Node000004" href="$classTHaDetector.html" title=" " alt="" coords="234,1803,366,1988"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,2002,300,2241,294,2241,296,2002"/>
+<area shape="rect" id="Node000005" href="$classTHaDetectorBase.html" title=" " alt="" coords="233,1128,397,1753"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,1767,306,1803,300,1802,301,1767"/>
+<area shape="rect" id="Node000010" href="$classTHaSubDetector.html" title=" " alt="" coords="366,3057,522,3323"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="404,1652,434,1770,443,1832,447,1894,447,2663,447,3057,441,3057,441,2663,441,1894,438,1833,429,1771,398,1653"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html" title=" " alt="" coords="9,120,205,1065"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="211,1027,220,1065,236,1127,230,1128,215,1066,205,1028"/>
+<area shape="rect" id="Node000016" href="$classPodd_1_1InterStageModule.html" title=" " alt="" coords="22,1328,191,1553"/>
+<area shape="poly" id="edge20_Node000016_Node000006" title=" " alt="" coords="109,1079,109,1328,104,1328,104,1079"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="72,5,141,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="109,85,109,120,104,120,104,85"/>
+<area shape="rect" id="Node000008" href="$classTHaDetMap.html" title=" " alt="" coords="229,400,403,785"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="318,786,318,1111,313,1111,313,786"/>
+<area shape="rect" id="Node000009" href="$classTHaVDCChamber.html" title=" " alt="" coords="309,4328,485,4873"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="343,4328,332,4251,294,3896,268,3560,274,3559,299,3896,337,4250,348,4327"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="434,3337,419,3567,406,3966,401,4328,395,4328,400,3966,413,3567,429,3336"/>
+<area shape="poly" id="edge12_Node000011_Node000010" title=" " alt="" coords="474,3336,509,3566,514,3605,508,3605,504,3567,469,3337"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="470,4252,458,4312,453,4311,465,4251"/>
+<area shape="rect" id="Node000012" href="$classVDC_1_1TimeToDistConv.html" title=" " alt="" coords="507,2549,669,2775"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="586,2775,550,3589,544,3589,580,2775"/>
+<area shape="rect" id="Node000013" href="$classTHaVDCWire.html" title=" " alt="" coords="675,2997,808,3383"/>
+<area shape="poly" id="edge17_Node000013_Node000012" title=" " alt="" coords="637,2774,659,2837,698,2981,693,2982,653,2838,632,2776"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="700,3384,659,3543,636,3620,631,3618,653,3542,695,3382"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="709,2629,773,2695"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="744,2708,744,2997,739,2997,739,2708"/>
+<area shape="rect" id="Node000015" href="$classPodd_1_1TimeCorrectionModule.html" title=" " alt="" coords="5,2012,208,2217"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="107,2218,108,2363,119,2525,139,2673,167,2821,161,2822,134,2674,113,2526,103,2364,101,2218"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="109,1567,109,2012,104,2012,104,1567"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="Podd::InterStageModule::DefineVariables" name="Podd::InterStageModule::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,183,87"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="231,47,384,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,65,217,65,217,70,183,70"/>
+<area shape="rect" id="Node000003" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="432,5,635,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,48,461,31,462,36,385,53"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="441,55,625,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="384,65,428,65,428,70,384,70"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="683,80,876,105"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="385,83,432,90,555,97,669,96,669,101,555,102,432,95,384,88"/>
+<area shape="rect" id="Node000004" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="685,19,874,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="635,21,671,23,671,28,635,26"/>
+<area shape="rect" id="Node000005" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="924,56,1051,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="851,41,911,52,910,58,850,47"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="876,79,910,75,911,80,876,84"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WordLoc::Configure" name="WordLoc::Configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,152,70"/>
+<area shape="rect" id="Node000002" href="$classBdataLoc.html#aac6465c108f3ae1bd2a33da3d24cb218" title=" " alt="" coords="200,19,352,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,45,186,41,186,46,153,51"/>
+<area shape="rect" id="Node000005" href="$classBdataLoc.html#a491f817b320c119a68b5b7de1570bfb9" title=" " alt="" coords="421,70,571,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="152,59,407,75,407,80,152,64"/>
+<area shape="rect" id="Node000003" href="$classBdataLoc.html#a4033d3574f67ebcb2836b8cb31e357a7" title=" " alt="" coords="400,5,592,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,27,386,26,386,31,352,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="333,42,428,64,426,69,332,47"/>
+<area shape="rect" id="Node000004" href="$classBdataLoc.html#a8e9798f8fd4e5862da1996c6253a348e" title=" " alt="" coords="640,13,812,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,23,626,23,626,28,592,28"/>
+</map>

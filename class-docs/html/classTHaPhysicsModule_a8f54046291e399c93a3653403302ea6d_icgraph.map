@@ -1,0 +1,45 @@
+<map id="THaPhysicsModule::Clear" name="THaPhysicsModule::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="789,343,976,368"/>
+<area shape="rect" id="Node000002" href="$classTHaAvgVertex.html#ab8aef9aaae60a97a5e1387012982f6aa" title=" " alt="" coords="570,5,726,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,329,862,270,837,193,819,152,797,112,771,76,740,44,722,33,725,28,743,40,775,72,802,110,824,150,842,191,867,269,880,328"/>
+<area shape="rect" id="Node000003" href="$classTHaCoincTime.html#a5370eb063ac294b2d112e2a37acd6156" title=" " alt="" coords="569,55,727,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="872,330,857,280,830,216,791,151,767,121,740,95,718,82,721,78,743,91,771,117,796,148,835,214,862,278,878,329"/>
+<area shape="rect" id="Node000004" href="$classTHaElossCorrection.html#a4052b9db56a32ca78873bcced5e24adc" title=" " alt="" coords="573,105,723,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="868,331,848,293,820,247,783,200,740,159,720,147,723,142,743,155,787,196,824,244,853,291,872,329"/>
+<area shape="rect" id="Node000010" href="$classTHaEpicsEbeam.html#a559e9f78d673017fcd1a16ea71920e23" title=" " alt="" coords="563,169,733,195"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="863,332,813,270,779,236,740,208,715,197,718,192,743,204,782,232,817,266,867,329"/>
+<area shape="rect" id="Node000011" href="$classTHaExtTarCor.html#a8ad7e986db99cecaa9b09dcd8a6bc862" title=" " alt="" coords="572,219,724,244"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="855,336,804,296,740,258,710,247,712,242,742,253,807,292,859,332"/>
+<area shape="rect" id="Node000013" href="$classTHaGoldenTrack.html#a9fbf95d7c4bde8279194dd7877170002" title=" " alt="" coords="563,268,733,293"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="835,340,741,307,701,296,702,291,742,302,837,335"/>
+<area shape="rect" id="Node000014" href="$classTHaPhotoReaction.html#a58873cc07e378fcd411881737099776f" title=" " alt="" coords="556,317,740,343"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="776,346,740,343,740,337,776,341"/>
+<area shape="rect" id="Node000015" href="$classTHaPrimaryKine.html#a8ae6eabbff60e39ea96b8ea9a47e4aa1" title=" " alt="" coords="563,367,733,392"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="776,369,734,373,733,368,775,364"/>
+<area shape="rect" id="Node000016" href="$classTHaReacPointFoil.html#a9aeeb8101019ad82913d7d4d49720c52" title=" " alt="" coords="559,416,737,441"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="834,375,742,406,698,419,697,413,741,401,832,370"/>
+<area shape="rect" id="Node000017" href="$classTHaReactionPoint.html#af1db23592127383cd1bcbad9da881478" title=" " alt="" coords="558,465,738,491"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="858,379,806,418,742,455,708,468,706,463,740,450,803,413,854,375"/>
+<area shape="rect" id="Node000018" href="$classTHaSecondaryKine.html#aa0dcb1b7741023da54f95e6d7364db94" title=" " alt="" coords="555,515,741,540"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="867,381,816,443,782,476,743,504,714,517,712,512,740,500,778,472,812,439,863,378"/>
+<area shape="rect" id="Node000019" href="$classTHaTrackOut.html#a54430d7ab16d69d3adcdb7db5d641689" title=" " alt="" coords="575,564,721,589"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="873,382,853,420,825,467,788,514,743,554,718,566,715,562,740,549,784,510,820,463,848,417,868,379"/>
+<area shape="rect" id="Node000020" href="$classTHaTwoarmVertex.html#a0412786fb814fb51f25a76121996301c" title=" " alt="" coords="557,613,739,639"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="876,382,860,430,833,490,794,552,770,580,743,604,723,615,720,611,740,600,766,576,790,549,828,488,855,428,871,381"/>
+<area shape="rect" id="Node000022" href="$classVDCeff.html#a05f76e94c951e840e28b6843b490a2c2" title=" " alt="" coords="592,663,704,688"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="879,382,865,439,840,512,822,551,800,588,774,623,743,653,725,665,705,672,703,667,723,660,740,649,770,620,795,585,817,548,835,510,860,437,874,381"/>
+<area shape="rect" id="Node000005" href="$classTHaBeamEloss.html#a3225cb68f45eb18163fe963c1d95502a" title=" " alt="" coords="312,59,475,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="559,109,454,87,455,81,561,104"/>
+<area shape="rect" id="Node000007" href="$classTHaTrackEloss.html#a9607ff81b019745e2dbf0e856f45321c" title=" " alt="" coords="314,108,473,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="559,126,473,125,473,119,560,121"/>
+<area shape="rect" id="Node000009" href="$classTHaElossCorrection.html#a5a99f10772a476712bfc4a9dfc4a98e5" title=" " alt="" coords="315,158,472,198"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="560,146,473,164,472,159,559,140"/>
+<area shape="rect" id="Node000006" href="$classTHaBeamEloss.html#a0142cea7edeea713eade18221f64a04a" title=" " alt="" coords="5,59,232,84"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="298,74,232,74,232,69,298,69"/>
+<area shape="rect" id="Node000008" href="$classTHaTrackEloss.html#a9e79d5a13ea5f40e987e3856a890763e" title=" " alt="" coords="9,108,228,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="300,123,228,123,228,118,300,118"/>
+<area shape="rect" id="Node000012" href="$classTHaExtTarCor.html#a48c62067e0f991d02fe86b211edebdeb" title=" " alt="" coords="290,223,497,248"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="558,235,497,236,497,231,558,230"/>
+<area shape="rect" id="Node000021" href="$classTHaTwoarmVertex.html#adc57e14ac54310e1dc0aa003a0ec6a97" title=" " alt="" coords="280,606,507,646"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="543,629,507,629,507,623,543,623"/>
+</map>

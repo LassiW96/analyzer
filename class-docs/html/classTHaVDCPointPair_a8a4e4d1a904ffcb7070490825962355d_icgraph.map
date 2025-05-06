@@ -1,0 +1,13 @@
+<map id="THaVDCPointPair::GetProjectedDistance" name="THaVDCPointPair::GetProjectedDistance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="705,47,931,87"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPointPair.html#a6e1b5eb7004cb1570772a818587db92c" title=" " alt="" coords="457,29,657,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="691,58,657,54,658,49,692,52"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCPointPair.html#a23995d315aee146ed7b9a802e5351325" title=" " alt="" coords="472,79,643,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="692,82,643,86,643,81,691,76"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPointPair.html#af73626f6ab302e37f1b5d8801ec676bf" title=" " alt="" coords="216,5,409,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,34,409,30,410,25,444,28"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#a39663499434ed7c869edc3a672971b91" title=" " alt="" coords="219,55,406,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="444,56,407,60,406,55,443,51"/>
+<area shape="rect" id="Node000005" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="5,55,168,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,70,168,70,168,65,206,65"/>
+</map>

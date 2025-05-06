@@ -1,0 +1,7 @@
+<map id="THaVDCWire" name="THaVDCWire">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,293,172,679"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,85,69,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="48,164,72,293,67,294,43,165"/>
+<area shape="rect" id="Node000003" href="$classVDC_1_1TimeToDistConv.html" title=" " alt="" coords="93,5,256,231"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,231,147,278,142,277,151,230"/>
+</map>

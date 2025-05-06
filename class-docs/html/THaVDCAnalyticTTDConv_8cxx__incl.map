@@ -1,0 +1,17 @@
+<map id="HallA/THaVDCAnalyticTTDConv.cxx" name="HallA/THaVDCAnalyticTTDConv.cxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,5,355,31"/>
+<area shape="rect" id="Node000002" href="$THaVDCAnalyticTTDConv_8h.html" title=" " alt="" coords="51,79,249,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,33,175,71,171,68,214,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="273,79,345,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="243,29,287,68,284,72,240,33"/>
+<area shape="rect" id="Node000003" href="$THaVDCTimeToDistConv_8h.html" title=" " alt="" coords="53,152,247,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="153,104,153,138,147,138,147,104"/>
+<area shape="rect" id="Node000004" href="$DataType_8h.html" title=" " alt="" coords="52,225,147,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,179,118,216,113,213,139,176"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="171,225,233,251"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="161,176,188,213,183,216,156,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,299,84,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="92,253,64,289,60,286,88,249"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="108,299,200,324"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="110,249,139,286,135,289,106,253"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="THaScalerEvtHandler::Init" name="THaScalerEvtHandler::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,241,165,281"/>
+<area shape="rect" id="Node000002" href="$classTHaEvtTypeHandler.html#a2d233024c1751bda370b643c67a9a89c" title=" " alt="" coords="214,5,373,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,240,108,202,134,152,169,101,212,55,218,50,221,55,215,59,173,104,139,155,113,204,97,242"/>
+<area shape="rect" id="Node000003" href="$classTHaScalerEvtHandler.html#a5ab7b692002c4217a7c17fc21804f36d" title=" " alt="" coords="436,156,596,196"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,258,265,250,373,232,419,217,462,200,464,204,421,222,374,237,266,256,166,263"/>
+<area shape="rect" id="Node000004" href="$classTHaScalerEvtHandler.html#a50d2d0ae4ac7c843eb645de53da0e53e" title=" " alt="" coords="213,133,373,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="116,239,212,183,226,176,228,181,215,188,118,244"/>
+<area shape="rect" id="Node000005" href="$THaOutput_8cxx.html#a257d535ad7c87edaa51e16f47d792d5e" title=" " alt="" coords="251,198,335,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,239,237,221,238,227,166,244"/>
+<area shape="rect" id="Node000006" href="$classTHaScalerEvtHandler.html#a4b99b5179d2d915603dd7e39638964ba" title=" " alt="" coords="213,363,373,403"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="113,279,159,314,215,348,227,355,225,359,212,353,156,318,110,284"/>
+<area shape="rect" id="Node000009" href="$classTHaScalerEvtHandler.html#aa8d9202ca7c8ced5d2eecfdccd1fe8a2" title=" " alt="" coords="213,299,373,339"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="159,279,208,292,207,298,158,284"/>
+<area shape="rect" id="Node000010" href="$classTHaScalerEvtHandler.html#adccab9c42252e086f74d95d84f3b7335" title=" " alt="" coords="213,69,373,109"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="98,239,145,181,176,148,212,119,220,114,223,118,215,123,180,152,149,185,102,243"/>
+<area shape="rect" id="Node000011" href="$classTHaScalerEvtHandler.html#abc7e227aa84644c14b6289ef99ead63f" title=" " alt="" coords="213,427,373,467"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="101,280,146,344,178,381,215,413,223,418,220,422,212,417,175,384,142,348,96,283"/>
+<area shape="rect" id="Node000012" href="$classTHaScalerEvtHandler.html#a48868d61f1fc7ce99352bc806da668c9" title=" " alt="" coords="213,491,373,531"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="96,281,112,321,137,374,171,428,215,477,221,481,217,485,212,481,167,432,132,376,107,323,91,283"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="421,370,611,395"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="373,380,408,380,408,385,373,385"/>
+<area shape="rect" id="Node000008" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="659,370,785,395"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="611,380,644,380,644,385,611,385"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="347,107,452,148,450,153,345,112"/>
+</map>

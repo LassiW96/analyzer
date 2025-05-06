@@ -1,0 +1,9 @@
+<map id="THaReactionPoint::Clear" name="THaReactionPoint::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,38,185,63"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="251,13,438,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,39,238,34,238,39,186,44"/>
+<area shape="rect" id="Node000004" href="$classTHaVertexModule.html#a4d70c23a35a8595c16e83b533b7c0a45" title=" " alt="" coords="233,62,456,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,57,220,60,219,65,185,62"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="504,5,657,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,23,490,23,490,28,438,28"/>
+</map>

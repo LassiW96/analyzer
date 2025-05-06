@@ -1,0 +1,15 @@
+<map id="THaOutput::StripBracket" name="THaOutput::StripBracket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="971,7,1149,33"/>
+<area shape="rect" id="Node000002" href="$classTHaOutput.html#a91a4c7a2a471f23081a06d5cca3372b8" title=" " alt="" coords="599,7,720,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="957,13,923,11,845,8,768,11,720,15,720,9,768,5,845,3,923,5,957,7"/>
+<area shape="rect" id="Node000006" href="$classTHaOutput.html#a75745fb5269bc7b518b1a6dd7b992da7" title=" " alt="" coords="768,45,923,70"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="973,38,919,47,918,42,972,33"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalyzer.html#aaa7b81cce5225f38ae67505a65655aa9" title=" " alt="" coords="399,7,551,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="585,23,551,23,551,17,585,17"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalyzer.html#a97554e8bc85ac39029bc0f43b6c9e781" title=" " alt="" coords="216,7,351,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="385,23,351,23,351,17,385,17"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalyzer.html#a3fa33731442d7b4f0877380e5702ac31" title=" " alt="" coords="5,7,168,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,23,168,23,168,17,202,17"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="768,45,720,35,721,30,769,39"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="878,34,869,26,845,23,826,25,816,30,814,36,819,43,815,46,808,36,812,27,824,20,845,18,871,22,881,30"/>
+</map>

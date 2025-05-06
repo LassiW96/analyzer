@@ -1,0 +1,9 @@
+<map id="THaAvgVertex::Clear" name="THaAvgVertex::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,38,161,63"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="227,13,414,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,40,214,34,214,39,162,45"/>
+<area shape="rect" id="Node000004" href="$classTHaVertexModule.html#a4d70c23a35a8595c16e83b533b7c0a45" title=" " alt="" coords="209,62,432,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,56,196,59,195,65,161,61"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="480,5,633,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,23,466,23,466,28,414,28"/>
+</map>

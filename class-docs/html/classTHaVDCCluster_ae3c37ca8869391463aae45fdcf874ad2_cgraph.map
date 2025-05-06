@@ -1,0 +1,17 @@
+<map id="THaVDCCluster::LinearClusterFitWithT0" name="THaVDCCluster::LinearClusterFitWithT0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,221,139"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ac67032698c2fd5d0407fb58024fb2817" title=" " alt="" coords="269,5,492,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,97,268,48,316,32,318,37,270,52,156,102"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCCluster.html#ab1731fdd9454a205484a154bd255c12a" title=" " alt="" coords="829,56,1009,81"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="221,97,269,91,418,79,566,72,815,66,816,71,567,77,418,85,270,97,222,103"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPlane.html#aff8cc3e4a54ab1221a2a92cdd4bf9dfb" title=" " alt="" coords="285,107,476,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="222,117,272,117,272,122,222,122"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCPlane.html#a76115e8a4ea67ef97f601fb6de40e001" title=" " alt="" coords="287,156,474,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="222,137,299,151,298,156,221,142"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCCluster.html#adda677f555617c25741bdc979efd8214" title=" " alt="" coords="559,156,763,181"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="147,137,203,167,236,181,270,191,313,199,356,203,444,202,526,193,594,182,594,187,526,199,444,207,356,208,312,204,269,197,234,186,201,172,144,142"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCCluster.html#af77fc73dcdd8569f404e7b8fc5fd55d3" title=" " alt="" coords="540,5,781,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="492,15,526,15,526,21,492,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="727,28,841,51,840,56,726,33"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="694,153,871,84,873,89,696,158"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="THaADCHelicity::ReadDatabase" name="THaADCHelicity::ReadDatabase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,233,107"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="301,5,485,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,79,333,32,334,37,167,84"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="553,58,707,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,88,539,78,539,83,233,93"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ac2c9325a11bd13b4714315e6aeff24cd" title=" " alt="" coords="553,131,707,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,104,212,125,282,142,349,150,417,154,540,154,540,159,417,160,348,156,281,147,211,130,151,109"/>
+<area shape="rect" id="Node000009" href="$classTHaHelicityDet.html#a4ee114f4114d5f3d8bb098c15070be00" title=" " alt="" coords="281,107,505,132"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="234,102,268,105,267,110,233,107"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a6ca09916b0716cd7eefdcaccb84b6dc3" title=" " alt="" coords="755,99,908,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,137,741,131,742,136,707,142"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#ad67b31aef71279e2ae6627d207a299a0" title=" " alt="" coords="755,163,908,203"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="707,161,742,166,741,172,707,166"/>
+<area shape="rect" id="Node000006" href="$classTHaAnalysisObject.html#a8dafcd62458e3536f42ef34f1e344432" title=" " alt="" coords="956,99,1109,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="908,117,942,117,942,122,908,122"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#a4710e0ccc8b737131e401ba51bdfc4c5" title=" " alt="" coords="956,163,1109,203"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="908,181,942,181,942,186,908,186"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="466,104,539,91,540,96,467,109"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="488,129,540,137,539,142,487,135"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="THaEpicsEbeam::Process" name="THaEpicsEbeam::Process">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,191,157"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamModule.html#a057258cc58fd34176c28845a30693f33" title=" " alt="" coords="239,5,467,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,130,166,90,238,48,280,32,281,37,240,52,169,94,116,134"/>
+<area shape="rect" id="Node000003" href="$classTHaBeamInfo.html#a7cd3e253147eb778df13d7a6311b4276" title=" " alt="" coords="277,107,428,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,133,263,125,264,131,191,138"/>
+<area shape="rect" id="Node000004" href="$classTHaBeamInfo.html#a6f1bd1edb4c3d2e7d30cc4af42b04616" title=" " alt="" coords="515,57,669,83"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="126,129,178,109,238,91,306,80,376,72,501,67,501,72,376,78,307,85,239,97,179,114,128,134"/>
+<area shape="rect" id="Node000008" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="261,156,444,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="191,151,248,156,247,161,190,156"/>
+<area shape="rect" id="Node000009" href="$classTHaBeamInfo.html#ac825f1f23496dfd3fa076cc36bc19cb7" title=" " alt="" coords="278,205,427,231"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="132,155,239,191,272,200,270,205,238,197,131,160"/>
+<area shape="rect" id="Node000010" href="$classTHaBeamInfo.html#a74fb006c76218fa66c2a39f6bfad84e6" title=" " alt="" coords="279,255,427,280"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="115,155,167,198,202,221,240,241,266,250,264,255,238,246,200,226,164,202,112,160"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,104,516,83,517,88,415,109"/>
+<area shape="rect" id="Node000007" href="$classTHaBeamInfo.html#a6a05dfc5b14e3d1dd3493b2b2cf9ca08" title=" " alt="" coords="517,107,667,132"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="428,117,503,117,503,122,428,122"/>
+<area shape="rect" id="Node000005" href="$classTHaRunParameters.html#a5d296c82b564aae4e8ee1e6e4671888d" title=" " alt="" coords="717,32,945,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="669,59,703,56,704,61,670,64"/>
+<area shape="rect" id="Node000006" href="$classTHaBeam.html#a6139df94fcc19cc41c6f7fbef4e10aa7" title=" " alt="" coords="723,81,939,107"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="670,75,710,79,709,84,669,80"/>
+</map>

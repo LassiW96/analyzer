@@ -1,0 +1,20 @@
+<map id="THaScintillator::StoreHit" name="THaScintillator::StoreHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,184,88"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#ad21d3f71dabb38f10ed323e81b343a05" title=" " alt="" coords="232,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,60,264,31,266,37,149,65"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1DetectorData.html#a627f226b4c73662f7fa2b07bd0f8b708" title=" " alt="" coords="257,55,406,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,73,243,73,243,78,184,78"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1PMTData.html#a8706b12c6ffd8d26b5eb527c0c21f18e" title=" " alt="" coords="240,120,423,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,85,266,114,264,119,147,91"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1DetectorData.html#a5f64134887996ef68b052bb7e12e8298" title=" " alt="" coords="479,30,631,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,117,430,105,502,74,504,79,432,110,390,123"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1DetectorData.html#a7df741acf2f51ed575fb9e0a0688b22f" title=" " alt="" coords="679,95,864,120"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="423,125,665,111,665,116,423,130"/>
+<area shape="rect" id="Node000008" href="$namespacePodd.html#a110d660fb7f89fe76efbe322ec9fc4f6" title=" " alt="" coords="493,145,617,171"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="423,140,479,147,479,152,423,146"/>
+<area shape="rect" id="Node000009" href="$namespacePodd.html#a695ed64c69354bee2fbcea87e4770ab4" title=" " alt="" coords="493,195,616,220"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="369,143,480,181,501,188,499,193,478,186,368,148"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1DetectorData.html#acc8619d366c610a9d1dd9f0df0b05f21" title=" " alt="" coords="697,30,846,70"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="631,47,683,47,683,53,631,53"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="632,67,710,88,709,94,630,73"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="THaADCHelicity::Clear" name="THaADCHelicity::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,172,38"/>
+<area shape="rect" id="Node000002" href="$classTHaHelicityDet.html#a28ca2d9ab3d8df6c2e22d6f3757335a8" title=" " alt="" coords="220,13,383,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,23,206,23,206,28,172,28"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="431,5,584,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="383,23,417,23,417,28,383,28"/>
+</map>

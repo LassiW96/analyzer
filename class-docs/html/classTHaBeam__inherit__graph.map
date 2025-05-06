@@ -1,0 +1,21 @@
+<map id="THaBeam" name="THaBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,1525,349,1771"/>
+<area shape="rect" id="Node000006" href="$classTHaIdealBeam.html" title=" " alt="" coords="5,1869,164,2014"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,1784,132,1870,128,1867,182,1781"/>
+<area shape="rect" id="Node000007" href="$classTHaRasteredBeam.html" title=" " alt="" coords="188,1899,349,1984"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="271,1784,271,1898,266,1898,266,1784"/>
+<area shape="rect" id="Node000009" href="$classTHaUnRasteredBeam.html" title=" " alt="" coords="382,1819,571,2064"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="359,1771,392,1817,388,1820,355,1775"/>
+<area shape="rect" id="Node000002" href="$classTHaApparatus.html" title=" " alt="" coords="96,1112,257,1477"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,1490,239,1524,234,1526,225,1491"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html" title=" " alt="" coords="79,119,275,1064"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,1078,179,1112,174,1112,174,1078"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="142,5,211,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,85,179,119,174,119,174,85"/>
+<area shape="rect" id="Node000005" href="$classTHaBeamModule.html" title=" " alt="" coords="281,1222,443,1367"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="342,1381,304,1526,298,1525,337,1380"/>
+<area shape="rect" id="Node000008" href="$classHallA_1_1FadcRasteredBeam.html" title=" " alt="" coords="173,2112,356,2177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="270,1998,268,2112,263,2112,265,1998"/>
+<area shape="rect" id="Node000010" href="$classHallA_1_1FadcUnRasteredBeam.html" title=" " alt="" coords="381,2112,581,2177"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="482,2077,483,2112,477,2112,477,2078"/>
+</map>

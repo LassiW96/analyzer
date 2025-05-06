@@ -1,0 +1,9 @@
+<map id="THaReacPointFoil::Clear" name="THaReacPointFoil::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,38,184,63"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="250,13,437,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,39,236,34,237,39,184,44"/>
+<area shape="rect" id="Node000004" href="$classTHaVertexModule.html#a4d70c23a35a8595c16e83b533b7c0a45" title=" " alt="" coords="232,62,455,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,57,219,60,218,65,184,62"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="503,5,656,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,23,489,23,489,28,437,28"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="THaSecondaryKine::SetSpectrometer" name="THaSecondaryKine::SetSpectrometer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,268,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#afaac7a998094fc405c8c523fc29f14cf" title=" " alt="" coords="341,5,495,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,42,327,33,328,38,249,47"/>
+<area shape="rect" id="Node000004" href="$classTHaPhysicsModule.html#a88ac3e1fa4e0fcb5d6d41417b6f85028" title=" " alt="" coords="316,69,520,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,67,303,74,302,79,248,73"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#aad2a4bf095fe473b6498bb440eb6d608" title=" " alt="" coords="569,13,751,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,23,555,23,555,28,495,28"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="568,77,752,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="520,87,554,87,554,92,520,92"/>
+</map>

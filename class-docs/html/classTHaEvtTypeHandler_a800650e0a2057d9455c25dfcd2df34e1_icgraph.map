@@ -1,0 +1,9 @@
+<map id="THaEvtTypeHandler::GetNumTypes" name="THaEvtTypeHandler::GetNumTypes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,35,623,75"/>
+<area shape="rect" id="Node000002" href="$classTHaEpicsEvtHandler.html#af9d5d90292230b8c309a9943414623d4" title=" " alt="" coords="239,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,45,393,38,394,33,450,40"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalyzer.html#a3b0fc2d4bd4fc7850cc3973bcf92afe5" title=" " alt="" coords="216,70,416,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="450,69,416,73,416,68,450,63"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalyzer.html#a3fa33731442d7b4f0877380e5702ac31" title=" " alt="" coords="5,70,168,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,85,168,85,168,80,202,80"/>
+</map>

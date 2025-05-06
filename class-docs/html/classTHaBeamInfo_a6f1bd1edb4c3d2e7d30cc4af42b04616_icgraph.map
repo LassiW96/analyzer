@@ -1,0 +1,12 @@
+<map id="THaBeamInfo::GetM" name="THaBeamInfo::GetM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="444,81,599,107"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamInfo.html#a7cd3e253147eb778df13d7a6311b4276" title=" " alt="" coords="242,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,79,352,33,353,28,474,74"/>
+<area shape="rect" id="Node000003" href="$classTHaEpicsEbeam.html#ac1624d0aba769fb9f4c7c9af8db4f70b" title=" " alt="" coords="5,31,191,56"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="430,86,190,57,191,52,431,81"/>
+<area shape="rect" id="Node000004" href="$classTHaBeamEloss.html#a93e3c7d3d0b091e6cb9c066fc83199cb" title=" " alt="" coords="243,107,392,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,108,393,113,392,107,430,103"/>
+<area shape="rect" id="Node000005" href="$classTHaPrimaryKine.html#a05533cbda4b59d3d22a26c153bc6b88d" title=" " alt="" coords="239,156,396,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="478,114,397,146,360,159,358,153,395,141,476,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,31,191,35,191,30,228,26"/>
+</map>

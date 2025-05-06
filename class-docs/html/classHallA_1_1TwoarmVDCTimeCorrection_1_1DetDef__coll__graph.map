@@ -1,0 +1,19 @@
+<map id="HallA::TwoarmVDCTimeCorrection::DetDef" name="HallA::TwoarmVDCTimeCorrection::DetDef">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,2108,500,2208"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html" title=" " alt="" coords="260,1860,392,2045"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,2045,367,2092,362,2093,349,2047"/>
+<area shape="rect" id="Node000003" href="$classTHaDetectorBase.html" title=" " alt="" coords="231,1128,395,1753"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,1767,326,1860,321,1860,319,1767"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,1027,217,1065,233,1130,228,1131,211,1066,202,1028"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="261,5,330,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,77,233,98,216,121,204,145,199,142,212,119,228,95,248,74"/>
+<area shape="rect" id="Node000007" href="$classTHaVar.html" title=" " alt="" coords="423,450,554,735"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="344,58,381,83,399,100,414,119,435,157,452,198,477,284,491,370,496,450,491,450,486,370,472,285,447,200,430,160,409,121,395,103,378,88,341,63"/>
+<area shape="rect" id="Node000006" href="$classTHaDetMap.html" title=" " alt="" coords="226,400,399,785"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="315,786,315,1111,310,1111,310,786"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="484,736,410,2084,408,2093,403,2092,405,2084,479,735"/>
+<area shape="rect" id="Node000008" href="$classPodd_1_1Variable.html" title=" " alt="" coords="473,1258,649,1623"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="480,736,476,912,478,1009,486,1104,496,1173,510,1242,505,1243,491,1174,481,1104,473,1009,471,912,475,736"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="545,1258,531,1090,501,752,506,751,537,1089,550,1257"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="THaVDC::FindBadTracks" name="THaVDC::FindBadTracks">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,183,80"/>
+<area shape="rect" id="Node000002" href="$classTHaDetector.html#aef428d8f2eb222d16755e9718ab68e39" title=" " alt="" coords="231,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,52,256,31,257,36,156,57"/>
+<area shape="rect" id="Node000003" href="$classTHaApparatus.html#a0cee58abf99cb5e8ef66e7b2221fec04" title=" " alt="" coords="231,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,65,217,65,217,70,183,70"/>
+<area shape="rect" id="Node000004" href="$classTHaTrack.html#aaac4163a71f37a3ff8117a45c595bd02" title=" " alt="" coords="262,104,401,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,77,257,99,256,104,155,83"/>
+</map>

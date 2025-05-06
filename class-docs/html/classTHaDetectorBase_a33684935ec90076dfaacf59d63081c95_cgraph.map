@@ -1,0 +1,7 @@
+<map id="THaDetectorBase::PrintDetMap" name="THaDetectorBase::PrintDetMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,231,31"/>
+<area shape="rect" id="Node000002" href="$classTHaDetMap.html#a56b4066beb9272216e81474ebe0008f5" title=" " alt="" coords="279,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,15,265,15,265,21,231,21"/>
+<area shape="rect" id="Node000003" href="$classTHaDetMap.html#a4d7059a2ad58635b29ca0118e65e1792" title=" " alt="" coords="464,5,621,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,15,450,15,450,21,416,21"/>
+</map>

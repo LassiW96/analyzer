@@ -1,0 +1,7 @@
+<map id="THaBeamInfo::GetQ" name="THaBeamInfo::GetQ">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,157,56"/>
+<area shape="rect" id="Node000002" href="$classTHaRunParameters.html#a1d7f41f5acea7f9ba504ba87bda4e5e3" title=" " alt="" coords="205,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,33,191,29,192,34,158,38"/>
+<area shape="rect" id="Node000003" href="$classTHaBeam.html#a6139df94fcc19cc41c6f7fbef4e10aa7" title=" " alt="" coords="211,55,427,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,48,197,52,197,58,157,54"/>
+</map>

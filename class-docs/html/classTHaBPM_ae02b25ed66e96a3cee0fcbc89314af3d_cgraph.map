@@ -1,0 +1,9 @@
+<map id="THaBPM::LoadData" name="THaBPM::LoadData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,152,56"/>
+<area shape="rect" id="Node000002" href="$classTHaBPM.html#ae17c5af9b7d78e0ea010d3f5784dec38" title=" " alt="" coords="219,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,32,205,26,205,32,152,38"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html#aabc7006188b480f83cc08e9961e3dd94" title=" " alt="" coords="200,55,407,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,48,186,52,186,57,152,54"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="455,5,639,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,15,441,15,441,21,388,21"/>
+</map>

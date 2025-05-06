@@ -1,0 +1,16 @@
+<map id="THaVDCCluster::DoCalcChisquare" name="THaVDCCluster::DoCalcChisquare">
+<area shape="rect" id="Node000001" title=" " alt="" coords="768,88,1009,113"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#ac67032698c2fd5d0407fb58024fb2817" title=" " alt="" coords="497,63,720,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,91,720,88,720,83,755,86"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCCluster.html#a5415d712580f946051a54da00897ab15" title=" " alt="" coords="529,112,689,137"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="754,115,689,121,689,115,754,110"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPoint.html#a076158beb03560203595feab198a4036" title=" " alt="" coords="236,5,447,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,62,401,33,402,28,536,57"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCCluster.html#a9478e32454ee433c4299557410bda8ff" title=" " alt="" coords="246,55,437,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="483,78,437,78,437,73,483,73"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCCluster.html#ae3c37ca8869391463aae45fdcf874ad2" title=" " alt="" coords="233,119,449,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="534,94,498,102,418,122,417,117,497,97,533,88"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCCluster.html#abb3ef2de78fe5e1cb3b0a993097aa13a" title=" " alt="" coords="5,95,185,120"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,92,186,98,185,93,232,87"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="219,126,185,122,186,116,220,121"/>
+</map>

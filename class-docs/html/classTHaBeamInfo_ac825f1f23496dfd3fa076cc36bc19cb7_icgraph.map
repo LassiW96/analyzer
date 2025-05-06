@@ -1,0 +1,7 @@
+<map id="THaBeamInfo::IsOK" name="THaBeamInfo::IsOK">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,31,388,56"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamEloss.html#af419950450971ca62a7ac7c557f6885c" title=" " alt="" coords="9,5,187,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,36,187,31,188,26,225,30"/>
+<area shape="rect" id="Node000003" href="$classTHaEpicsEbeam.html#ac1624d0aba769fb9f4c7c9af8db4f70b" title=" " alt="" coords="5,55,191,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,56,191,60,191,54,224,51"/>
+</map>

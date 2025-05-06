@@ -1,0 +1,24 @@
+<map id="THaDetectorBase::DebugWarning" name="THaDetectorBase::DebugWarning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="923,72,1161,97"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#a37bfdc7e47c4de7c4560ce206a9f7a0f" title=" " alt="" coords="668,33,875,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="921,73,875,68,875,62,921,68"/>
+<area shape="rect" id="Node000011" href="$classTHaDetectorBase.html#aa2d90f5adbc838dd0236cf5278203aba" title=" " alt="" coords="673,97,870,137"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="921,102,870,108,870,102,921,96"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#aab0a00d63c4eea1fbabb506e0d8e3fda" title=" " alt="" coords="439,23,608,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="654,47,608,44,608,39,654,42"/>
+<area shape="rect" id="Node000006" href="$classTHaDetectorBase.html#aeee44c90da995241c8ae4d01fa34cc26" title=" " alt="" coords="427,104,620,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="681,79,574,106,573,101,679,74"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCChamber.html#af62674ec7f1fd7748ac8edbcefbf360e" title=" " alt="" coords="187,5,379,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="424,31,379,28,379,22,425,26"/>
+<area shape="rect" id="Node000005" href="$classTHaVDC.html#a821b1a68bf90a9f280282b1742c0b766" title=" " alt="" coords="5,5,139,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,21,139,21,139,15,173,15"/>
+<area shape="rect" id="Node000007" href="$classTHaBPM.html#a24554caa275690412550fabc64ce7e07" title=" " alt="" coords="215,55,350,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,104,345,83,346,77,448,99"/>
+<area shape="rect" id="Node000008" href="$classTHaRaster.html#a8e29e6e21f92d916c738b9261feb02fa" title=" " alt="" coords="209,104,356,129"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="413,119,356,119,356,114,413,114"/>
+<area shape="rect" id="Node000009" href="$classTHaScintillator.html#a2f2c17f564330b7981b699b25ce465b1" title=" " alt="" coords="195,153,370,179"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="448,135,346,156,345,151,447,130"/>
+<area shape="rect" id="Node000010" href="$classTHaTotalShower.html#a473e7ddd32a752210a1fd90823e37e15" title=" " alt="" coords="191,203,375,228"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="491,139,440,167,380,194,344,205,342,200,378,189,437,162,488,134"/>
+<area shape="poly" id="edge11_Node000011_Node000006" title=" " alt="" coords="659,119,620,119,620,114,659,114"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="HallA::FadcScintillator::DefineVariables" name="HallA::FadcScintillator::DefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,169,143"/>
+<area shape="rect" id="Node000002" href="$classTHaScintillator.html#a3a4ef9d1f5b1d775971c24069e87f323" title=" " alt="" coords="217,83,445,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,111,203,107,204,113,170,116"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1DetectorData.html#ac5c8a38121b895cad07c694df7afb0da" title=" " alt="" coords="511,131,660,171"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="170,125,497,143,497,148,169,130"/>
+<area shape="rect" id="Node000003" href="$classTHaNonTrackingDetector.html#a17dc4c18f972ff12d37b63f516a37599" title=" " alt="" coords="493,16,677,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,81,486,57,488,62,387,86"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#a30c2fb1f58999ee241d06a7cf2d358a4" title=" " alt="" coords="729,69,883,109"/>
+<area shape="poly" id="edge13_Node000002_Node000005" title=" " alt="" coords="446,92,716,88,716,93,446,97"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="392,106,498,129,496,134,390,111"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a8f7b01fc76433831b05ec47d4b04137c" title=" " alt="" coords="729,5,883,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="678,29,716,27,716,32,678,34"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="669,53,717,65,716,70,668,59"/>
+<area shape="rect" id="Node000006" href="$classTHaVarList.html#a7d170b8f3d40fbec2b2dab3cb29eb631" title=" " alt="" coords="935,27,1137,53"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="882,70,962,53,963,58,884,76"/>
+<area shape="rect" id="Node000009" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="944,77,1128,102"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="883,87,931,87,931,92,883,92"/>
+<area shape="rect" id="Node000010" href="$classTHaVarList.html#a160d990bfa67d21436b94dd5ee2c7060" title=" " alt="" coords="1185,102,1379,127"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="883,104,935,112,1057,118,1172,117,1172,123,1057,124,934,117,882,110"/>
+<area shape="rect" id="Node000007" href="$classTHaVarList.html#a3a716e4a45ae65672aea1a0e6176ece2" title=" " alt="" coords="1187,41,1377,66"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1138,43,1174,45,1174,50,1137,48"/>
+<area shape="rect" id="Node000008" href="$classTHaVarList.html#a4c1edbdb0d51e8fa86b430add7657c96" title=" " alt="" coords="1427,78,1553,103"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1354,63,1414,74,1413,80,1353,69"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="1378,101,1413,97,1413,102,1379,106"/>
+<area shape="rect" id="Node000012" href="$classPodd_1_1DetectorData.html#a000be87c4e4f1dc8c312c440e0ce608b" title=" " alt="" coords="725,133,887,173"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="661,149,711,150,711,155,660,154"/>
+</map>

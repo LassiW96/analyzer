@@ -1,0 +1,9 @@
+<map id="Podd::MultiFileRun::StreamInfo::Read" name="Podd::MultiFileRun::StreamInfo::Read">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,148,87"/>
+<area shape="rect" id="Node000002" href="$MultiFileRun_8h.html#ae9f324e7001f50372888610aa6cd8c0f" title=" " alt="" coords="196,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,47,205,32,206,37,149,52"/>
+<area shape="rect" id="Node000003" href="$MultiFileRun_8h.html#a55f8b162f0170aa1afd2fa04ffadb5cd" title=" " alt="" coords="236,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,65,222,65,222,70,148,70"/>
+<area shape="rect" id="Node000004" href="$MultiFileRun_8h.html#a81201450868d4eda3745bda2d7d4b47c" title="Stream has not yet reached EOF." alt="" coords="217,104,321,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,83,206,98,205,103,148,88"/>
+</map>

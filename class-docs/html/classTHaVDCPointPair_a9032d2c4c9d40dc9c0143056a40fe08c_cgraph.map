@@ -1,0 +1,9 @@
+<map id="THaVDCPointPair::HasUsedCluster" name="THaVDCPointPair::HasUsedCluster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,204,87"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCCluster.html#a56363191d93a0d4cee4ccf72c568bb74" title=" " alt="" coords="252,5,463,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,45,278,31,279,36,205,51"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPoint.html#a2e5de9e2addceb94b4d854b6f6238ac2" title=" " alt="" coords="259,55,455,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,65,245,65,245,70,204,70"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPoint.html#a06aa2c4b8c8575d51a3b2041a5edec80" title=" " alt="" coords="260,104,455,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,84,279,99,278,104,204,89"/>
+</map>

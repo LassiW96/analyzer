@@ -1,0 +1,11 @@
+<map id="THaTwoarmVertex::THaTwoarmVertex" name="THaTwoarmVertex::THaTwoarmVertex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,232,71"/>
+<area shape="rect" id="Node000002" href="$classTHaTwoarmVertex.html#a0412786fb814fb51f25a76121996301c" title=" " alt="" coords="280,38,463,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,48,266,48,266,53,232,53"/>
+<area shape="rect" id="Node000003" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="529,13,715,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,39,514,34,515,39,463,44"/>
+<area shape="rect" id="Node000005" href="$classTHaVertexModule.html#a4d70c23a35a8595c16e83b533b7c0a45" title=" " alt="" coords="511,62,733,87"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="463,57,497,60,497,65,463,62"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="781,5,935,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="716,23,768,23,768,28,716,28"/>
+</map>

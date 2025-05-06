@@ -1,0 +1,23 @@
+<map id="Podd/TimeCorrectionModule.h" name="Podd/TimeCorrectionModule.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="337,5,555,31"/>
+<area shape="rect" id="Node000002" href="$THaVDC_8cxx.html" title=" " alt="" coords="5,152,148,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,36,267,53,191,81,161,98,133,117,91,154,87,149,130,113,158,93,189,76,266,48,343,31"/>
+<area shape="rect" id="Node000003" href="$THaVDC_8h.html" title=" " alt="" coords="203,79,329,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,38,296,81,294,76,404,33"/>
+<area shape="rect" id="Node000006" href="$TwoarmVDCTimeCorrection_8h.html" title=" " alt="" coords="557,79,809,104"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="498,32,646,76,644,81,496,37"/>
+<area shape="rect" id="Node000008" href="$THaTriggerTime_8h.html" title=" " alt="" coords="359,79,533,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="449,44,449,79,443,79,443,44"/>
+<area shape="rect" id="Node000010" href="$TimeCorrectionModule_8cxx.html" title=" " alt="" coords="833,79,1067,104"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="541,30,869,76,868,81,540,35"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="224,111,109,154,107,149,222,106"/>
+<area shape="rect" id="Node000004" href="$THaHRS_8cxx.html" title=" " alt="" coords="375,152,517,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,106,418,149,416,154,306,111"/>
+<area shape="rect" id="Node000005" href="$THaVDCPlane_8cxx.html" title=" " alt="" coords="173,152,351,177"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="267,118,265,152,260,152,262,118"/>
+<area shape="rect" id="Node000007" href="$TwoarmVDCTimeCorrection_8cxx.html" title=" " alt="" coords="754,152,1021,177"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="730,106,855,149,853,154,728,111"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="449,118,449,152,443,152,443,118"/>
+<area shape="rect" id="Node000009" href="$THaTriggerTime_8cxx.html" title=" " alt="" coords="541,152,729,177"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="490,106,605,149,603,154,488,111"/>
+</map>

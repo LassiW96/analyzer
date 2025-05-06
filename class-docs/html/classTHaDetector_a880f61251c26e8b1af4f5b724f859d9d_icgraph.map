@@ -1,0 +1,15 @@
+<map id="THaDetector::SetApparatus" name="THaDetector::SetApparatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="701,88,900,113"/>
+<area shape="rect" id="Node000002" href="$classTHaApparatus.html#a12ce1d4bc0623493fd897e127d3702fb" title=" " alt="" coords="441,63,643,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="687,92,643,88,644,83,688,87"/>
+<area shape="rect" id="Node000007" href="$classTHaTotalShower.html#aac59cec18ca9147aff63be05395561ed" title=" " alt="" coords="431,112,653,137"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="688,114,654,117,653,112,687,108"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#a0a14a0a266ae086e018b68a58a6cbef6" title=" " alt="" coords="157,5,383,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,62,330,33,331,28,468,57"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcRasteredBeam.html#a434ac85ee2c01a6c6e8ca76b5f00d5a5" title=" " alt="" coords="175,55,365,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,78,365,78,365,73,427,73"/>
+<area shape="rect" id="Node000006" href="$classHallA_1_1FadcUnRasteredBeam.html#a78d982fcc63e4410999a530051123ed2" title=" " alt="" coords="166,119,374,159"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="468,94,431,102,350,122,348,117,430,97,467,88"/>
+<area shape="rect" id="Node000004" href="$classTHaHRS.html#a94ae5b88d376553abe6c5383b783c2fe" title=" " alt="" coords="5,5,109,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="143,21,110,21,110,15,143,15"/>
+</map>

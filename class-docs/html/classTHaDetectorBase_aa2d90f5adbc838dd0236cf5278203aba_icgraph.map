@@ -1,0 +1,13 @@
+<map id="THaDetectorBase::MultipleHitWarning" name="THaDetectorBase::MultipleHitWarning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,73,676,113"/>
+<area shape="rect" id="Node000002" href="$classTHaDetectorBase.html#aeee44c90da995241c8ae4d01fa34cc26" title=" " alt="" coords="237,80,431,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,95,431,95,431,90,465,90"/>
+<area shape="rect" id="Node000003" href="$classTHaBPM.html#a24554caa275690412550fabc64ce7e07" title=" " alt="" coords="30,5,165,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,78,189,45,149,33,150,28,190,39,287,73"/>
+<area shape="rect" id="Node000004" href="$classTHaRaster.html#a8e29e6e21f92d916c738b9261feb02fa" title=" " alt="" coords="24,55,171,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,84,171,78,171,73,224,78"/>
+<area shape="rect" id="Node000005" href="$classTHaScintillator.html#a2f2c17f564330b7981b699b25ce465b1" title=" " alt="" coords="10,104,185,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="224,106,185,110,185,105,223,101"/>
+<area shape="rect" id="Node000006" href="$classTHaTotalShower.html#a473e7ddd32a752210a1fd90823e37e15" title=" " alt="" coords="5,153,189,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="284,112,190,143,147,156,145,151,189,138,283,107"/>
+</map>

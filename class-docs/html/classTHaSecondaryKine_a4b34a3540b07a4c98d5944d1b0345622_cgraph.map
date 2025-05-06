@@ -1,0 +1,10 @@
+<map id="THaSecondaryKine::Init" name="THaSecondaryKine::Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,54,180,79"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a48b50bddc7fe845f360685ca9c8ce339" title=" " alt="" coords="239,5,392,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,51,224,39,225,45,162,57"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a1e0409fd6e154b23900c8418f3f2e49b" title=" " alt="" coords="228,94,403,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,77,231,89,230,94,164,82"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="451,13,635,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,23,437,23,437,28,392,28"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="279,96,271,86,275,76,290,70,315,67,346,71,358,80,355,84,344,76,315,73,292,75,279,80,277,85,283,92"/>
+</map>

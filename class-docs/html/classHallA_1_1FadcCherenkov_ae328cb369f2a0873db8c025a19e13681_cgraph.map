@@ -1,0 +1,9 @@
+<map id="HallA::FadcCherenkov::~FadcCherenkov" name="HallA::FadcCherenkov::~FadcCherenkov">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#ae80374aa0c9ae67485bd3ce4a06374ce" title=" " alt="" coords="216,5,369,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ae0fe61d359447e226d16bb027d705131" title=" " alt="" coords="417,5,596,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,23,404,23,404,28,370,28"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#a8f7b01fc76433831b05ec47d4b04137c" title=" " alt="" coords="644,5,797,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,23,630,23,630,28,596,28"/>
+</map>

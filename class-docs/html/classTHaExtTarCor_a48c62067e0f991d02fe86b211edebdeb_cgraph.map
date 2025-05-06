@@ -1,0 +1,13 @@
+<map id="THaExtTarCor::THaExtTarCor" name="THaExtTarCor::THaExtTarCor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,212,67"/>
+<area shape="rect" id="Node000002" href="$classTHaExtTarCor.html#a8ad7e986db99cecaa9b09dcd8a6bc862" title=" " alt="" coords="260,42,412,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,52,246,52,246,57,212,57"/>
+<area shape="rect" id="Node000003" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="460,13,647,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,42,446,37,447,42,413,47"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackingModule.html#a3ad3d2d97748acafd2ffc0bc88628950" title=" " alt="" coords="474,63,633,103"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="413,62,461,68,460,73,412,67"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="695,5,848,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="647,23,681,23,681,28,647,28"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackInfo.html#ad9f0ef653723e8ce2cbb68689f4f6e03" title=" " alt="" coords="697,70,846,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="633,80,683,80,683,85,633,85"/>
+</map>

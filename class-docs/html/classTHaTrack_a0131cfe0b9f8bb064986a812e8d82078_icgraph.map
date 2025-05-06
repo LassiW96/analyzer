@@ -1,0 +1,7 @@
+<map id="THaTrack::HasVertex" name="THaTrack::HasVertex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="264,31,421,56"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#a3073bc809268291e920998b831d40814" title=" " alt="" coords="5,5,216,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,36,216,32,217,27,251,31"/>
+<area shape="rect" id="Node000003" href="$classTHaTwoarmVertex.html#a25ba60b5a30145ae6ea7420187d6db2d" title=" " alt="" coords="11,55,210,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,56,211,60,210,54,250,50"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="THaApparatus" name="THaApparatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="355,1112,516,1477"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1DecData.html" title=" " alt="" coords="97,1635,240,2001"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="351,1467,242,1678,238,1676,346,1465"/>
+<area shape="rect" id="Node000006" href="$classTHaBeam.html" title=" " alt="" coords="355,1695,516,1941"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="438,1491,438,1695,433,1695,433,1491"/>
+<area shape="rect" id="Node000012" href="$classTHaSpectrometer.html" title=" " alt="" coords="649,1525,827,2111"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="525,1445,652,1663,647,1665,521,1448"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html" title=" " alt="" coords="337,119,533,1064"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,1078,438,1112,433,1112,433,1078"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="401,5,470,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="438,85,438,119,433,119,433,85"/>
+<area shape="rect" id="Node000005" href="$classTHaDecData.html" title=" " alt="" coords="5,2229,148,2374"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="134,2015,93,2229,88,2228,129,2014"/>
+<area shape="rect" id="Node000007" href="$classTHaIdealBeam.html" title=" " alt="" coords="172,2229,331,2374"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="386,1955,281,2230,276,2228,381,1953"/>
+<area shape="rect" id="Node000008" href="$classTHaRasteredBeam.html" title=" " alt="" coords="355,2259,516,2344"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="438,1955,438,2259,433,2259,433,1955"/>
+<area shape="rect" id="Node000010" href="$classTHaUnRasteredBeam.html" title=" " alt="" coords="541,2179,730,2424"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="494,1953,587,2178,582,2180,489,1955"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcRasteredBeam.html" title=" " alt="" coords="336,2492,519,2557"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="436,2358,431,2492,426,2492,431,2358"/>
+<area shape="rect" id="Node000011" href="$classHallA_1_1FadcUnRasteredBeam.html" title=" " alt="" coords="543,2492,743,2557"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="643,2438,645,2492,640,2492,638,2438"/>
+<area shape="rect" id="Node000013" href="$classTHaHRS.html" title=" " alt="" coords="754,2159,943,2444"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="811,2123,819,2158,813,2159,806,2125"/>
+</map>

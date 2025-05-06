@@ -1,0 +1,7 @@
+<map id="THaElossCorrection::SetMass" name="THaElossCorrection::SetMass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="211,27,360,67"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamEloss.html#a93e3c7d3d0b091e6cb9c066fc83199cb" title=" " alt="" coords="9,5,159,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,37,159,32,159,26,197,32"/>
+<area shape="rect" id="Node000003" href="$classTHaElossCorrection.html#a5a99f10772a476712bfc4a9dfc4a98e5" title=" " alt="" coords="5,55,163,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,62,163,67,162,62,197,57"/>
+</map>

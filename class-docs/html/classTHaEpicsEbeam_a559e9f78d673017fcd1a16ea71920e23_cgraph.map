@@ -1,0 +1,11 @@
+<map id="THaEpicsEbeam::Clear" name="THaEpicsEbeam::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,175,60"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamModule.html#aa46d89ded7555d00e881990dc12f973b" title=" " alt="" coords="223,8,453,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,36,209,32,210,37,175,41"/>
+<area shape="rect" id="Node000004" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="245,59,431,84"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,53,231,58,231,64,174,58"/>
+<area shape="rect" id="Node000003" href="$classTHaBeamInfo.html#a54758c730552b4b1fc611037e467426b" title=" " alt="" coords="501,5,655,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="453,17,488,16,488,22,454,22"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="501,55,655,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="431,70,487,71,487,76,431,76"/>
+</map>

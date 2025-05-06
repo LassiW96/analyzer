@@ -1,0 +1,13 @@
+<map id="THaElossCorrection::HaDensi" name="THaElossCorrection::HaDensi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,23,817,63"/>
+<area shape="rect" id="Node000002" href="$classTHaElossCorrection.html#a77ba2685a9926a7d140125aff461d3fa" title=" " alt="" coords="471,23,620,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="654,46,620,46,620,41,654,41"/>
+<area shape="rect" id="Node000003" href="$classTHaBeamEloss.html#afc63a8bce0c0fd7029bd63ef292c5cdd" title=" " alt="" coords="232,5,423,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,36,422,32,423,26,457,30"/>
+<area shape="rect" id="Node000005" href="$classTHaTrackEloss.html#a284cff303376298f470dbcf790d4fe68" title=" " alt="" coords="234,55,421,80"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="457,56,421,60,421,54,457,50"/>
+<area shape="rect" id="Node000004" href="$classTHaBeamEloss.html#af419950450971ca62a7ac7c557f6885c" title=" " alt="" coords="5,5,184,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,21,184,21,184,15,218,15"/>
+<area shape="rect" id="Node000006" href="$classTHaTrackEloss.html#a767411c1ffc3eec5839329f8b122ce9c" title=" " alt="" coords="7,55,182,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="220,70,182,70,182,65,220,65"/>
+</map>

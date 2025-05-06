@@ -1,0 +1,16 @@
+<map id="THaVDCChamber::ApplyTimeCorrection" name="THaVDCChamber::ApplyTimeCorrection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,219,89"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPlane.html#ab3dea38fcf77acec6ecc3dacf9071532" title=" " alt="" coords="267,56,524,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,66,253,66,253,71,219,71"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCPlane.html#a419abdcd9f9b98dd8a74536309d184ec" title=" " alt="" coords="594,5,757,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="466,53,591,31,592,36,467,59"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPlane.html#af6f3b9cc4b1d8be218ab19023715cabb" title=" " alt="" coords="843,16,1021,41"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="524,58,778,39,829,35,829,41,779,45,524,63"/>
+<area shape="rect" id="Node000005" href="$classTHaVDC.html#a86c2b34e0766f8cff05e20e023b6cb00" title=" " alt="" coords="572,107,779,132"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="467,79,592,102,591,107,466,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="757,19,829,22,829,27,757,24"/>
+<area shape="rect" id="Node000006" href="$classPodd_1_1InterStageModule.html#ae0f84c6924612ea337e5f1a003be3d19" title=" " alt="" coords="843,87,1021,127"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="779,112,829,109,829,115,779,117"/>
+<area shape="rect" id="Node000007" href="$classPodd_1_1TimeCorrectionModule.html#a5412ab0b9b98fb2c3f9b936efddf3f95" title=" " alt="" coords="827,151,1037,191"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="739,129,820,146,819,151,738,135"/>
+</map>

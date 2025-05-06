@@ -1,0 +1,9 @@
+<map id="HallA::MakeFADCData" name="HallA::MakeFADCData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,77,383,102"/>
+<area shape="rect" id="Node000002" href="$classHallA_1_1FadcCherenkov.html#ab1d111a7c3f1f5117fdb0ba631ea399b" title=" " alt="" coords="6,5,169,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,75,154,48,155,43,245,70"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FadcScintillator.html#a146bce6b16faf6e3cdade484b3856d08" title=" " alt="" coords="5,69,169,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,92,170,92,170,87,203,87"/>
+<area shape="rect" id="Node000004" href="$classHallA_1_1FadcShower.html#aa8e92d49d73526063169a09bd530f802" title=" " alt="" coords="12,133,163,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,109,155,136,154,131,243,104"/>
+</map>

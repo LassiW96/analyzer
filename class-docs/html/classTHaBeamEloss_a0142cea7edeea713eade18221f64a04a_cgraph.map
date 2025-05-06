@@ -1,0 +1,15 @@
+<map id="THaBeamEloss::THaBeamEloss" name="THaBeamEloss::THaBeamEloss">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,232,60"/>
+<area shape="rect" id="Node000002" href="$classTHaBeamEloss.html#a3225cb68f45eb18163fe963c1d95502a" title=" " alt="" coords="280,35,443,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,45,266,45,266,50,232,50"/>
+<area shape="rect" id="Node000003" href="$classTHaBeamModule.html#aa46d89ded7555d00e881990dc12f973b" title=" " alt="" coords="491,5,721,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,35,486,30,487,35,443,40"/>
+<area shape="rect" id="Node000005" href="$classTHaElossCorrection.html#a4052b9db56a32ca78873bcced5e24adc" title=" " alt="" coords="531,55,681,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="443,54,518,63,518,68,443,59"/>
+<area shape="rect" id="Node000004" href="$classTHaBeamInfo.html#a54758c730552b4b1fc611037e467426b" title=" " alt="" coords="786,5,939,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="722,15,772,15,772,21,722,21"/>
+<area shape="rect" id="Node000006" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="769,63,956,88"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="681,73,756,73,756,78,681,78"/>
+<area shape="rect" id="Node000007" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="1004,55,1157,95"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="957,73,990,73,990,78,957,78"/>
+</map>

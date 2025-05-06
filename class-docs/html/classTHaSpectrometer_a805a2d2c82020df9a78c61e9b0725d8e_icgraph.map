@@ -1,0 +1,7 @@
+<map id="THaSpectrometer::GetToLabRot" name="THaSpectrometer::GetToLabRot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,31,479,56"/>
+<area shape="rect" id="Node000002" href="$classTHaReactionPoint.html#aa4be07d6f0cd3a9a394d560a7677098e" title=" " alt="" coords="7,5,203,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,34,203,30,203,25,239,28"/>
+<area shape="rect" id="Node000003" href="$classTHaTwoarmVertex.html#a25ba60b5a30145ae6ea7420187d6db2d" title=" " alt="" coords="5,55,204,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,58,204,61,204,56,238,52"/>
+</map>

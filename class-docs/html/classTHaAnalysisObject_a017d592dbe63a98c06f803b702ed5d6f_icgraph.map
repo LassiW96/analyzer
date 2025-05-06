@@ -1,0 +1,14 @@
+<map id="THaAnalysisObject::SetDebug" name="THaAnalysisObject::SetDebug">
+<area shape="rect" id="Node000001" title=" " alt="" coords="465,98,619,138"/>
+<area shape="rect" id="Node000002" href="$classTHaG0Helicity.html#a61ef021d9e3cbeb4c42cc49f0b1532b0" title=" " alt="" coords="215,5,402,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,92,461,67,416,44,382,33,383,28,418,40,464,62,504,87"/>
+<area shape="rect" id="Node000003" href="$classTHaQWEAKHelicity.html#aaf8a873f57e2924dc789cb6f7034a35c" title=" " alt="" coords="200,55,417,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,101,367,83,368,77,452,96"/>
+<area shape="rect" id="Node000004" href="$classTHaVDC.html#a3dfc6d66abf181819636f541d19b749f" title=" " alt="" coords="5,131,152,156"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="452,126,152,142,152,137,451,120"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCChamber.html#ad30bd79fdad6263f79c6d9eb9279d34b" title=" " alt="" coords="205,156,412,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="452,140,368,159,367,153,451,135"/>
+<area shape="rect" id="Node000006" href="$classTHaApparatus.html#a2264ab99c42bb1b0e7da3d8d945bb960" title=" " alt="" coords="207,205,410,231"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="503,148,463,173,418,195,379,208,378,203,416,190,461,168,500,144"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="191,158,152,154,153,149,192,153"/>
+</map>

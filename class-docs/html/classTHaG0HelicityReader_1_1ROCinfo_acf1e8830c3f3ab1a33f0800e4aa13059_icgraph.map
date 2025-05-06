@@ -1,0 +1,15 @@
+<map id="THaG0HelicityReader::ROCinfo::valid" name="THaG0HelicityReader::ROCinfo::valid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="483,73,645,113"/>
+<area shape="rect" id="Node000002" href="$classTHaG0HelicityReader.html#a38ae93b6f913126e056f49d845c64360" title=" " alt="" coords="272,41,435,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,81,434,76,435,70,469,76"/>
+<area shape="rect" id="Node000005" href="$classTHaG0HelicityReader.html#a42e842600fdc36b4d94647277fe4face" title=" " alt="" coords="272,105,435,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,110,435,115,434,110,469,104"/>
+<area shape="rect" id="Node000003" href="$classTHaG0Helicity.html#a7bcdcb18a2947ca09c2e653c2aff1075" title=" " alt="" coords="29,5,201,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,46,186,33,187,28,259,41"/>
+<area shape="rect" id="Node000004" href="$classTHaHelicity.html#aef5eb453bc7e9dd7afdb275964462cbd" title=" " alt="" coords="37,55,192,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="258,66,192,68,192,63,258,61"/>
+<area shape="rect" id="Node000006" href="$classTHaG0Helicity.html#a0d1c5ef9f10de18610a5f5c7e31b80b8" title=" " alt="" coords="5,108,224,133"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="258,126,224,125,224,120,258,120"/>
+<area shape="rect" id="Node000007" href="$classTHaHelicity.html#a64b2e636cc0b2446cf76292424c5f249" title=" " alt="" coords="15,157,215,183"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="259,145,183,160,182,155,258,140"/>
+</map>

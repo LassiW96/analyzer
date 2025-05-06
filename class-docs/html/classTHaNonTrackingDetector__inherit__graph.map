@@ -1,0 +1,29 @@
+<map id="THaNonTrackingDetector" name="THaNonTrackingDetector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="346,2332,558,2617"/>
+<area shape="rect" id="Node000007" href="$classTHaPidDetector.html" title=" " alt="" coords="284,2865,436,2991"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="423,2631,375,2865,370,2864,418,2630"/>
+<area shape="rect" id="Node000013" href="$classTHaScintillator.html" title=" " alt="" coords="505,2665,676,3191"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="502,2629,513,2665,508,2666,497,2631"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometerDetector.html" title=" " alt="" coords="342,2039,562,2284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,2298,455,2332,449,2332,449,2298"/>
+<area shape="rect" id="Node000003" href="$classTHaDetector.html" title=" " alt="" coords="386,1805,518,1991"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,2004,455,2038,449,2038,449,2004"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html" title=" " alt="" coords="370,1112,534,1757"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,1771,455,1805,449,1805,449,1771"/>
+<area shape="rect" id="Node000005" href="$classTHaAnalysisObject.html" title=" " alt="" coords="354,119,550,1064"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="455,1078,455,1112,449,1112,449,1078"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="417,5,487,71"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="455,85,455,119,449,119,449,85"/>
+<area shape="rect" id="Node000008" href="$classTHaCherenkov.html" title=" " alt="" coords="5,3379,163,3684"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="312,3004,243,3113,208,3176,177,3240,149,3309,126,3379,121,3378,144,3307,172,3238,204,3173,239,3110,307,3001"/>
+<area shape="rect" id="Node000010" href="$classTHaShower.html" title=" " alt="" coords="187,3239,354,3824"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="351,3005,317,3239,311,3238,346,3004"/>
+<area shape="rect" id="Node000012" href="$classTHaTotalShower.html" title=" " alt="" coords="379,3299,533,3764"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="375,3004,422,3298,416,3299,369,3004"/>
+<area shape="rect" id="Node000009" href="$classHallA_1_1FadcCherenkov.html" title=" " alt="" coords="7,3872,161,4057"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="87,3698,87,3872,81,3872,81,3698"/>
+<area shape="rect" id="Node000011" href="$classHallA_1_1FadcShower.html" title=" " alt="" coords="200,3872,341,4057"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="273,3838,273,3872,268,3872,268,3838"/>
+<area shape="rect" id="Node000014" href="$classHallA_1_1FadcScintillator.html" title=" " alt="" coords="558,3429,714,3634"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="614,3204,631,3428,626,3429,609,3205"/>
+</map>

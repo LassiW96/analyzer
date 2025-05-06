@@ -1,0 +1,9 @@
+<map id="THaGoldenTrack::Clear" name="THaGoldenTrack::Clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,38,176,63"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html#a8f54046291e399c93a3653403302ea6d" title=" " alt="" coords="224,13,411,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,39,210,35,211,40,176,44"/>
+<area shape="rect" id="Node000004" href="$classTHaTrackInfo.html#ad9f0ef653723e8ce2cbb68689f4f6e03" title=" " alt="" coords="243,62,392,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,57,229,63,229,68,176,62"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#ad34a2a5ab5dd818ed058708baab00e48" title=" " alt="" coords="459,5,612,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,23,445,23,445,28,411,28"/>
+</map>

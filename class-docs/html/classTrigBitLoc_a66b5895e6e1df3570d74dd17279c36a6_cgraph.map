@@ -1,0 +1,12 @@
+<map id="TrigBitLoc::Configure" name="TrigBitLoc::Configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,160,70"/>
+<area shape="rect" id="Node000002" href="$classBdataLoc.html#aac6465c108f3ae1bd2a33da3d24cb218" title=" " alt="" coords="208,19,360,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,45,194,41,195,46,161,50"/>
+<area shape="rect" id="Node000005" href="$classBdataLoc.html#a491f817b320c119a68b5b7de1570bfb9" title=" " alt="" coords="429,70,579,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="160,59,415,75,415,80,160,65"/>
+<area shape="rect" id="Node000003" href="$classBdataLoc.html#a4033d3574f67ebcb2836b8cb31e357a7" title=" " alt="" coords="408,5,600,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,27,394,26,394,31,360,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="341,42,436,64,434,69,340,47"/>
+<area shape="rect" id="Node000004" href="$classBdataLoc.html#a8e9798f8fd4e5862da1996c6253a348e" title=" " alt="" coords="648,13,820,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="600,23,634,23,634,28,600,28"/>
+</map>

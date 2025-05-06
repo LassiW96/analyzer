@@ -1,0 +1,9 @@
+<map id="THaRaster::LoadData" name="THaRaster::LoadData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,165,56"/>
+<area shape="rect" id="Node000002" href="$classTHaRaster.html#a4a871db1bf91383b23000f490e92e0b0" title=" " alt="" coords="225,5,408,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,32,211,27,212,32,166,37"/>
+<area shape="rect" id="Node000004" href="$classTHaDetectorBase.html#aabc7006188b480f83cc08e9961e3dd94" title=" " alt="" coords="213,55,420,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,49,200,53,199,58,165,54"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html#a42786c584e2b128f6004edb4f0f60b44" title=" " alt="" coords="468,5,652,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,15,454,15,454,21,408,21"/>
+</map>

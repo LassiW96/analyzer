@@ -1,0 +1,19 @@
+<map id="THaVDCChamber::CalcDetCoords" name="THaVDCChamber::CalcDetCoords">
+<area shape="rect" id="Node000001" title=" " alt="" coords="793,121,1032,146"/>
+<area shape="rect" id="Node000002" href="$classTHaVDCPoint.html#a697d0c9f7117edc720eb4a28be959455" title=" " alt="" coords="511,83,725,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="798,122,718,111,719,106,799,116"/>
+<area shape="rect" id="Node000007" href="$classTHaVDCChamber.html#a726aadaa85ad60fe2727abbd95676ca1" title=" " alt="" coords="491,145,745,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="780,147,746,150,745,144,779,141"/>
+<area shape="rect" id="Node000003" href="$classTHaVDCChamber.html#a962373e76d603168a3feb274cb08c97c" title=" " alt="" coords="229,5,433,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="551,82,413,48,414,43,552,77"/>
+<area shape="rect" id="Node000004" href="$classTHaVDCPoint.html#ad142e54bf6672e3df3c76ce0bce8f3b4" title=" " alt="" coords="241,70,422,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="498,93,422,90,422,84,498,88"/>
+<area shape="rect" id="Node000006" href="$classTHaVDCPoint.html#a42feef288d9be19ab1eacaa5d3ae742e" title=" " alt="" coords="229,119,433,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="503,113,433,122,433,117,503,108"/>
+<area shape="rect" id="Node000005" href="$classTHaVDCPointPair.html#a1ac8c30b9fcddb996f4d87c7fefc0363" title=" " alt="" coords="5,70,172,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,85,172,85,172,80,227,80"/>
+<area shape="rect" id="Node000008" href="$classTHaVDCChamber.html#a7152794cc60c7b97c801361530272cc1" title=" " alt="" coords="220,169,443,194"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="477,172,443,175,443,169,477,166"/>
+<area shape="rect" id="Node000009" href="$classTHaVDC.html#af2e85222a4d004d2b909eb53e281e99d" title=" " alt="" coords="7,169,170,194"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="206,184,170,184,170,179,206,179"/>
+</map>

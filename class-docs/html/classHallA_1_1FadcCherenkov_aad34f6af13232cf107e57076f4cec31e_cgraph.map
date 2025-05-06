@@ -1,0 +1,30 @@
+<map id="HallA::FadcCherenkov::StoreHit" name="HallA::FadcCherenkov::StoreHit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,168,113"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1PMTData.html#ac7f4ffa4d028c237a0f0c6514bca2aa6" title=" " alt="" coords="219,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,70,215,39,242,32,243,37,217,45,136,75"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FADCData.html#a5cfea1bd0c7741633a4e1d7099dbd1d4" title=" " alt="" coords="216,55,408,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,81,202,77,203,82,169,86"/>
+<area shape="rect" id="Node000004" href="$classTHaCherenkov.html#adfe6d4eaf73dd5f8f153f9e3918751cd" title=" " alt="" coords="223,104,401,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,99,210,103,210,108,168,104"/>
+<area shape="rect" id="Node000007" href="$classHallA_1_1FADCData.html#a1cc2f88fbb49d594d4ac78c3c8bb95d0" title=" " alt="" coords="217,211,407,236"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="124,110,278,201,275,206,121,115"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1PMTData.html#a608cd02bc801a2c18612a34a7f8def6d" title=" " alt="" coords="465,55,645,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,101,477,80,479,85,376,107"/>
+<area shape="rect" id="Node000006" href="$classTHaDetectorBase.html#a2ab6028470412aad3f6b668023a348da" title=" " alt="" coords="456,104,653,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="401,114,442,114,442,119,401,119"/>
+<area shape="rect" id="Node000008" href="$namespaceHallA.html#a943bee16f06e50c5e5249def7fcd89c9" title=" " alt="" coords="475,153,634,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="366,208,487,179,488,184,367,213"/>
+<area shape="rect" id="Node000009" href="$classPodd_1_1DetectorData.html#a5f64134887996ef68b052bb7e12e8298" title=" " alt="" coords="479,203,631,243"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="407,221,465,221,465,226,407,226"/>
+<area shape="rect" id="Node000011" href="$classPodd_1_1DetectorData.html#a7df741acf2f51ed575fb9e0a0688b22f" title=" " alt="" coords="701,268,887,293"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="362,233,456,253,576,266,688,274,688,279,576,272,456,258,361,239"/>
+<area shape="rect" id="Node000012" href="$classstd_1_1experimental_1_1optional.html#a0e74793257ebfb49aafb223c8c6e3634" title=" " alt="" coords="482,318,627,358"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="337,234,457,297,488,310,486,315,455,302,334,239"/>
+<area shape="rect" id="Node000010" href="$classPodd_1_1DetectorData.html#acc8619d366c610a9d1dd9f0df0b05f21" title=" " alt="" coords="719,203,869,243"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="631,221,706,221,706,226,631,226"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="632,239,728,262,726,267,630,244"/>
+<area shape="rect" id="Node000013" href="$classstd_1_1experimental_1_1optional.html#a0ae5252bfc135e0613d8cd4530ffafed" title=" " alt="" coords="707,318,881,358"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="628,335,693,335,693,341,628,341"/>
+<area shape="rect" id="Node000014" href="$classstd_1_1experimental_1_1optional.html#ac36aefeb327e3cc2f7f06e6c3babccb8" title=" " alt="" coords="721,382,867,422"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="628,355,708,376,707,382,627,360"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Podd::DetectorData::StdDefineVariables" name="Podd::DetectorData::StdDefineVariables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="323,47,476,87"/>
+<area shape="rect" id="Node000002" href="$classHallA_1_1FADCData.html#ae8ce7651595cc35680e08bb873830b8f" title=" " alt="" coords="5,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,51,274,45,213,33,214,28,275,39,309,46"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1ADCData.html#abc11dacb58234428933b36f205f32ed7" title=" " alt="" coords="10,55,270,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,70,270,70,270,65,309,65"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1PMTData.html#a4ad8e2deed328522769cccc41f560075" title=" " alt="" coords="10,104,270,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,87,275,94,209,107,208,101,274,89,308,82"/>
+</map>

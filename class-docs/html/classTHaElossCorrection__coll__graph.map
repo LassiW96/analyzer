@@ -1,0 +1,11 @@
+<map id="THaElossCorrection" name="THaElossCorrection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,1403,336,2068"/>
+<area shape="rect" id="Node000002" href="$classTHaPhysicsModule.html" title=" " alt="" coords="17,1115,190,1340"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,1353,161,1422,156,1423,136,1354"/>
+<area shape="rect" id="Node000003" href="$classTHaAnalysisObject.html" title=" " alt="" coords="5,120,201,1065"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,1079,106,1115,101,1115,101,1079"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="69,5,138,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,85,106,120,101,120,101,85"/>
+<area shape="rect" id="Node000005" href="$classTHaVertexModule.html" title=" " alt="" coords="214,1115,379,1340"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="288,1340,284,1386,279,1386,283,1340"/>
+</map>

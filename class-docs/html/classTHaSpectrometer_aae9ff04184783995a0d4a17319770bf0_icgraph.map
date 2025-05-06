@@ -1,0 +1,9 @@
+<map id="THaSpectrometer::CoarseTrack" name="THaSpectrometer::CoarseTrack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="816,5,1039,31"/>
+<area shape="rect" id="Node000002" href="$classTHaSpectrometer.html#a31c719f17f5f0139c79cd93ecb20ccd4" title=" " alt="" coords="501,5,768,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="802,21,768,21,768,15,802,15"/>
+<area shape="rect" id="Node000003" href="$classTHaSpectrometer.html#aee6c2dfa7978d6e8a03eb106cc745f87" title=" " alt="" coords="275,5,453,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="488,21,453,21,453,15,488,15"/>
+<area shape="rect" id="Node000004" href="$classTHaSpectrometer.html#ac16dfbeb69557e2d56a9476758ce25a6" title=" " alt="" coords="5,5,227,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="261,21,227,21,227,15,261,15"/>
+</map>

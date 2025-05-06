@@ -1,0 +1,9 @@
+<map id="THaFormula::Eval" name="THaFormula::Eval">
+<area shape="rect" id="Node000001" title=" " alt="" coords="387,31,524,56"/>
+<area shape="rect" id="Node000002" href="$classTHaFormula.html#af2103a4812e3fe7e1ede13c06c088e53" title=" " alt="" coords="197,5,334,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,35,334,30,335,24,373,30"/>
+<area shape="rect" id="Node000003" href="$classTHaVform.html#a8eee1057765873ffdd8230d22ffb945e" title=" " alt="" coords="192,55,339,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="373,56,340,61,339,55,373,51"/>
+<area shape="rect" id="Node000004" href="$classTHaVhist.html#a6606c7404c283bd0be3de8598bef3ad9" title=" " alt="" coords="5,55,144,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="178,70,145,70,145,65,178,65"/>
+</map>

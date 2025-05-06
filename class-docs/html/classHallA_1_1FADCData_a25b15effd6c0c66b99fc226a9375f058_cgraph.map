@@ -1,0 +1,7 @@
+<map id="HallA::FADCData::ReadConfig" name="HallA::FADCData::ReadConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,217,70"/>
+<area shape="rect" id="Node000002" href="$classTHaAnalysisObject.html#a254dd05d219a4e309f465afac40977c1" title=" " alt="" coords="265,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,42,251,35,252,40,204,47"/>
+<area shape="rect" id="Node000003" href="$classHallA_1_1FADCConfig__t.html#acd24e0b61450ec52652eca41a50cf759" title=" " alt="" coords="266,69,418,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,67,253,74,252,80,203,73"/>
+</map>

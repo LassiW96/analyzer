@@ -1,0 +1,11 @@
+<map id="HallA::TwoarmVDCTimeCorrection" name="HallA::TwoarmVDCTimeCorrection">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1639,241,1904"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1TimeCorrectionModule.html" title=" " alt="" coords="22,1385,225,1591"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,1605,126,1638,121,1638,121,1605"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1InterStageModule.html" title=" " alt="" coords="39,1112,208,1337"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,1351,126,1385,121,1385,121,1351"/>
+<area shape="rect" id="Node000004" href="$classTHaAnalysisObject.html" title=" " alt="" coords="25,119,221,1064"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,1078,126,1112,121,1112,121,1078"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,5,158,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="126,85,126,119,121,119,121,85"/>
+</map>

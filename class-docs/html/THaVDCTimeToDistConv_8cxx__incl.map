@@ -1,0 +1,13 @@
+<map id="HallA/THaVDCTimeToDistConv.cxx" name="HallA/THaVDCTimeToDistConv.cxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,5,273,31"/>
+<area shape="rect" id="Node000002" href="$THaVDCTimeToDistConv_8h.html" title=" " alt="" coords="53,79,247,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,31,153,65,147,65,147,31"/>
+<area shape="rect" id="Node000003" href="$DataType_8h.html" title=" " alt="" coords="52,152,147,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,106,118,142,113,139,139,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="171,152,233,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="161,103,188,139,183,142,156,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,225,84,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,179,64,216,60,213,88,176"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="108,225,200,251"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="110,176,139,213,135,216,106,179"/>
+</map>

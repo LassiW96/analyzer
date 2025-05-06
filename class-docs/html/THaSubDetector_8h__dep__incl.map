@@ -1,0 +1,24 @@
+<map id="Podd/THaSubDetector.h" name="Podd/THaSubDetector.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="607,5,781,31"/>
+<area shape="rect" id="Node000002" href="$THaVDCChamber_8h.html" title=" " alt="" coords="471,152,656,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,39,628,57,603,80,580,118,569,153,564,151,576,116,599,77,625,53,654,35"/>
+<area shape="rect" id="Node000008" href="$THaVDCPlane_8h.html" title=" " alt="" coords="613,79,775,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="697,44,697,79,691,79,691,44"/>
+<area shape="rect" id="Node000010" href="$THaSubDetector_8cxx.html" title=" " alt="" coords="800,79,991,104"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="740,33,863,76,862,81,739,38"/>
+<area shape="rect" id="Node000003" href="$THaVDC_8cxx.html" title=" " alt="" coords="228,225,371,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,183,343,228,341,223,507,178"/>
+<area shape="rect" id="Node000004" href="$THaVDCChamber_8cxx.html" title=" " alt="" coords="594,225,794,251"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="598,182,674,223,671,227,595,186"/>
+<area shape="rect" id="Node000005" href="$THaVDCPlane_8cxx.html" title=" " alt="" coords="818,225,997,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="632,177,852,223,851,228,631,183"/>
+<area shape="rect" id="Node000006" href="$THaVDCPoint_8cxx.html" title=" " alt="" coords="395,225,569,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="542,188,497,227,494,223,538,184"/>
+<area shape="rect" id="Node000007" href="$THaVDCPointPair_8cxx.html" title=" " alt="" coords="5,225,204,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="477,182,179,228,178,223,476,177"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="662,113,586,154,583,149,659,108"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="697,118,697,225,691,225,691,118"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="712,114,738,145,772,175,822,203,870,223,869,228,819,208,768,179,734,149,708,117"/>
+<area shape="rect" id="Node000009" href="$THaVDCCluster_8cxx.html" title=" " alt="" coords="782,152,969,177"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="737,106,847,149,845,154,735,111"/>
+</map>

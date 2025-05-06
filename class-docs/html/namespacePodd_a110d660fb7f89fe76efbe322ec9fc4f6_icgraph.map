@@ -1,0 +1,11 @@
+<map id="Podd::StoreADC" name="Podd::StoreADC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="675,31,799,56"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1ADCData.html#a60c8118038bbfb2f3826a47d99bf90f9" title=" " alt="" coords="444,5,627,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="661,37,627,32,627,27,662,31"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1PMTData.html#a8706b12c6ffd8d26b5eb527c0c21f18e" title=" " alt="" coords="444,55,627,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="662,55,627,59,627,54,661,50"/>
+<area shape="rect" id="Node000004" href="$classTHaScintillator.html#a3cd0317f3f0e9c0851c2ad78762d61a8" title=" " alt="" coords="217,55,396,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="430,70,396,70,396,65,430,65"/>
+<area shape="rect" id="Node000005" href="$classHallA_1_1FadcScintillator.html#a0a969ffa19a4e86dbc8346fd94dede19" title=" " alt="" coords="5,47,169,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="204,70,169,70,169,65,204,65"/>
+</map>

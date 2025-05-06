@@ -1,0 +1,11 @@
+<map id="Podd::SeqCollectionVar" name="Podd::SeqCollectionVar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="130,439,294,704"/>
+<area shape="rect" id="Node000003" href="$classPodd_1_1SeqCollectionMethodVar.html" title=" " alt="" coords="5,762,219,867"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,718,136,763,131,761,150,716"/>
+<area shape="rect" id="Node000004" href="$classPodd_1_1VectorObjVar.html" title=" " alt="" coords="243,752,381,877"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,716,289,751,284,753,269,718"/>
+<area shape="rect" id="Node000002" href="$classPodd_1_1Variable.html" title=" " alt="" coords="124,5,300,391"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,405,215,438,209,438,209,405"/>
+<area shape="rect" id="Node000005" href="$classPodd_1_1VectorObjMethodVar.html" title=" " alt="" coords="219,925,405,1031"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="315,891,315,925,309,925,309,891"/>
+</map>
