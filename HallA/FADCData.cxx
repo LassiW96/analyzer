@@ -126,10 +126,13 @@ OptUInt_t FADCData::LoadFADCData( const DigitizerHitInfo_t& hitinfo )
 {
   // Retrieve "pulse integral" value from FADC channel given in 'hitinfo'
 
+  std::cout << "LoadFADC - line1" << std::endl;
   auto* fadc = dynamic_cast<Fadc250Module*>(hitinfo.module);
+  std::cout << "LoadFADC - line2" << std::endl;
   if( !fadc )
     throw logic_error("Bad module type (expected Fadc250Module). "
                       "Should never happen. Call expert.");
+                      std::cout << "LoadFADC - line3" << std::endl;
 
   return GetFADCValue( kPulseIntegral, hitinfo, fadc );
 }
